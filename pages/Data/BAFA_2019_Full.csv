@@ -1,0 +1,309 @@
+Game_Date,Game_Time,Home_Team,Away_Team,Home_Score,Away_Score,Division,Travel_km,lat_d,lon_d,lat_o,lon_o,Temp,Humidity,Windspeed,Visibility,Precipitation,Cast
+28/07/19,14:00,Edinburgh Wolves,Leicester Falcons,47,6,Premiership North,495,55.93187,-3.155042,52.619451,-1.233344,62.7,97.3,12.5,3.8,0.14,rain
+28/07/19,14:00,Manchester Titans,Tamworth Phoenix,17,21,Premiership North,154,53.460289,-2.191432,52.485268,-1.702471,58.1,98.2,12.7,6.8,1.37,rain
+28/07/19,14:00,Sheffield Giants,Merseyside Nighthawks,22,22,Premiership North,113,53.341299,-1.465504,53.545317,-2.811076,58.0,98.2,10.6,6.9,1.04,rain
+21/07/19,14:30,Merseyside Nighthawks,Tamworth Phoenix,6,30,Premiership North,167,53.545317,-2.811076,52.485268,-1.702471,64.6,74.2,17.7,24.3,0.0,partly-cloudy-day
+21/07/19,14:00,Leicester Falcons,Manchester Titans,6,38,Premiership North,171,52.619451,-1.233344,53.460289,-2.191432,63.2,73.2,10.9,24.2,0.0,partly-cloudy-day
+07/07/19,14:30,Merseyside Nighthawks,Leicester Falcons,50,0,Premiership North,184,53.545317,-2.811076,52.619451,-1.233344,58.6,75.0,10.8,18.3,0.0,clear-day
+07/07/19,14:00,Manchester Titans,Sheffield Giants,49,30,Premiership North,75,53.460289,-2.191432,53.341299,-1.465504,57.6,72.9,8.2,16.7,0.0,partly-cloudy-day
+06/07/19,15:00,Tamworth Phoenix,Edinburgh Wolves,48,0,Premiership North,470,52.485268,-1.702471,55.93187,-3.155042,52.2,87.8,12.7,13.3,0.56,rain
+30/06/19,14:00,Edinburgh Wolves,Manchester Titans,17,6,Premiership North,337,55.93187,-3.155042,53.460289,-2.191432,60.6,80.2,20.8,13.1,0.08,rain
+23/06/19,15:00,Manchester Titans,Merseyside Nighthawks,43,30,Premiership North,50,53.460289,-2.191432,53.545317,-2.811076,60.2,75.2,12.8,18.9,0.0,partly-cloudy-day
+23/06/19,14:00,Sheffield Giants,Edinburgh Wolves,33,8,Premiership North,415,53.341299,-1.465504,55.93187,-3.155042,58.0,81.8,13.9,14.7,0.0,partly-cloudy-day
+23/06/19,13:00,Leicester Falcons,Tamworth Phoenix,7,28,Premiership North,39,52.619451,-1.233344,52.485268,-1.702471,60.6,80.6,11.6,15.0,0.0,partly-cloudy-day
+16/06/19,14:30,Leicester Falcons,Edinburgh Wolves,10,0,Premiership North,495,52.619451,-1.233344,55.93187,-3.155042,55.8,81.3,13.4,19.4,0.06,rain
+16/06/19,14:30,Merseyside Nighthawks,Sheffield Giants,20,0,Premiership North,113,53.545317,-2.811076,53.341299,-1.465504,56.0,77.7,19.4,22.5,0.08,rain
+15/06/19,16:00,Tamworth Phoenix,Manchester Titans,0,21,Premiership North,154,52.485268,-1.702471,53.460289,-2.191432,53.9,83.1,13.4,19.1,0.1,rain
+09/06/19,14:00,Edinburgh Wolves,Merseyside Nighthawks,12,33,Premiership North,320,55.93187,-3.155042,53.545317,-2.811076,56.3,78.1,21.4,14.1,0.02,rain
+09/06/19,14:00,Sheffield Giants,Leicester Falcons,14,12,Premiership North,98,53.341299,-1.465504,52.619451,-1.233344,54.3,82.0,17.2,12.6,0.09,rain
+01/06/19,18:00,Tamworth Phoenix,Leicester Falcons,42,9,Premiership North,39,52.485268,-1.702471,52.619451,-1.233344,44.2,82.9,9.3,11.0,0.0,cloudy
+26/05/19,14:00,Manchester Titans,Edinburgh Wolves,14,0,Premiership North,337,53.460289,-2.191432,55.93187,-3.155042,57.9,80.5,20.3,17.7,0.1,rain
+25/05/19,16:00,Tamworth Phoenix,Sheffield Giants,22,12,Premiership North,117,52.485268,-1.702471,53.341299,-1.465504,61.2,67.9,10.4,21.5,0.0,partly-cloudy-day
+19/05/19,14:30,Merseyside Nighthawks,Manchester Titans,50,33,Premiership North,50,53.545317,-2.811076,53.460289,-2.191432,53.6,82.6,11.3,21.2,0.0,partly-cloudy-day
+19/05/19,14:00,Edinburgh Wolves,Tamworth Phoenix,0,50,Premiership North,470,55.93187,-3.155042,52.485268,-1.702471,53.4,86.4,9.9,18.4,0.04,rain
+12/05/19,14:30,Merseyside Nighthawks,Edinburgh Wolves,33,14,Premiership North,320,53.545317,-2.811076,55.93187,-3.155042,42.3,85.7,29.9,13.0,0.0,partly-cloudy-day
+12/05/19,14:00,Sheffield Giants,Manchester Titans,0,6,Premiership North,75,53.341299,-1.465504,53.460289,-2.191432,36.1,90.9,24.6,10.4,0.0,partly-cloudy-day
+05/05/19,16:00,Tamworth Phoenix,Merseyside Nighthawks,34,6,Premiership North,167,52.485268,-1.702471,53.545317,-2.811076,43.4,69.8,9.5,17.7,0.0,partly-cloudy-day
+05/05/19,15:00,Manchester Titans,Leicester Falcons,49,16,Premiership North,171,53.460289,-2.191432,52.619451,-1.233344,41.1,72.3,13.2,20.2,0.0,partly-cloudy-day
+05/05/19,14:00,Edinburgh Wolves,Sheffield Giants,16,15,Premiership North,415,55.93187,-3.155042,53.341299,-1.465504,42.6,61.2,10.7,13.8,0.0,cloudy
+28/04/19,14:00,Leicester Falcons,Merseyside Nighthawks,18,23,Premiership North,184,52.619451,-1.233344,53.545317,-2.811076,45.8,78.1,15.4,17.3,0.04,rain
+21/04/19,14:00,Sheffield Giants,Tamworth Phoenix,6,28,Premiership North,117,53.341299,-1.465504,52.485268,-1.702471,59.4,51.1,9.8,10.9,0.0,clear-day
+14/04/19,14:00,Leicester Falcons,Sheffield Giants,21,8,Premiership North,98,52.619451,-1.233344,53.341299,-1.465504,33.7,69.8,13.3,17.1,0.0,partly-cloudy-day
+28/07/19,14:30,Kent Exiles,Rushmoor Knights,19,0,Premiership South,102,51.418042,0.089663,51.299533,-0.778626,64.3,73.0,13.4,25.0,0.0,partly-cloudy-day
+28/07/19,14:00,Bristol Aztecs,London Warriors,0,55,Premiership South,203,51.51264,-2.555479,51.391342,-0.089445,63.1,69.6,14.6,20.7,0.0,partly-cloudy-day
+28/07/19,13:30,London Blitz,London Olympians,15,14,Premiership South,25,51.574647,-0.103116,51.458428,0.046926,65.3,70.6,13.9,25.2,0.0,clear-day
+21/07/19,15:30,London Blitz,Kent Exiles,42,0,Premiership South,26,51.574647,-0.103116,51.418042,0.089663,65.2,69.0,13.1,25.4,0.0,clear-day
+21/07/19,14:00,Bristol Aztecs,Rushmoor Knights,30,0,Premiership South,154,51.51264,-2.555479,51.299533,-0.778626,62.7,77.7,11.6,24.7,0.0,partly-cloudy-day
+21/07/19,14:00,London Warriors,London Olympians,58,0,Premiership South,16,51.391342,-0.089445,51.458428,0.046926,63.6,72.8,12.5,26.2,0.0,partly-cloudy-day
+07/07/19,15:00,Kent Exiles,London Warriors,0,80,Premiership South,13,51.418042,0.089663,51.391342,-0.089445,61.5,79.2,7.2,15.2,0.12,rain
+07/07/19,14:30,London Olympians,Bristol Aztecs,10,11,Premiership South,240,51.458428,0.046926,51.51264,-2.555479,62.1,77.3,7.4,15.4,0.15,rain
+30/06/19,14:00,Bristol Aztecs,London Blitz,8,20,Premiership South,195,51.51264,-2.555479,51.574647,-0.103116,62.3,76.0,13.9,18.8,0.0,partly-cloudy-day
+30/06/19,14:00,Kent Exiles,London Olympians,8,28,Premiership South,4,51.418042,0.089663,51.458428,0.046926,66.8,67.8,13.7,18.5,0.0,clear-day
+23/06/19,16:00,London Blitz,London Warriors,7,54,Premiership South,25,51.574647,-0.103116,51.391342,-0.089445,65.2,71.6,13.1,14.6,0.0,clear-day
+23/06/19,15:00,Kent Exiles,Bristol Aztecs,17,12,Premiership South,238,51.418042,0.089663,51.51264,-2.555479,64.0,74.4,11.0,14.4,0.0,partly-cloudy-day
+23/06/19,14:30,London Olympians,Rushmoor Knights,68,6,Premiership South,104,51.458428,0.046926,51.299533,-0.778626,64.6,73.1,11.4,14.4,0.0,partly-cloudy-day
+16/06/19,14:30,London Olympians,London Warriors,7,54,Premiership South,16,51.458428,0.046926,51.391342,-0.089445,58.6,78.6,17.6,18.2,0.07,rain
+16/06/19,14:00,Rushmoor Knights,Kent Exiles,28,13,Premiership South,102,51.299533,-0.778626,51.418042,0.089663,57.2,83.3,20.6,17.8,0.03,rain
+09/06/19,14:00,Rushmoor Knights,Bristol Aztecs,9,26,Premiership South,154,51.299533,-0.778626,51.51264,-2.555479,54.2,83.2,17.2,18.6,0.08,rain
+02/06/19,14:00,Bristol Aztecs,London Olympians,36,20,Premiership South,240,51.51264,-2.555479,51.458428,0.046926,42.6,92.3,12.1,8.4,0.25,rain
+02/06/19,14:00,Rushmoor Knights,London Warriors,0,70,Premiership South,67,51.299533,-0.778626,51.391342,-0.089445,44.5,92.8,14.9,8.8,0.09,rain
+26/05/19,14:00,London Warriors,Kent Exiles,71,6,Premiership South,13,51.391342,-0.089445,51.418042,0.089663,61.8,75.3,15.0,25.6,0.01,rain
+26/05/19,14:00,Rushmoor Knights,London Blitz,0,33,Premiership South,71,51.299533,-0.778626,51.574647,-0.103116,59.9,80.1,15.1,27.3,0.01,rain
+19/05/19,14:00,Kent Exiles,London Blitz,7,42,Premiership South,26,51.418042,0.089663,51.574647,-0.103116,55.5,79.2,6.2,7.0,0.0,partly-cloudy-day
+19/05/19,14:00,London Warriors,Bristol Aztecs,38,0,Premiership South,203,51.391342,-0.089445,51.51264,-2.555479,55.2,79.8,6.4,6.7,0.0,partly-cloudy-day
+19/05/19,14:00,Rushmoor Knights,London Olympians,13,39,Premiership South,104,51.299533,-0.778626,51.458428,0.046926,54.3,80.5,10.1,12.0,0.0,partly-cloudy-day
+12/05/19,14:30,London Olympians,London Blitz,14,21,Premiership South,25,51.458428,0.046926,51.574647,-0.103116,36.6,90.2,16.5,7.8,0.01,rain
+12/05/19,14:00,Bristol Aztecs,Kent Exiles,0,9,Premiership South,238,51.51264,-2.555479,51.418042,0.089663,36.8,92.4,15.1,8.5,0.0,partly-cloudy-day
+05/05/19,14:30,London Olympians,Kent Exiles,33,23,Premiership South,4,51.458428,0.046926,51.418042,0.089663,43.6,61.6,10.3,18.7,0.01,rain
+05/05/19,14:00,London Warriors,London Blitz,46,15,Premiership South,25,51.391342,-0.089445,51.574647,-0.103116,42.2,63.9,10.7,18.8,0.02,rain
+28/04/19,13:30,London Blitz,Rushmoor Knights,41,0,Premiership South,71,51.574647,-0.103116,51.299533,-0.778626,48.7,64.3,14.7,23.1,0.01,rain
+21/04/19,15:30,London Blitz,Bristol Aztecs,33,2,Premiership South,195,51.574647,-0.103116,51.51264,-2.555479,60.4,48.6,11.5,11.8,0.0,clear-day
+21/04/19,14:00,London Warriors,Rushmoor Knights,85,0,Premiership South,67,51.391342,-0.089445,51.299533,-0.778626,59.2,51.5,8.3,12.9,0.0,clear-day
+28/07/19,14:00,Northumberland Vikings,Aberdeen Roughnecks,16,6,NFC 1 North,391,55.029045,-1.703227,57.17318,-2.132683,63.4,97.2,11.4,5.1,0.02,rain
+28/07/19,13:45,Yorkshire Rams,Glasgow Tigers,15,12,NFC 1 North,368,53.764305,-1.541945,55.849959,-4.307464,60.3,95.7,11.9,5.1,0.71,rain
+21/07/19,15:00,East Kilbride Pirates,Northumberland Vikings,0,5,NFC 1 North,248,55.808665,-4.280777,55.029045,-1.703227,60.5,84.8,16.2,10.4,0.09,rain
+21/07/19,13:00,Glasgow Tigers,Gateshead Senators,40,0,NFC 1 North,261,55.849959,-4.307464,54.967108,-1.496677,60.5,84.9,16.2,8.9,0.08,rain
+07/07/19,16:00,Northumberland Vikings,Yorkshire Rams,22,0,NFC 1 North,179,55.029045,-1.703227,53.764305,-1.541945,52.4,82.0,11.4,6.2,0.0,partly-cloudy-day
+07/07/19,14:00,Aberdeen Roughnecks,Glasgow Tigers,28,3,NFC 1 North,244,57.17318,-2.132683,55.849959,-4.307464,50.8,75.4,19.0,6.5,0.04,rain
+07/07/19,12:00,Gateshead Senators,East Kilbride Pirates,14,53,NFC 1 North,258,54.967108,-1.496677,55.808665,-4.280777,52.7,80.9,10.5,9.4,0.0,partly-cloudy-day
+30/06/19,16:00,East Kilbride Pirates,Aberdeen Roughnecks,52,6,NFC 1 North,246,55.808665,-4.280777,57.17318,-2.132683,59.2,83.2,21.1,7.9,0.09,rain
+30/06/19,12:00,Glasgow Tigers,Northumberland Vikings,0,42,NFC 1 North,252,55.849959,-4.307464,55.029045,-1.703227,59.3,83.1,21.3,7.1,0.1,rain
+23/06/19,15:30,Yorkshire Rams,East Kilbride Pirates,23,34,NFC 1 North,363,53.764305,-1.541945,55.808665,-4.280777,57.0,81.6,12.8,9.4,0.0,partly-cloudy-day
+23/06/19,14:00,Aberdeen Roughnecks,Gateshead Senators,56,0,NFC 1 North,406,57.17318,-2.132683,54.967108,-1.496677,56.5,78.5,15.8,6.3,0.0,clear-day
+16/06/19,14:30,East Kilbride Pirates,Glasgow Tigers,39,7,NFC 1 North,9,55.808665,-4.280777,55.849959,-4.307464,54.7,74.5,15.0,9.8,0.0,partly-cloudy-day
+16/06/19,14:00,Gateshead Senators,Yorkshire Rams,7,53,NFC 1 North,163,54.967108,-1.496677,53.764305,-1.541945,55.5,82.2,27.2,7.5,0.13,rain
+09/06/19,14:00,Northumberland Vikings,East Kilbride Pirates,5,8,NFC 1 North,248,55.029045,-1.703227,55.808665,-4.280777,56.2,84.5,21.2,8.9,0.11,rain
+09/06/19,13:00,Glasgow Tigers,Aberdeen Roughnecks,13,12,NFC 1 North,244,55.849959,-4.307464,57.17318,-2.132683,42.5,83.4,24.7,9.4,0.03,rain
+02/06/19,15:00,East Kilbride Pirates,Gateshead Senators,49,12,NFC 1 North,258,55.808665,-4.280777,54.967108,-1.496677,49.2,80.4,10.7,8.1,0.04,rain
+01/06/19,12:00,Aberdeen Roughnecks,Yorkshire Rams,0,2,NFC 1 North,580,57.17318,-2.132683,53.764305,-1.541945,34.7,71.3,13.7,10.0,0.0,partly-cloudy-day
+26/05/19,14:00,Gateshead Senators,Aberdeen Roughnecks,6,36,NFC 1 North,406,54.967108,-1.496677,57.17318,-2.132683,58.8,94.5,10.3,12.3,1.0,rain
+26/05/19,13:45,Yorkshire Rams,Northumberland Vikings,6,10,NFC 1 North,179,53.764305,-1.541945,55.029045,-1.703227,64.6,73.1,16.7,26.1,0.0,cloudy
+19/05/19,14:00,Northumberland Vikings,Gateshead Senators,63,0,NFC 1 North,19,55.029045,-1.703227,54.967108,-1.496677,57.4,69.3,10.5,16.6,0.0,partly-cloudy-day
+19/05/19,12:00,Glasgow Tigers,East Kilbride Pirates,14,47,NFC 1 North,9,55.849959,-4.307464,55.808665,-4.280777,53.6,79.2,11.6,9.2,0.02,rain
+12/05/19,15:00,East Kilbride Pirates,Yorkshire Rams,47,12,NFC 1 North,363,55.808665,-4.280777,53.764305,-1.541945,56.4,78.8,23.0,6.1,0.06,rain
+12/05/19,14:00,Gateshead Senators,Glasgow Tigers,0,42,NFC 1 North,261,54.967108,-1.496677,55.849959,-4.307464,36.4,87.9,21.0,7.4,0.29,rain
+05/05/19,14:00,Aberdeen Roughnecks,Northumberland Vikings,3,7,NFC 1 North,391,57.17318,-2.132683,55.029045,-1.703227,40.2,88.7,9.6,6.3,0.0,partly-cloudy-day
+05/05/19,13:45,Yorkshire Rams,Gateshead Senators,22,6,NFC 1 North,163,53.764305,-1.541945,54.967108,-1.496677,57.4,83.0,23.5,8.3,0.17,rain
+28/04/19,13:00,Glasgow Tigers,Yorkshire Rams,13,0,NFC 1 North,368,55.849959,-4.307464,53.764305,-1.541945,52.3,84.8,9.2,5.5,0.02,rain
+21/04/19,14:00,Northumberland Vikings,Glasgow Tigers,22,14,NFC 1 North,252,55.029045,-1.703227,55.849959,-4.307464,52.7,85.1,7.8,8.2,0.02,rain
+20/04/19,16:00,Yorkshire Rams,Aberdeen Roughnecks,0,42,NFC 1 North,580,53.764305,-1.541945,57.17318,-2.132683,42.6,90.7,30.4,6.1,0.54,rain
+14/04/19,14:00,Aberdeen Roughnecks,East Kilbride Pirates,12,23,NFC 1 North,246,57.17318,-2.132683,55.808665,-4.280777,38.3,68.0,21.6,6.4,0.0,partly-cloudy-day
+14/04/19,14:00,Gateshead Senators,Northumberland Vikings,0,24,NFC 1 North,19,54.967108,-1.496677,55.029045,-1.703227,38.6,68.7,12.8,10.8,0.0,partly-cloudy-day
+28/07/19,14:00,Nottingham Caesars,Shropshire Revolution,14,37,NFC 1 South,113,52.966631,-1.217552,52.70789,-2.444912,58.9,61.5,12.7,6.1,0.0,clear-day
+28/07/19,14:00,Sandwell Steelers,Lancashire Wolverines,29,24,NFC 1 South,168,52.545983,-2.049769,53.777276,-2.755786,57.5,53.8,7.7,8.0,0.0,clear-day
+21/07/19,14:00,Chester Romans,Doncaster Mustangs,60,0,NFC 1 South,143,53.210866,-2.86786,53.532285,-1.15829,36.0,63.3,17.6,6.5,0.0,partly-cloudy-day
+21/07/19,14:00,Sandwell Steelers,Shropshire Revolution,42,0,NFC 1 South,48,52.545983,-2.049769,52.70789,-2.444912,58.7,90.7,10.5,11.7,0.59,rain
+07/07/19,15:00,Lancashire Wolverines,Chester Romans,41,36,NFC 1 South,91,53.777276,-2.755786,53.210866,-2.86786,63.2,74.4,12.5,24.1,0.0,partly-cloudy-day
+07/07/19,14:00,Doncaster Mustangs,Nottingham Caesars,0,58,NFC 1 South,80,53.532285,-1.15829,52.966631,-1.217552,58.4,74.7,9.6,18.3,0.0,clear-day
+30/06/19,14:00,Chester Romans,Sandwell Steelers,0,43,NFC 1 South,118,53.210866,-2.86786,52.545983,-2.049769,63.8,70.5,15.1,19.8,0.0,partly-cloudy-day
+30/06/19,14:00,Shropshire Revolution,Doncaster Mustangs,43,0,NFC 1 South,177,52.70789,-2.444912,53.532285,-1.15829,62.1,73.2,19.0,15.1,0.0,partly-cloudy-day
+23/06/19,14:30,Nottingham Caesars,Sandwell Steelers,0,48,NFC 1 South,98,52.966631,-1.217552,52.545983,-2.049769,59.5,80.5,12.8,14.9,0.0,partly-cloudy-day
+23/06/19,14:00,Doncaster Mustangs,Lancashire Wolverines,A,W,NFC 1 South,155,53.532285,-1.15829,53.777276,-2.755786,57.6,84.6,13.6,11.6,0.0,partly-cloudy-day
+23/06/19,14:00,Shropshire Revolution,Chester Romans,20,6,NFC 1 South,79,52.70789,-2.444912,53.210866,-2.86786,60.6,77.2,13.2,11.6,0.08,rain
+16/06/19,13:00,Lancashire Wolverines,Shropshire Revolution,22,21,NFC 1 South,154,53.777276,-2.755786,52.70789,-2.444912,55.7,78.3,17.1,21.2,0.08,rain
+09/06/19,14:30,Nottingham Caesars,Lancashire Wolverines,16,36,NFC 1 South,185,52.966631,-1.217552,53.777276,-2.755786,55.9,76.8,18.3,13.9,0.04,rain
+09/06/19,14:00,Doncaster Mustangs,Chester Romans,0,42,NFC 1 South,143,53.532285,-1.15829,53.210866,-2.86786,55.2,78.7,18.5,13.3,0.07,rain
+02/06/19,14:00,Lancashire Wolverines,Sandwell Steelers,6,59,NFC 1 South,168,53.777276,-2.755786,52.545983,-2.049769,37.2,86.9,14.5,9.7,0.14,rain
+02/06/19,14:00,Shropshire Revolution,Nottingham Caesars,6,20,NFC 1 South,113,52.70789,-2.444912,52.966631,-1.217552,38.7,88.3,11.6,12.1,0.08,rain
+26/05/19,14:30,Nottingham Caesars,Doncaster Mustangs,52,0,NFC 1 South,80,52.966631,-1.217552,53.532285,-1.15829,59.2,76.0,16.2,18.3,0.15,rain
+19/05/19,15:00,Lancashire Wolverines,Doncaster Mustangs,52,14,NFC 1 South,155,53.777276,-2.755786,53.532285,-1.15829,53.5,82.2,10.9,20.2,0.0,partly-cloudy-day
+19/05/19,14:00,Chester Romans,Shropshire Revolution,16,22,NFC 1 South,79,53.210866,-2.86786,52.70789,-2.444912,53.4,81.7,12.1,17.9,0.0,partly-cloudy-day
+12/05/19,14:00,Chester Romans,Lancashire Wolverines,20,14,NFC 1 South,91,53.210866,-2.86786,53.777276,-2.755786,44.5,83.6,23.9,20.5,0.0,partly-cloudy-day
+12/05/19,14:00,Sandwell Steelers,Doncaster Mustangs,66,0,NFC 1 South,163,52.545983,-2.049769,53.532285,-1.15829,36.7,92.9,18.1,9.7,0.01,rain
+05/05/19,14:00,Lancashire Wolverines,Nottingham Caesars,31,15,NFC 1 South,185,53.777276,-2.755786,52.966631,-1.217552,43.4,68.0,16.5,21.5,0.0,partly-cloudy-day
+04/05/19,17:00,Sandwell Steelers,Chester Romans,57,12,NFC 1 South,118,52.545983,-2.049769,53.210866,-2.86786,42.1,74.3,18.2,21.1,0.07,rain
+28/04/19,14:00,Nottingham Caesars,Chester Romans,38,6,NFC 1 South,159,52.966631,-1.217552,53.210866,-2.86786,46.5,76.4,12.8,16.7,0.08,rain
+28/04/19,14:00,Shropshire Revolution,Sandwell Steelers,0,37,NFC 1 South,48,52.70789,-2.444912,52.545983,-2.049769,45.6,78.4,17.7,13.6,0.1,rain
+21/04/19,14:00,Doncaster Mustangs,Shropshire Revolution,6,36,NFC 1 South,177,53.532285,-1.15829,52.70789,-2.444912,58.1,53.2,10.0,9.0,0.0,clear-day
+21/04/19,14:00,Sandwell Steelers,Nottingham Caesars,41,6,NFC 1 South,98,52.545983,-2.049769,52.966631,-1.217552,57.4,60.8,6.3,12.5,0.0,clear-day
+14/04/19,14:00,Chester Romans,Nottingham Caesars,6,7,NFC 1 South,159,53.210866,-2.86786,52.966631,-1.217552,35.2,65.4,18.9,19.3,0.0,partly-cloudy-day
+14/04/19,14:00,Doncaster Mustangs,Sandwell Steelers,0,48,NFC 1 South,163,53.532285,-1.15829,52.545983,-2.049769,30.9,71.9,19.0,14.2,0.0,partly-cloudy-day
+14/04/19,14:00,Shropshire Revolution,Lancashire Wolverines,15,8,NFC 1 South,154,52.70789,-2.444912,53.777276,-2.755786,33.9,67.1,19.6,14.4,0.0,partly-cloudy-day
+28/07/19,14:00,Portsmouth Dreadnoughts,Oxford Saints,13,22,SFC 1 West,125,50.788815,-1.134312,51.689893,-1.285223,64.6,73.1,20.0,23.9,0.0,partly-cloudy-day
+28/07/19,13:30,Solent Thrashers,Hertfordshire Cheetahs,24,19,SFC 1 West,130,50.929052,-1.471337,51.666586,-0.421136,64.0,69.7,15.1,17.4,0.0,partly-cloudy-day
+28/07/19,13:30,Sussex Thunder,Berkshire Renegades,48,12,SFC 1 West,126,50.88019,-0.086518,51.440608,-0.947064,63.9,77.6,16.4,21.8,0.0,partly-cloudy-day
+21/07/19,15:00,Berkshire Renegades,Solent Thrashers,6,37,SFC 1 West,76,51.440608,-0.947064,50.929052,-1.471337,63.0,74.4,13.4,21.7,0.0,partly-cloudy-day
+21/07/19,14:30,Oxford Saints,Sussex Thunder,18,55,SFC 1 West,176,51.689893,-1.285223,50.88019,-0.086518,62.6,75.4,12.3,18.6,0.0,partly-cloudy-day
+07/07/19,15:00,Hertfordshire Cheetahs,Berkshire Renegades,34,25,SFC 1 West,65,51.666586,-0.421136,51.440608,-0.947064,62.3,76.0,9.8,16.0,0.07,rain
+07/07/19,15:00,Solent Thrashers,Oxford Saints,58,7,SFC 1 West,96,50.929052,-1.471337,51.689893,-1.285223,63.1,78.0,10.3,12.3,0.05,rain
+07/07/19,13:30,Sussex Thunder,Portsmouth Dreadnoughts,28,13,SFC 1 West,94,50.88019,-0.086518,50.788815,-1.134312,61.3,83.7,8.0,15.2,0.08,rain
+30/06/19,15:00,Hertfordshire Cheetahs,Sussex Thunder,6,23,SFC 1 West,134,51.666586,-0.421136,50.88019,-0.086518,66.3,67.6,14.5,19.2,0.0,partly-cloudy-day
+30/06/19,14:30,Oxford Saints,Berkshire Renegades,7,26,SFC 1 West,42,51.689893,-1.285223,51.440608,-0.947064,63.6,72.7,14.5,16.7,0.0,partly-cloudy-day
+30/06/19,14:00,Portsmouth Dreadnoughts,Solent Thrashers,9,47,SFC 1 West,36,50.788815,-1.134312,50.929052,-1.471337,63.5,77.6,17.6,18.4,0.0,partly-cloudy-day
+23/06/19,15:00,Hertfordshire Cheetahs,Oxford Saints,46,9,SFC 1 West,87,51.666586,-0.421136,51.689893,-1.285223,64.3,72.4,13.8,14.3,0.0,partly-cloudy-day
+23/06/19,13:30,Sussex Thunder,Solent Thrashers,13,32,SFC 1 West,109,50.88019,-0.086518,50.929052,-1.471337,64.9,75.1,12.7,13.8,0.0,partly-cloudy-day
+16/06/19,14:30,Oxford Saints,Portsmouth Dreadnoughts,17,36,SFC 1 West,125,51.689893,-1.285223,50.788815,-1.134312,56.0,82.0,18.0,15.8,0.08,rain
+16/06/19,14:00,Berkshire Renegades,Sussex Thunder,6,17,SFC 1 West,126,51.440608,-0.947064,50.88019,-0.086518,56.8,81.9,19.1,17.0,0.04,rain
+09/06/19,15:00,Solent Thrashers,Berkshire Renegades,28,0,SFC 1 West,76,50.929052,-1.471337,51.440608,-0.947064,55.0,82.3,18.0,16.3,0.01,rain
+09/06/19,14:00,Portsmouth Dreadnoughts,Hertfordshire Cheetahs,19,21,SFC 1 West,149,50.788815,-1.134312,51.666586,-0.421136,55.5,82.2,22.0,19.2,0.01,rain
+02/06/19,15:00,Hertfordshire Cheetahs,Solent Thrashers,0,10,SFC 1 West,130,51.666586,-0.421136,50.929052,-1.471337,44.3,92.1,11.7,8.7,0.12,rain
+02/06/19,14:00,Portsmouth Dreadnoughts,Berkshire Renegades,47,0,SFC 1 West,105,50.788815,-1.134312,51.440608,-0.947064,43.1,98.0,22.2,4.3,0.16,rain
+26/05/19,14:00,Oxford Saints,Hertfordshire Cheetahs,8,40,SFC 1 West,87,51.689893,-1.285223,51.666586,-0.421136,58.9,82.0,13.9,17.1,0.01,rain
+19/05/19,14:30,Portsmouth Dreadnoughts,Sussex Thunder,7,42,SFC 1 West,94,50.788815,-1.134312,50.88019,-0.086518,54.6,84.2,8.7,6.9,0.04,rain
+12/05/19,14:00,Berkshire Renegades,Oxford Saints,12,24,SFC 1 West,42,51.440608,-0.947064,51.689893,-1.285223,35.0,92.8,18.3,8.1,0.01,rain
+12/05/19,13:30,Sussex Thunder,Hertfordshire Cheetahs,21,28,SFC 1 West,134,50.88019,-0.086518,51.666586,-0.421136,35.9,93.9,17.4,7.0,0.0,partly-cloudy-day
+05/05/19,15:00,Hertfordshire Cheetahs,Portsmouth Dreadnoughts,13,8,SFC 1 West,149,51.666586,-0.421136,50.788815,-1.134312,41.9,65.2,10.3,17.9,0.0,partly-cloudy-day
+05/05/19,15:00,Solent Thrashers,Sussex Thunder,13,10,SFC 1 West,109,50.929052,-1.471337,50.88019,-0.086518,43.6,64.8,7.7,16.7,0.0,partly-cloudy-day
+28/04/19,14:00,Berkshire Renegades,Portsmouth Dreadnoughts,27,38,SFC 1 West,105,51.440608,-0.947064,50.788815,-1.134312,46.9,67.4,12.8,20.7,0.0,partly-cloudy-day
+28/04/19,14:00,Oxford Saints,Solent Thrashers,7,52,SFC 1 West,96,51.689893,-1.285223,50.929052,-1.471337,46.9,68.5,12.4,19.3,0.0,partly-cloudy-day
+14/04/19,14:00,Berkshire Renegades,Hertfordshire Cheetahs,16,49,SFC 1 West,65,51.440608,-0.947064,51.666586,-0.421136,34.3,68.9,14.2,12.1,0.0,partly-cloudy-day
+14/04/19,13:30,Solent Thrashers,Portsmouth Dreadnoughts,41,14,SFC 1 West,36,50.929052,-1.471337,50.788815,-1.134312,34.8,67.1,16.7,11.9,0.0,partly-cloudy-day
+14/04/19,13:30,Sussex Thunder,Oxford Saints,43,7,SFC 1 West,176,50.88019,-0.086518,51.689893,-1.285223,34.4,72.2,13.8,12.9,0.0,clear-day
+28/07/19,14:30,Cambridgeshire Cats,Colchester Gladiators,29,0,SFC 1 East,97,52.209635,0.155796,51.868602,0.89318,60.2,96.0,14.6,10.8,0.3,rain
+28/07/19,14:00,Wembley Stallions,Bury Saints,16,14,SFC 1 East,122,51.559663,-0.334158,52.304953,0.497989,64.7,71.1,15.1,24.5,0.0,partly-cloudy-day
+21/07/19,14:00,Bury Saints,London Hornets,30,12,SFC 1 East,114,52.304953,0.497989,51.604835,-0.232102,65.4,72.0,13.7,7.4,0.0,clear-day
+21/07/19,12:00,Ouse Valley Eagles,Colchester Gladiators,24,14,SFC 1 East,133,52.133634,-0.441029,51.868602,0.89318,62.9,74.2,11.0,28.2,0.0,partly-cloudy-day
+07/07/19,15:00,Wembley Stallions,London Hornets,14,21,SFC 1 East,12,51.559663,-0.334158,51.604835,-0.232102,63.0,75.8,10.5,16.8,0.08,rain
+07/07/19,14:30,Colchester Gladiators,Ouse Valley Eagles,13,6,SFC 1 East,133,51.868602,0.89318,52.133634,-0.441029,58.9,74.7,9.9,23.2,0.05,rain
+30/06/19,14:30,Cambridgeshire Cats,London Hornets,6,9,SFC 1 East,93,52.209635,0.155796,51.604835,-0.232102,66.7,69.3,15.3,18.7,0.0,partly-cloudy-day
+30/06/19,12:00,Ouse Valley Eagles,Bury Saints,0,27,SFC 1 East,80,52.133634,-0.441029,52.304953,0.497989,65.4,69.9,14.8,26.0,0.0,partly-cloudy-day
+23/06/19,15:00,London Hornets,Ouse Valley Eagles,37,0,SFC 1 East,77,51.604835,-0.232102,52.133634,-0.441029,64.9,71.6,13.9,14.6,0.0,partly-cloudy-day
+23/06/19,14:00,Bury Saints,Colchester Gladiators,58,0,SFC 1 East,97,52.304953,0.497989,51.868602,0.89318,62.9,87.2,12.9,6.7,0.0,clear-day
+23/06/19,14:00,Wembley Stallions,Cambridgeshire Cats,9,14,SFC 1 East,101,51.559663,-0.334158,52.209635,0.155796,65.3,69.9,14.7,14.5,0.0,partly-cloudy-day
+16/06/19,15:00,Wembley Stallions,Colchester Gladiators,32,6,SFC 1 East,112,51.559663,-0.334158,51.868602,0.89318,58.6,78.4,19.0,17.7,0.02,rain
+09/06/19,14:30,Colchester Gladiators,London Hornets,3,32,SFC 1 East,105,51.868602,0.89318,51.604835,-0.232102,53.6,79.3,20.1,19.3,0.03,rain
+09/06/19,14:00,Bury Saints,Cambridgeshire Cats,26,27,SFC 1 East,32,52.304953,0.497989,52.209635,0.155796,55.0,81.9,20.8,6.8,0.03,rain
+09/06/19,12:00,Ouse Valley Eagles,Wembley Stallions,12,21,SFC 1 East,77,52.133634,-0.441029,51.559663,-0.334158,55.0,76.9,16.8,20.4,0.01,rain
+02/06/19,14:00,London Hornets,Cambridgeshire Cats,13,20,SFC 1 East,93,51.604835,-0.232102,52.209635,0.155796,45.3,91.4,11.9,8.5,0.14,rain
+26/05/19,14:30,Colchester Gladiators,Bury Saints,2,34,SFC 1 East,97,51.868602,0.89318,52.304953,0.497989,62.1,77.8,18.1,27.7,0.01,rain
+19/05/19,14:30,Cambridgeshire Cats,Wembley Stallions,21,7,SFC 1 East,101,52.209635,0.155796,51.559663,-0.334158,54.0,87.8,7.5,4.8,0.0,partly-cloudy-day
+19/05/19,14:00,London Hornets,Bury Saints,19,13,SFC 1 East,114,51.604835,-0.232102,52.304953,0.497989,55.8,77.3,6.8,10.2,0.0,partly-cloudy-day
+12/05/19,15:00,Wembley Stallions,Ouse Valley Eagles,44,14,SFC 1 East,77,51.559663,-0.334158,52.133634,-0.441029,37.2,91.0,17.8,7.3,0.06,rain
+12/05/19,14:30,Cambridgeshire Cats,Bury Saints,18,10,SFC 1 East,32,52.209635,0.155796,52.304953,0.497989,33.7,93.8,20.4,7.9,0.01,rain
+12/05/19,14:00,London Hornets,Colchester Gladiators,50,0,SFC 1 East,105,51.604835,-0.232102,51.868602,0.89318,37.2,90.8,17.1,7.5,0.03,rain
+05/05/19,14:30,Cambridgeshire Cats,Ouse Valley Eagles,H,W,SFC 1 East,50,52.209635,0.155796,52.133634,-0.441029,41.8,70.9,11.8,12.4,0.01,rain
+05/05/19,14:30,Colchester Gladiators,Wembley Stallions,0,24,SFC 1 East,112,51.868602,0.89318,51.559663,-0.334158,40.6,71.1,12.4,16.6,0.02,rain
+28/04/19,14:00,Bury Saints,Ouse Valley Eagles,32,0,SFC 1 East,80,52.304953,0.497989,52.133634,-0.441029,44.2,89.2,24.7,7.0,0.05,rain
+28/04/19,14:00,London Hornets,Wembley Stallions,7,0,SFC 1 East,12,51.604835,-0.232102,51.559663,-0.334158,48.1,65.5,15.1,21.9,0.01,rain
+21/04/19,12:00,Ouse Valley Eagles,Cambridgeshire Cats,0,48,SFC 1 East,50,52.133634,-0.441029,52.209635,0.155796,57.1,60.8,12.1,13.4,0.0,clear-day
+14/04/19,14:00,Bury Saints,Wembley Stallions,13,9,SFC 1 East,122,52.304953,0.497989,51.559663,-0.334158,34.2,80.8,14.2,6.7,0.0,clear-day
+14/04/19,14:00,Colchester Gladiators,Cambridgeshire Cats,0,27,SFC 1 East,97,51.868602,0.89318,52.209635,0.155796,33.8,73.6,13.2,12.9,0.01,rain
+14/04/19,12:00,Ouse Valley Eagles,London Hornets,0,23,SFC 1 East,77,52.133634,-0.441029,51.604835,-0.232102,33.3,69.2,14.7,23.7,0.0,partly-cloudy-day
+04/08/19,14:00,Carlisle Sentinels,Darlington Steam,A,W,NFC 2 North,128,54.876451,-2.916472,54.509887,-1.564445,41.3,83.6,18.4,7.3,0.01,rain
+04/08/19,14:00,Clyde Valley Blackhawks,Inverclyde Goliaths,12,14,NFC 2 North,73,55.772564,-3.933721,55.951046,-4.767181,36.9,85.2,16.4,7.9,0.0,partly-cloudy-day
+28/07/19,14:00,Darlington Steam,Carlisle Sentinels,H,W,NFC 2 North,128,54.509887,-1.564445,54.876451,-2.916472,64.2,91.9,12.2,6.0,0.13,rain
+28/07/19,14:00,Dumfries Hunters,Clyde Valley Blackhawks,6,6,NFC 2 North,102,55.074524,-3.594655,55.772564,-3.933721,63.7,89.0,10.9,10.1,0.22,rain
+21/07/19,14:00,Carlisle Sentinels,Dumfries Hunters,A,W,NFC 2 North,77,54.876451,-2.916472,55.074524,-3.594655,61.3,79.1,15.6,31.3,0.0,partly-cloudy-day
+23/06/19,14:00,Dumfries Hunters,Darlington Steam,60,14,NFC 2 North,203,55.074524,-3.594655,54.509887,-1.564445,59.5,68.3,15.5,26.1,0.0,partly-cloudy-day
+23/06/19,14:00,Inverclyde Goliaths,Carlisle Sentinels,H,W,NFC 2 North,198,55.951046,-4.767181,54.876451,-2.916472,60.0,71.2,16.2,15.1,0.0,partly-cloudy-day
+16/06/19,14:00,Darlington Steam,Clyde Valley Blackhawks,0,30,NFC 2 North,269,54.509887,-1.564445,55.772564,-3.933721,54.2,81.2,14.9,18.0,0.05,rain
+09/06/19,16:00,Inverclyde Goliaths,Dumfries Hunters,24,15,NFC 2 North,157,55.951046,-4.767181,55.074524,-3.594655,55.1,83.1,21.8,12.2,0.14,rain
+09/06/19,14:00,Clyde Valley Blackhawks,Carlisle Sentinels,H,W,NFC 2 North,143,55.772564,-3.933721,54.876451,-2.916472,53.9,83.1,20.5,18.2,0.07,rain
+02/06/19,14:00,Carlisle Sentinels,Clyde Valley Blackhawks,A,W,NFC 2 North,143,54.876451,-2.916472,55.772564,-3.933721,38.6,84.0,16.0,15.6,0.2,rain
+02/06/19,14:00,Darlington Steam,Inverclyde Goliaths,8,16,NFC 2 North,324,54.509887,-1.564445,55.951046,-4.767181,36.2,89.1,13.7,11.4,0.07,rain
+19/05/19,16:00,Inverclyde Goliaths,Darlington Steam,34,13,NFC 2 North,324,55.951046,-4.767181,54.509887,-1.564445,52.2,86.2,8.7,13.8,0.01,rain
+19/05/19,14:00,Dumfries Hunters,Carlisle Sentinels,H,W,NFC 2 North,77,55.074524,-3.594655,54.876451,-2.916472,50.4,87.3,9.5,19.0,0.01,rain
+12/05/19,14:00,Inverclyde Goliaths,Clyde Valley Blackhawks,8,20,NFC 2 North,73,55.951046,-4.767181,55.772564,-3.933721,42.3,91.5,27.7,7.5,0.63,rain
+05/05/19,14:00,Carlisle Sentinels,Inverclyde Goliaths,0,42,NFC 2 North,198,54.876451,-2.916472,55.951046,-4.767181,42.6,68.8,8.4,32.2,0.0,cloudy
+05/05/19,14:00,Darlington Steam,Dumfries Hunters,0,26,NFC 2 North,203,54.509887,-1.564445,55.074524,-3.594655,40.0,69.7,8.0,17.4,0.01,rain
+21/04/19,14:00,Clyde Valley Blackhawks,Darlington Steam,20,6,NFC 2 North,269,55.772564,-3.933721,54.509887,-1.564445,57.4,60.0,18.4,9.6,0.0,clear-day
+21/04/19,14:00,Dumfries Hunters,Inverclyde Goliaths,28,6,NFC 2 North,157,55.074524,-3.594655,55.951046,-4.767181,54.7,65.7,15.8,7.9,0.0,partly-cloudy-day
+14/04/19,14:00,Clyde Valley Blackhawks,Dumfries Hunters,21,12,NFC 2 North,102,55.772564,-3.933721,55.074524,-3.594655,33.5,65.3,15.6,25.4,0.0,partly-cloudy-day
+04/08/19,14:00,Birmingham Bulls,Staffordshire Surge,21,0,NFC 2 South,84,52.367393,-1.949646,52.979217,-2.171886,47.0,89.8,7.7,2.1,0.04,rain
+04/08/19,14:00,Lincolnshire Bombers,Crewe Railroaders,54,14,NFC 2 South,204,53.200232,-0.568557,53.098382,-2.4791,44.5,89.0,18.1,3.2,0.0,partly-cloudy-day
+28/07/19,14:00,Crewe Railroaders,Lincolnshire Bombers,0,26,NFC 2 South,204,53.098382,-2.4791,53.200232,-0.568557,57.8,95.4,11.7,7.3,1.03,rain
+21/07/19,14:00,Humber Warhawks,Crewe Railroaders,42,20,NFC 2 South,224,53.737442,-0.410002,53.098382,-2.4791,63.7,72.6,15.0,11.8,0.0,partly-cloudy-day
+07/07/19,14:00,Crewe Railroaders,Birmingham Bulls,0,59,NFC 2 South,107,53.098382,-2.4791,52.367393,-1.949646,57.8,72.7,7.6,17.5,0.0,partly-cloudy-day
+07/07/19,14:00,Lincolnshire Bombers,Humber Warhawks,20,6,NFC 2 South,90,53.200232,-0.568557,53.737442,-0.410002,58.7,69.3,13.6,10.6,0.0,partly-cloudy-day
+30/06/19,14:00,Humber Warhawks,Staffordshire Surge,14,8,NFC 2 South,206,53.737442,-0.410002,52.979217,-2.171886,65.9,69.7,17.3,10.8,0.0,partly-cloudy-day
+30/06/19,14:00,Lincolnshire Bombers,Birmingham Bulls,7,21,NFC 2 South,213,53.200232,-0.568557,52.367393,-1.949646,65.7,66.6,20.8,10.8,0.0,partly-cloudy-day
+09/06/19,14:30,Staffordshire Surge,Lincolnshire Bombers,15,17,NFC 2 South,193,52.979217,-2.171886,53.200232,-0.568557,54.5,83.5,15.1,17.2,0.08,rain
+09/06/19,14:00,Birmingham Bulls,Crewe Railroaders,74,0,NFC 2 South,107,52.367393,-1.949646,53.098382,-2.4791,56.9,74.4,13.0,19.2,0.01,rain
+02/06/19,14:30,Staffordshire Surge,Birmingham Bulls,6,34,NFC 2 South,84,52.979217,-2.171886,52.367393,-1.949646,36.9,92.0,13.9,8.3,0.1,rain
+26/05/19,14:00,Crewe Railroaders,Humber Warhawks,13,20,NFC 2 South,224,53.098382,-2.4791,53.737442,-0.410002,58.6,78.3,18.5,17.3,0.08,rain
+19/05/19,14:00,Crewe Railroaders,Staffordshire Surge,12,32,NFC 2 South,28,53.098382,-2.4791,52.979217,-2.171886,53.0,82.7,9.7,15.7,0.0,partly-cloudy-day
+19/05/19,14:00,Humber Warhawks,Birmingham Bulls,0,32,NFC 2 South,237,53.737442,-0.410002,52.367393,-1.949646,53.6,89.0,7.9,3.5,0.0,partly-cloudy-day
+12/05/19,14:30,Birmingham Bulls,Humber Warhawks,42,0,NFC 2 South,237,52.367393,-1.949646,53.737442,-0.410002,36.1,94.0,17.4,9.0,0.01,rain
+05/05/19,14:00,Lincolnshire Bombers,Staffordshire Surge,11,8,NFC 2 South,193,53.200232,-0.568557,52.979217,-2.171886,40.8,68.3,10.4,11.3,0.0,partly-cloudy-day
+28/04/19,14:30,Staffordshire Surge,Humber Warhawks,31,16,NFC 2 South,206,52.979217,-2.171886,53.737442,-0.410002,44.6,83.8,17.4,11.4,0.61,rain
+21/04/19,14:00,Humber Warhawks,Lincolnshire Bombers,0,42,NFC 2 South,90,53.737442,-0.410002,53.200232,-0.568557,51.5,67.1,12.4,5.7,0.0,clear-day
+14/04/19,14:30,Staffordshire Surge,Crewe Railroaders,20,13,NFC 2 South,28,52.979217,-2.171886,53.098382,-2.4791,31.3,70.0,18.4,18.7,0.0,partly-cloudy-day
+14/04/19,14:00,Birmingham Bulls,Lincolnshire Bombers,12,0,NFC 2 South,213,52.367393,-1.949646,53.200232,-0.568557,35.2,68.4,13.3,16.3,0.0,partly-cloudy-day
+04/08/19,14:00,Furness Phantoms,Knottingley Raiders,19,8,NFC 2 West,183,54.189477,-3.063101,53.710176,-1.233479,48.1,75.3,19.7,9.4,0.0,clear-day
+04/08/19,14:00,Halton Spartans,Morecambe Bay Storm,41,13,NFC 2 West,98,53.365351,-2.739503,54.068223,-2.857129,48.7,78.9,14.2,4.8,0.0,partly-cloudy-day
+28/07/19,14:00,Knottingley Raiders,Leeds Bobcats,20,40,NFC 2 West,40,53.710176,-1.233479,53.786392,-1.603447,60.6,96.9,10.9,5.6,0.52,rain
+21/07/19,15:00,Morecambe Bay Storm,Knottingley Raiders,12,28,NFC 2 West,178,54.068223,-2.857129,53.710176,-1.233479,62.3,80.3,18.0,24.9,0.0,partly-cloudy-day
+21/07/19,14:00,Leeds Bobcats,Halton Spartans,6,36,NFC 2 West,99,53.786392,-1.603447,53.365351,-2.739503,61.7,74.8,13.7,10.8,0.0,partly-cloudy-day
+07/07/19,14:00,Furness Phantoms,Leeds Bobcats,A,W,NFC 2 West,145,54.189477,-3.063101,53.786392,-1.603447,58.5,76.9,12.3,23.9,0.0,partly-cloudy-day
+30/06/19,15:00,Morecambe Bay Storm,Furness Phantoms,43,16,NFC 2 West,74,54.068223,-2.857129,54.189477,-3.063101,61.2,81.6,20.2,17.8,0.01,rain
+30/06/19,14:00,Knottingley Raiders,Halton Spartans,0,47,NFC 2 West,125,53.710176,-1.233479,53.365351,-2.739503,62.1,74.2,17.4,18.8,0.0,partly-cloudy-day
+16/06/19,14:00,Leeds Bobcats,Knottingley Raiders,44,0,NFC 2 West,40,53.786392,-1.603447,53.710176,-1.233479,53.5,81.6,15.6,9.1,0.11,rain
+09/06/19,15:00,Morecambe Bay Storm,Halton Spartans,6,47,NFC 2 West,98,54.068223,-2.857129,53.365351,-2.739503,57.7,77.7,25.9,13.8,0.04,rain
+09/06/19,14:00,Leeds Bobcats,Furness Phantoms,66,0,NFC 2 West,145,53.786392,-1.603447,54.189477,-3.063101,54.7,80.3,21.6,8.5,0.14,rain
+02/06/19,14:00,Furness Phantoms,Halton Spartans,6,41,NFC 2 West,154,54.189477,-3.063101,53.365351,-2.739503,37.5,88.6,15.2,10.1,0.14,rain
+02/06/19,14:00,Leeds Bobcats,Morecambe Bay Storm,44,12,NFC 2 West,108,53.786392,-1.603447,54.068223,-2.857129,36.5,89.8,12.8,6.4,0.1,rain
+19/05/19,14:00,Halton Spartans,Leeds Bobcats,35,14,NFC 2 West,99,53.365351,-2.739503,53.786392,-1.603447,53.5,82.3,10.7,18.6,0.01,rain
+19/05/19,14:00,Knottingley Raiders,Furness Phantoms,20,14,NFC 2 West,183,53.710176,-1.233479,54.189477,-3.063101,52.0,82.6,7.8,13.3,0.0,partly-cloudy-day
+12/05/19,14:00,Halton Spartans,Knottingley Raiders,74,3,NFC 2 West,125,53.365351,-2.739503,53.710176,-1.233479,42.7,85.9,22.2,16.9,0.0,partly-cloudy-day
+05/05/19,14:00,Halton Spartans,Furness Phantoms,47,0,NFC 2 West,154,53.365351,-2.739503,54.189477,-3.063101,42.7,70.5,14.5,21.4,0.0,partly-cloudy-day
+05/05/19,14:00,Knottingley Raiders,Morecambe Bay Storm,39,0,NFC 2 West,178,53.710176,-1.233479,54.068223,-2.857129,39.2,70.3,11.0,16.2,0.01,rain
+28/04/19,15:00,Morecambe Bay Storm,Leeds Bobcats,12,42,NFC 2 West,108,54.068223,-2.857129,53.786392,-1.603447,45.4,85.4,21.5,15.7,0.2,rain
+14/04/19,14:00,Furness Phantoms,Morecambe Bay Storm,14,6,NFC 2 West,74,54.189477,-3.063101,54.068223,-2.857129,33.6,64.9,19.1,26.5,0.0,partly-cloudy-day
+04/08/19,14:00,Hastings Conquerors,Bournemouth Bobcats,0,60,SFC 2 North,215,50.867812,0.595539,50.756072,-1.898676,51.3,87.7,5.6,2.5,0.0,partly-cloudy-day
+04/08/19,14:00,Jurassic Coast Raptors,Swindon Storm,14,36,SFC 2 North,138,50.702744,-2.444262,51.574158,-1.786452,47.2,89.6,8.7,5.7,0.0,partly-cloudy-day
+28/07/19,14:00,Hastings Conquerors,Jurassic Coast Raptors,6,54,SFC 2 North,252,50.867812,0.595539,50.702744,-2.444262,63.5,80.6,11.6,17.8,0.0,partly-cloudy-day
+28/07/19,14:00,Swindon Storm,London Blitz B,0,47,SFC 2 North,147,51.574158,-1.786452,51.574647,-0.103116,63.2,70.0,14.4,23.2,0.0,partly-cloudy-day
+21/07/19,14:00,Bournemouth Bobcats,Hastings Conquerors,52,0,SFC 2 North,215,50.756072,-1.898676,50.867812,0.595539,62.6,78.3,14.9,30.6,0.0,partly-cloudy-day
+21/07/19,14:00,Jurassic Coast Raptors,London Blitz B,16,68,SFC 2 North,218,50.702744,-2.444262,51.574647,-0.103116,62.7,83.3,14.4,19.1,0.0,partly-cloudy-day
+30/06/19,14:00,Hastings Conquerors,Swindon Storm,0,69,SFC 2 North,234,50.867812,0.595539,51.574158,-1.786452,64.7,77.7,12.5,14.4,0.0,partly-cloudy-day
+30/06/19,12:00,London Blitz B,Jurassic Coast Raptors,68,0,SFC 2 North,218,51.574647,-0.103116,50.702744,-2.444262,68.1,63.8,14.3,18.9,0.0,clear-day
+23/06/19,12:00,London Blitz B,Swindon Storm,32,0,SFC 2 North,147,51.574647,-0.103116,51.574158,-1.786452,65.2,71.6,13.1,14.6,0.0,clear-day
+16/06/19,14:00,Hastings Conquerors,London Blitz B,0,39,SFC 2 North,114,50.867812,0.595539,51.574647,-0.103116,57.9,86.3,14.2,14.4,0.09,rain
+15/06/19,19:00,Jurassic Coast Raptors,Bournemouth Bobcats,6,44,SFC 2 North,45,50.702744,-2.444262,50.756072,-1.898676,55.9,85.2,17.7,14.3,0.03,rain
+09/06/19,14:00,Swindon Storm,Bournemouth Bobcats,7,17,SFC 2 North,152,51.574158,-1.786452,50.756072,-1.898676,55.0,80.5,16.4,10.5,0.02,rain
+08/06/19,19:00,Jurassic Coast Raptors,Hastings Conquerors,9,0,SFC 2 North,252,50.702744,-2.444262,50.867812,0.595539,63.9,83.7,20.2,11.9,0.03,rain
+02/06/19,15:00,Swindon Storm,Jurassic Coast Raptors,28,3,SFC 2 North,138,51.574158,-1.786452,50.702744,-2.444262,42.2,93.6,12.5,9.6,0.14,rain
+26/05/19,14:00,Bournemouth Bobcats,Swindon Storm,51,0,SFC 2 North,152,50.756072,-1.898676,51.574158,-1.786452,57.5,87.4,17.0,16.2,0.0,partly-cloudy-day
+19/05/19,15:30,London Blitz B,Bournemouth Bobcats,17,10,SFC 2 North,180,51.574647,-0.103116,50.756072,-1.898676,56.7,76.3,6.3,9.2,0.01,rain
+19/05/19,14:00,Swindon Storm,Hastings Conquerors,64,0,SFC 2 North,234,51.574158,-1.786452,50.867812,0.595539,54.4,80.6,8.3,11.4,0.03,rain
+12/05/19,14:00,London Blitz B,Hastings Conquerors,82,0,SFC 2 North,114,51.574647,-0.103116,50.867812,0.595539,38.5,89.3,16.6,7.6,0.01,rain
+28/04/19,14:00,Bournemouth Bobcats,London Blitz B,33,39,SFC 2 North,180,50.756072,-1.898676,51.574647,-0.103116,47.4,71.5,16.9,14.8,0.0,partly-cloudy-day
+14/04/19,14:00,Bournemouth Bobcats,Jurassic Coast Raptors,19,2,SFC 2 North,45,50.756072,-1.898676,50.702744,-2.444262,35.7,64.6,16.3,12.4,0.0,partly-cloudy-day
+04/08/19,14:00,South Wales Warriors,Cornish Sharks,51,0,SFC 2 West,326,51.535228,-3.442218,50.413736,-5.062364,48.1,87.6,13.3,3.1,0.0,partly-cloudy-day
+21/07/19,14:00,Torbay Trojans,Cornish Sharks,52,20,SFC 2 West,119,50.441525,-3.589408,50.413736,-5.062364,61.1,86.2,22.3,11.9,0.0,partly-cloudy-day
+21/07/19,14:00,Worcestershire Black Knights,Bristol Apache,0,47,SFC 2 West,98,52.212998,-2.211645,51.51264,-2.555479,63.6,75.9,12.2,22.9,0.0,partly-cloudy-day
+07/07/19,14:00,Bristol Apache,Somerset Wyverns,10,19,SFC 2 West,79,51.51264,-2.555479,51.015717,-3.092933,62.6,70.9,7.3,22.4,0.03,rain
+07/07/19,14:00,South Wales Warriors,Torbay Trojans,10,6,SFC 2 West,227,51.535228,-3.442218,50.441525,-3.589408,62.0,72.7,11.7,16.3,0.0,partly-cloudy-day
+30/06/19,14:00,Worcestershire Black Knights,Somerset Wyverns,6,44,SFC 2 West,170,52.212998,-2.211645,51.015717,-3.092933,63.4,71.9,13.0,18.1,0.0,partly-cloudy-day
+23/06/19,14:00,Bristol Apache,Worcestershire Black Knights,45,2,SFC 2 West,98,51.51264,-2.555479,52.212998,-2.211645,62.1,74.8,11.9,17.1,0.03,rain
+23/06/19,14:00,Torbay Trojans,South Wales Warriors,14,48,SFC 2 West,227,50.441525,-3.589408,51.535228,-3.442218,58.2,82.4,14.8,10.4,0.05,rain
+16/06/19,14:00,Bristol Apache,Cornish Sharks,28,0,SFC 2 West,265,51.51264,-2.555479,50.413736,-5.062364,56.4,83.3,15.1,17.4,0.06,rain
+09/06/19,14:30,Somerset Wyverns,South Wales Warriors,7,26,SFC 2 West,140,51.015717,-3.092933,51.535228,-3.442218,54.9,86.3,15.4,13.2,0.04,rain
+09/06/19,14:00,Torbay Trojans,Worcestershire Black Knights,49,0,SFC 2 West,257,50.441525,-3.589408,52.212998,-2.211645,53.5,93.4,27.2,10.6,0.06,rain
+02/06/19,14:00,South Wales Warriors,Somerset Wyverns,29,6,SFC 2 West,140,51.535228,-3.442218,51.015717,-3.092933,41.7,91.6,12.7,6.1,0.39,rain
+02/06/19,14:00,Worcestershire Black Knights,Cornish Sharks,6,20,SFC 2 West,356,52.212998,-2.211645,50.413736,-5.062364,40.9,91.5,9.9,8.5,0.07,rain
+26/05/19,14:30,Somerset Wyverns,Torbay Trojans,0,12,SFC 2 West,94,51.015717,-3.092933,50.441525,-3.589408,55.7,89.7,12.9,12.9,0.02,rain
+26/05/19,14:00,Cornish Sharks,Bristol Apache,7,23,SFC 2 West,265,50.413736,-5.062364,51.51264,-2.555479,54.7,96.6,16.0,4.1,0.02,rain
+19/05/19,14:00,Bristol Apache,South Wales Warriors,21,46,SFC 2 West,78,51.51264,-2.555479,51.535228,-3.442218,54.1,80.7,8.2,16.6,0.02,rain
+12/05/19,14:00,South Wales Warriors,Worcestershire Black Knights,55,0,SFC 2 West,155,51.535228,-3.442218,52.212998,-2.211645,41.6,93.3,19.0,8.3,0.01,rain
+05/05/19,14:30,Somerset Wyverns,Bristol Apache,14,44,SFC 2 West,79,51.015717,-3.092933,51.51264,-2.555479,42.2,65.7,8.5,20.8,0.0,partly-cloudy-day
+05/05/19,14:00,Cornish Sharks,Torbay Trojans,18,20,SFC 2 West,119,50.413736,-5.062364,50.441525,-3.589408,43.1,67.0,11.3,11.2,0.0,clear-day
+28/04/19,14:00,Cornish Sharks,South Wales Warriors,0,33,SFC 2 West,326,50.413736,-5.062364,51.535228,-3.442218,46.7,91.6,17.1,6.0,0.11,rain
+28/04/19,14:00,Worcestershire Black Knights,Torbay Trojans,0,46,SFC 2 West,257,52.212998,-2.211645,50.441525,-3.589408,47.8,73.0,12.2,15.7,0.0,partly-cloudy-day
+21/04/19,14:30,Somerset Wyverns,Worcestershire Black Knights,42,6,SFC 2 West,170,51.015717,-3.092933,52.212998,-2.211645,59.0,53.2,7.5,11.5,0.0,clear-day
+14/04/19,14:00,Cornish Sharks,Somerset Wyverns,8,12,SFC 2 West,193,50.413736,-5.062364,51.015717,-3.092933,33.9,71.7,35.2,6.7,0.51,rain
+14/04/19,14:00,Torbay Trojans,Bristol Apache,20,12,SFC 2 West,166,50.441525,-3.589408,51.51264,-2.555479,48.5,72.6,24.3,12.2,0.0,partly-cloudy-day
+04/08/19,14:00,East Essex Sabres,East Kent Mavericks,7,31,SFC 2 South,105,51.56832,0.599318,51.260933,1.084827,46.7,88.6,9.8,1.9,0.03,rain
+04/08/19,14:00,Essex Spartans,Ipswich Cardinals,27,14,SFC 2 South,115,51.505368,0.273049,52.070695,1.208012,48.0,88.9,6.3,2.0,0.02,rain
+04/08/19,14:00,Norwich Devils,Maidstone Pumas,53,19,SFC 2 South,230,52.637751,1.360892,51.247448,0.533776,48.3,87.6,11.4,2.7,0.0,clear-day
+28/07/19,14:30,Ipswich Cardinals,East Kent Mavericks,40,35,SFC 2 South,192,52.070695,1.208012,51.260933,1.084827,60.0,94.0,17.5,10.9,0.57,rain
+21/07/19,14:00,East Kent Mavericks,Essex Spartans,14,23,SFC 2 South,83,51.260933,1.084827,51.505368,0.273049,63.8,74.8,12.2,22.7,0.0,partly-cloudy-day
+07/07/19,14:00,Norwich Devils,Ipswich Cardinals,27,21,SFC 2 South,78,52.637751,1.360892,52.070695,1.208012,58.5,69.1,11.3,6.3,0.0,partly-cloudy-day
+30/06/19,14:30,Ipswich Cardinals,East Essex Sabres,21,7,SFC 2 South,94,52.070695,1.208012,51.56832,0.599318,66.5,68.1,16.5,14.3,0.0,partly-cloudy-day
+30/06/19,14:00,Norwich Devils,Essex Spartans,6,8,SFC 2 South,192,52.637751,1.360892,51.505368,0.273049,68.0,67.9,16.1,6.9,0.0,clear-day
+23/06/19,14:30,Ipswich Cardinals,Maidstone Pumas,29,0,SFC 2 South,154,52.070695,1.208012,51.247448,0.533776,62.1,82.4,13.4,8.3,0.0,partly-cloudy-day
+23/06/19,14:00,Essex Spartans,East Kent Mavericks,27,8,SFC 2 South,83,51.505368,0.273049,51.260933,1.084827,63.8,75.9,12.6,12.8,0.0,partly-cloudy-day
+16/06/19,14:00,East Kent Mavericks,Maidstone Pumas,30,19,SFC 2 South,43,51.260933,1.084827,51.247448,0.533776,59.4,81.6,19.3,19.7,0.01,rain
+16/06/19,14:00,Norwich Devils,East Essex Sabres,3,0,SFC 2 South,157,52.637751,1.360892,51.56832,0.599318,59.5,79.2,17.2,6.3,0.04,rain
+02/06/19,14:30,Ipswich Cardinals,Norwich Devils,31,31,SFC 2 South,78,52.070695,1.208012,52.637751,1.360892,42.1,94.9,12.9,5.5,0.14,rain
+26/05/19,14:00,East Essex Sabres,Norwich Devils,6,12,SFC 2 South,157,51.56832,0.599318,52.637751,1.360892,64.0,67.6,19.6,10.8,0.0,partly-cloudy-day
+26/05/19,14:00,Maidstone Pumas,Essex Spartans,6,33,SFC 2 South,45,51.247448,0.533776,51.505368,0.273049,61.3,77.5,13.6,20.1,0.0,partly-cloudy-day
+19/05/19,14:00,Maidstone Pumas,East Kent Mavericks,0,25,SFC 2 South,43,51.247448,0.533776,51.260933,1.084827,54.6,82.3,6.5,5.1,0.0,partly-cloudy-day
+12/05/19,14:00,East Essex Sabres,Essex Spartans,0,21,SFC 2 South,26,51.56832,0.599318,51.505368,0.273049,34.5,93.8,22.0,5.9,0.01,rain
+05/05/19,14:00,East Kent Mavericks,Norwich Devils,11,18,SFC 2 South,268,51.260933,1.084827,52.637751,1.360892,40.5,74.5,15.3,12.3,0.01,rain
+05/05/19,14:00,Maidstone Pumas,East Essex Sabres,7,20,SFC 2 South,67,51.247448,0.533776,51.56832,0.599318,42.2,67.7,11.2,15.4,0.01,rain
+28/04/19,14:00,East Kent Mavericks,Ipswich Cardinals,6,16,SFC 2 South,192,51.260933,1.084827,52.070695,1.208012,44.4,79.4,15.1,14.4,0.04,rain
+28/04/19,14:00,Essex Spartans,Maidstone Pumas,40,0,SFC 2 South,45,51.505368,0.273049,51.247448,0.533776,46.9,68.3,15.0,24.6,0.01,rain
+21/04/19,14:00,East Essex Sabres,Ipswich Cardinals,14,14,SFC 2 South,94,51.56832,0.599318,52.070695,1.208012,52.0,67.2,10.0,5.9,0.0,clear-day
+14/04/19,14:00,Essex Spartans,East Essex Sabres,12,0,SFC 2 South,26,51.505368,0.273049,51.56832,0.599318,35.8,67.5,13.2,14.7,0.0,partly-cloudy-day
+14/04/19,14:00,Maidstone Pumas,Norwich Devils,0,32,SFC 2 South,230,51.247448,0.533776,52.637751,1.360892,35.7,70.0,12.8,13.5,0.0,partly-cloudy-day

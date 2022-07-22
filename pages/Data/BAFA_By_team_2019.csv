@@ -1,0 +1,617 @@
+Date,Team,Division,Score,Opponent,Travel_km,Game_Status,Team_Status,Score_Type,Temp,Windspeed,Humidity,Visibility,Precipitation,Cast,Date_day,Total_Score
+2019-07-28 14:00:00,Edinburgh Wolves,Premiership North,47,6,0,@ Home,W,Score @ Home,62.7,12.5,97.3,3.8,0.14,rain,2019-07-28,53
+2019-06-07 15:00:00,Edinburgh Wolves,Premiership North,0,48,470,@ Away,L,Score @ Away,52.2,12.7,87.8,13.3,0.56,rain,2019-06-07,48
+2019-06-30 14:00:00,Edinburgh Wolves,Premiership North,17,6,0,@ Home,W,Score @ Home,60.6,20.8,80.2,13.1,0.08,rain,2019-06-30,23
+2019-06-23 14:00:00,Edinburgh Wolves,Premiership North,8,33,415,@ Away,L,Score @ Away,58.0,13.9,81.8,14.7,0.0,partly-cloudy-day,2019-06-23,41
+2019-06-16 14:30:00,Edinburgh Wolves,Premiership North,0,10,495,@ Away,L,Score @ Away,55.8,13.4,81.3,19.4,0.06,rain,2019-06-16,10
+2019-09-06 14:00:00,Edinburgh Wolves,Premiership North,12,33,0,@ Home,L,Score @ Home,56.3,21.4,78.1,14.1,0.02,rain,2019-09-06,45
+2019-05-26 14:00:00,Edinburgh Wolves,Premiership North,0,14,337,@ Away,L,Score @ Away,57.9,20.3,80.5,17.7,0.1,rain,2019-05-26,14
+2019-05-19 14:00:00,Edinburgh Wolves,Premiership North,0,50,0,@ Home,L,Score @ Home,53.4,9.9,86.4,18.4,0.04,rain,2019-05-19,50
+2019-12-05 14:30:00,Edinburgh Wolves,Premiership North,14,33,320,@ Away,L,Score @ Away,42.3,29.9,85.7,13.0,0.0,partly-cloudy-day,2019-12-05,47
+2019-05-05 14:00:00,Edinburgh Wolves,Premiership North,16,15,0,@ Home,W,Score @ Home,42.6,10.7,61.2,13.8,0.0,cloudy,2019-05-05,31
+2019-07-28 14:00:00,Manchester Titans,Premiership North,17,21,0,@ Home,L,Score @ Home,58.1,12.7,98.2,6.8,1.37,rain,2019-07-28,38
+2019-07-21 14:00:00,Manchester Titans,Premiership North,38,6,171,@ Away,W,Score @ Away,63.2,10.9,73.2,24.2,0.0,partly-cloudy-day,2019-07-21,44
+2019-07-07 14:00:00,Manchester Titans,Premiership North,49,30,0,@ Home,W,Score @ Home,57.6,8.2,72.9,16.7,0.0,partly-cloudy-day,2019-07-07,79
+2019-06-30 14:00:00,Manchester Titans,Premiership North,6,17,337,@ Away,L,Score @ Away,60.6,20.8,80.2,13.1,0.08,rain,2019-06-30,23
+2019-06-23 15:00:00,Manchester Titans,Premiership North,43,30,0,@ Home,W,Score @ Home,60.2,12.8,75.2,18.9,0.0,partly-cloudy-day,2019-06-23,73
+2019-06-15 16:00:00,Manchester Titans,Premiership North,21,0,154,@ Away,W,Score @ Away,53.9,13.4,83.1,19.1,0.1,rain,2019-06-15,21
+2019-05-26 14:00:00,Manchester Titans,Premiership North,14,0,0,@ Home,W,Score @ Home,57.9,20.3,80.5,17.7,0.1,rain,2019-05-26,14
+2019-05-19 14:30:00,Manchester Titans,Premiership North,33,50,50,@ Away,L,Score @ Away,53.6,11.3,82.6,21.2,0.0,partly-cloudy-day,2019-05-19,83
+2019-12-05 14:00:00,Manchester Titans,Premiership North,6,0,75,@ Away,W,Score @ Away,36.1,24.6,90.9,10.4,0.0,partly-cloudy-day,2019-12-05,6
+2019-05-05 15:00:00,Manchester Titans,Premiership North,49,16,0,@ Home,W,Score @ Home,41.1,13.2,72.3,20.2,0.0,partly-cloudy-day,2019-05-05,65
+2019-07-28 14:00:00,Sheffield Giants,Premiership North,22,22,0,@ Home,T,Score @ Home,58.0,10.6,98.2,6.9,1.04,rain,2019-07-28,44
+2019-07-07 14:00:00,Sheffield Giants,Premiership North,30,49,75,@ Away,L,Score @ Away,57.6,8.2,72.9,16.7,0.0,partly-cloudy-day,2019-07-07,79
+2019-06-23 14:00:00,Sheffield Giants,Premiership North,33,8,0,@ Home,W,Score @ Home,58.0,13.9,81.8,14.7,0.0,partly-cloudy-day,2019-06-23,41
+2019-06-16 14:30:00,Sheffield Giants,Premiership North,0,20,113,@ Away,L,Score @ Away,56.0,19.4,77.7,22.5,0.08,rain,2019-06-16,20
+2019-09-06 14:00:00,Sheffield Giants,Premiership North,14,12,0,@ Home,W,Score @ Home,54.3,17.2,82.0,12.6,0.09,rain,2019-09-06,26
+2019-05-25 16:00:00,Sheffield Giants,Premiership North,12,22,117,@ Away,L,Score @ Away,61.2,10.4,67.9,21.5,0.0,partly-cloudy-day,2019-05-25,34
+2019-12-05 14:00:00,Sheffield Giants,Premiership North,0,6,0,@ Home,L,Score @ Home,36.1,24.6,90.9,10.4,0.0,partly-cloudy-day,2019-12-05,6
+2019-05-05 14:00:00,Sheffield Giants,Premiership North,15,16,415,@ Away,L,Score @ Away,42.6,10.7,61.2,13.8,0.0,cloudy,2019-05-05,31
+2019-04-21 14:00:00,Sheffield Giants,Premiership North,6,28,0,@ Home,L,Score @ Home,59.4,9.8,51.1,10.9,0.0,clear-day,2019-04-21,34
+2019-04-14 14:00:00,Sheffield Giants,Premiership North,8,21,98,@ Away,L,Score @ Away,33.7,13.3,69.8,17.1,0.0,partly-cloudy-day,2019-04-14,29
+2019-07-28 14:00:00,Merseyside Nighthawks,Premiership North,22,22,113,@ Away,T,Score @ Away,58.0,10.6,98.2,6.9,1.04,rain,2019-07-28,44
+2019-07-21 14:30:00,Merseyside Nighthawks,Premiership North,6,30,0,@ Home,L,Score @ Home,64.6,17.7,74.2,24.3,0.0,partly-cloudy-day,2019-07-21,36
+2019-07-07 14:30:00,Merseyside Nighthawks,Premiership North,50,0,0,@ Home,W,Score @ Home,58.6,10.8,75.0,18.3,0.0,clear-day,2019-07-07,50
+2019-06-23 15:00:00,Merseyside Nighthawks,Premiership North,30,43,50,@ Away,L,Score @ Away,60.2,12.8,75.2,18.9,0.0,partly-cloudy-day,2019-06-23,73
+2019-06-16 14:30:00,Merseyside Nighthawks,Premiership North,20,0,0,@ Home,W,Score @ Home,56.0,19.4,77.7,22.5,0.08,rain,2019-06-16,20
+2019-09-06 14:00:00,Merseyside Nighthawks,Premiership North,33,12,320,@ Away,W,Score @ Away,56.3,21.4,78.1,14.1,0.02,rain,2019-09-06,45
+2019-05-19 14:30:00,Merseyside Nighthawks,Premiership North,50,33,0,@ Home,W,Score @ Home,53.6,11.3,82.6,21.2,0.0,partly-cloudy-day,2019-05-19,83
+2019-12-05 14:30:00,Merseyside Nighthawks,Premiership North,33,14,0,@ Home,W,Score @ Home,42.3,29.9,85.7,13.0,0.0,partly-cloudy-day,2019-12-05,47
+2019-05-05 16:00:00,Merseyside Nighthawks,Premiership North,6,34,167,@ Away,L,Score @ Away,43.4,9.5,69.8,17.7,0.0,partly-cloudy-day,2019-05-05,40
+2019-04-28 14:00:00,Merseyside Nighthawks,Premiership North,23,18,184,@ Away,W,Score @ Away,45.8,15.4,78.1,17.3,0.04,rain,2019-04-28,41
+2019-07-28 14:00:00,Leicester Falcons,Premiership North,6,47,495,@ Away,L,Score @ Away,62.7,12.5,97.3,3.8,0.14,rain,2019-07-28,53
+2019-07-21 14:00:00,Leicester Falcons,Premiership North,6,38,0,@ Home,L,Score @ Home,63.2,10.9,73.2,24.2,0.0,partly-cloudy-day,2019-07-21,44
+2019-07-07 14:30:00,Leicester Falcons,Premiership North,0,50,184,@ Away,L,Score @ Away,58.6,10.8,75.0,18.3,0.0,clear-day,2019-07-07,50
+2019-06-23 13:00:00,Leicester Falcons,Premiership North,7,28,0,@ Home,L,Score @ Home,60.6,11.6,80.6,15.0,0.0,partly-cloudy-day,2019-06-23,35
+2019-06-16 14:30:00,Leicester Falcons,Premiership North,10,0,0,@ Home,W,Score @ Home,55.8,13.4,81.3,19.4,0.06,rain,2019-06-16,10
+2019-09-06 14:00:00,Leicester Falcons,Premiership North,12,14,98,@ Away,L,Score @ Away,54.3,17.2,82.0,12.6,0.09,rain,2019-09-06,26
+2019-01-06 18:00:00,Leicester Falcons,Premiership North,9,42,39,@ Away,L,Score @ Away,44.2,9.3,82.9,11.0,0.0,cloudy,2019-01-06,51
+2019-05-05 15:00:00,Leicester Falcons,Premiership North,16,49,171,@ Away,L,Score @ Away,41.1,13.2,72.3,20.2,0.0,partly-cloudy-day,2019-05-05,65
+2019-04-28 14:00:00,Leicester Falcons,Premiership North,18,23,0,@ Home,L,Score @ Home,45.8,15.4,78.1,17.3,0.04,rain,2019-04-28,41
+2019-04-14 14:00:00,Leicester Falcons,Premiership North,21,8,0,@ Home,W,Score @ Home,33.7,13.3,69.8,17.1,0.0,partly-cloudy-day,2019-04-14,29
+2019-07-28 14:00:00,Tamworth Phoenix,Premiership North,21,17,154,@ Away,W,Score @ Away,58.1,12.7,98.2,6.8,1.37,rain,2019-07-28,38
+2019-07-21 14:30:00,Tamworth Phoenix,Premiership North,30,6,167,@ Away,W,Score @ Away,64.6,17.7,74.2,24.3,0.0,partly-cloudy-day,2019-07-21,36
+2019-06-07 15:00:00,Tamworth Phoenix,Premiership North,48,0,0,@ Home,W,Score @ Home,52.2,12.7,87.8,13.3,0.56,rain,2019-06-07,48
+2019-06-23 13:00:00,Tamworth Phoenix,Premiership North,28,7,39,@ Away,W,Score @ Away,60.6,11.6,80.6,15.0,0.0,partly-cloudy-day,2019-06-23,35
+2019-06-15 16:00:00,Tamworth Phoenix,Premiership North,0,21,0,@ Home,L,Score @ Home,53.9,13.4,83.1,19.1,0.1,rain,2019-06-15,21
+2019-01-06 18:00:00,Tamworth Phoenix,Premiership North,42,9,0,@ Home,W,Score @ Home,44.2,9.3,82.9,11.0,0.0,cloudy,2019-01-06,51
+2019-05-25 16:00:00,Tamworth Phoenix,Premiership North,22,12,0,@ Home,W,Score @ Home,61.2,10.4,67.9,21.5,0.0,partly-cloudy-day,2019-05-25,34
+2019-05-19 14:00:00,Tamworth Phoenix,Premiership North,50,0,470,@ Away,W,Score @ Away,53.4,9.9,86.4,18.4,0.04,rain,2019-05-19,50
+2019-05-05 16:00:00,Tamworth Phoenix,Premiership North,34,6,0,@ Home,W,Score @ Home,43.4,9.5,69.8,17.7,0.0,partly-cloudy-day,2019-05-05,40
+2019-04-21 14:00:00,Tamworth Phoenix,Premiership North,28,6,117,@ Away,W,Score @ Away,59.4,9.8,51.1,10.9,0.0,clear-day,2019-04-21,34
+2019-07-28 14:30:00,Kent Exiles,Premiership South,19,0,0,@ Home,W,Score @ Home,64.3,13.4,73.0,25.0,0.0,partly-cloudy-day,2019-07-28,19
+2019-07-21 15:30:00,Kent Exiles,Premiership South,0,42,26,@ Away,L,Score @ Away,65.2,13.1,69.0,25.4,0.0,clear-day,2019-07-21,42
+2019-07-07 15:00:00,Kent Exiles,Premiership South,0,80,0,@ Home,L,Score @ Home,61.5,7.2,79.2,15.2,0.12,rain,2019-07-07,80
+2019-06-30 14:00:00,Kent Exiles,Premiership South,8,28,0,@ Home,L,Score @ Home,66.8,13.7,67.8,18.5,0.0,clear-day,2019-06-30,36
+2019-06-23 15:00:00,Kent Exiles,Premiership South,17,12,0,@ Home,W,Score @ Home,64.0,11.0,74.4,14.4,0.0,partly-cloudy-day,2019-06-23,29
+2019-06-16 14:00:00,Kent Exiles,Premiership South,13,28,102,@ Away,L,Score @ Away,57.2,20.6,83.3,17.8,0.03,rain,2019-06-16,41
+2019-05-26 14:00:00,Kent Exiles,Premiership South,6,71,13,@ Away,L,Score @ Away,61.8,15.0,75.3,25.6,0.01,rain,2019-05-26,77
+2019-05-19 14:00:00,Kent Exiles,Premiership South,7,42,0,@ Home,L,Score @ Home,55.5,6.2,79.2,7.0,0.0,partly-cloudy-day,2019-05-19,49
+2019-12-05 14:00:00,Kent Exiles,Premiership South,9,0,238,@ Away,W,Score @ Away,36.8,15.1,92.4,8.5,0.0,partly-cloudy-day,2019-12-05,9
+2019-05-05 14:30:00,Kent Exiles,Premiership South,23,33,4,@ Away,L,Score @ Away,43.6,10.3,61.6,18.7,0.01,rain,2019-05-05,56
+2019-07-28 14:00:00,Bristol Aztecs,Premiership South,0,55,0,@ Home,L,Score @ Home,63.1,14.6,69.6,20.7,0.0,partly-cloudy-day,2019-07-28,55
+2019-07-21 14:00:00,Bristol Aztecs,Premiership South,30,0,0,@ Home,W,Score @ Home,62.7,11.6,77.7,24.7,0.0,partly-cloudy-day,2019-07-21,30
+2019-07-07 14:30:00,Bristol Aztecs,Premiership South,11,10,240,@ Away,W,Score @ Away,62.1,7.4,77.3,15.4,0.15,rain,2019-07-07,21
+2019-06-30 14:00:00,Bristol Aztecs,Premiership South,8,20,0,@ Home,L,Score @ Home,62.3,13.9,76.0,18.8,0.0,partly-cloudy-day,2019-06-30,28
+2019-06-23 15:00:00,Bristol Aztecs,Premiership South,12,17,238,@ Away,L,Score @ Away,64.0,11.0,74.4,14.4,0.0,partly-cloudy-day,2019-06-23,29
+2019-09-06 14:00:00,Bristol Aztecs,Premiership South,26,9,154,@ Away,W,Score @ Away,54.2,17.2,83.2,18.6,0.08,rain,2019-09-06,35
+2019-02-06 14:00:00,Bristol Aztecs,Premiership South,36,20,0,@ Home,W,Score @ Home,42.6,12.1,92.3,8.4,0.25,rain,2019-02-06,56
+2019-05-19 14:00:00,Bristol Aztecs,Premiership South,0,38,203,@ Away,L,Score @ Away,55.2,6.4,79.8,6.7,0.0,partly-cloudy-day,2019-05-19,38
+2019-12-05 14:00:00,Bristol Aztecs,Premiership South,0,9,0,@ Home,L,Score @ Home,36.8,15.1,92.4,8.5,0.0,partly-cloudy-day,2019-12-05,9
+2019-04-21 15:30:00,Bristol Aztecs,Premiership South,2,33,195,@ Away,L,Score @ Away,60.4,11.5,48.6,11.8,0.0,clear-day,2019-04-21,35
+2019-07-28 13:30:00,London Blitz,Premiership South,15,14,0,@ Home,W,Score @ Home,65.3,13.9,70.6,25.2,0.0,clear-day,2019-07-28,29
+2019-07-21 15:30:00,London Blitz,Premiership South,42,0,0,@ Home,W,Score @ Home,65.2,13.1,69.0,25.4,0.0,clear-day,2019-07-21,42
+2019-06-30 14:00:00,London Blitz,Premiership South,20,8,195,@ Away,W,Score @ Away,62.3,13.9,76.0,18.8,0.0,partly-cloudy-day,2019-06-30,28
+2019-06-23 16:00:00,London Blitz,Premiership South,7,54,0,@ Home,L,Score @ Home,65.2,13.1,71.6,14.6,0.0,clear-day,2019-06-23,61
+2019-05-26 14:00:00,London Blitz,Premiership South,33,0,71,@ Away,W,Score @ Away,59.9,15.1,80.1,27.3,0.01,rain,2019-05-26,33
+2019-05-19 14:00:00,London Blitz,Premiership South,42,7,26,@ Away,W,Score @ Away,55.5,6.2,79.2,7.0,0.0,partly-cloudy-day,2019-05-19,49
+2019-12-05 14:30:00,London Blitz,Premiership South,21,14,25,@ Away,W,Score @ Away,36.6,16.5,90.2,7.8,0.01,rain,2019-12-05,35
+2019-05-05 14:00:00,London Blitz,Premiership South,15,46,25,@ Away,L,Score @ Away,42.2,10.7,63.9,18.8,0.02,rain,2019-05-05,61
+2019-04-28 13:30:00,London Blitz,Premiership South,41,0,0,@ Home,W,Score @ Home,48.7,14.7,64.3,23.1,0.01,rain,2019-04-28,41
+2019-04-21 15:30:00,London Blitz,Premiership South,33,2,0,@ Home,W,Score @ Home,60.4,11.5,48.6,11.8,0.0,clear-day,2019-04-21,35
+2019-07-28 14:00:00,London Warriors,Premiership South,55,0,203,@ Away,W,Score @ Away,63.1,14.6,69.6,20.7,0.0,partly-cloudy-day,2019-07-28,55
+2019-07-21 14:00:00,London Warriors,Premiership South,58,0,0,@ Home,W,Score @ Home,63.6,12.5,72.8,26.2,0.0,partly-cloudy-day,2019-07-21,58
+2019-07-07 15:00:00,London Warriors,Premiership South,80,0,13,@ Away,W,Score @ Away,61.5,7.2,79.2,15.2,0.12,rain,2019-07-07,80
+2019-06-23 16:00:00,London Warriors,Premiership South,54,7,25,@ Away,W,Score @ Away,65.2,13.1,71.6,14.6,0.0,clear-day,2019-06-23,61
+2019-06-16 14:30:00,London Warriors,Premiership South,54,7,16,@ Away,W,Score @ Away,58.6,17.6,78.6,18.2,0.07,rain,2019-06-16,61
+2019-02-06 14:00:00,London Warriors,Premiership South,70,0,67,@ Away,W,Score @ Away,44.5,14.9,92.8,8.8,0.09,rain,2019-02-06,70
+2019-05-26 14:00:00,London Warriors,Premiership South,71,6,0,@ Home,W,Score @ Home,61.8,15.0,75.3,25.6,0.01,rain,2019-05-26,77
+2019-05-19 14:00:00,London Warriors,Premiership South,38,0,0,@ Home,W,Score @ Home,55.2,6.4,79.8,6.7,0.0,partly-cloudy-day,2019-05-19,38
+2019-05-05 14:00:00,London Warriors,Premiership South,46,15,0,@ Home,W,Score @ Home,42.2,10.7,63.9,18.8,0.02,rain,2019-05-05,61
+2019-04-21 14:00:00,London Warriors,Premiership South,85,0,0,@ Home,W,Score @ Home,59.2,8.3,51.5,12.9,0.0,clear-day,2019-04-21,85
+2019-07-28 13:30:00,London Olympians,Premiership South,14,15,25,@ Away,L,Score @ Away,65.3,13.9,70.6,25.2,0.0,clear-day,2019-07-28,29
+2019-07-21 14:00:00,London Olympians,Premiership South,0,58,16,@ Away,L,Score @ Away,63.6,12.5,72.8,26.2,0.0,partly-cloudy-day,2019-07-21,58
+2019-07-07 14:30:00,London Olympians,Premiership South,10,11,0,@ Home,L,Score @ Home,62.1,7.4,77.3,15.4,0.15,rain,2019-07-07,21
+2019-06-30 14:00:00,London Olympians,Premiership South,28,8,4,@ Away,W,Score @ Away,66.8,13.7,67.8,18.5,0.0,clear-day,2019-06-30,36
+2019-06-23 14:30:00,London Olympians,Premiership South,68,6,0,@ Home,W,Score @ Home,64.6,11.4,73.1,14.4,0.0,partly-cloudy-day,2019-06-23,74
+2019-06-16 14:30:00,London Olympians,Premiership South,7,54,0,@ Home,L,Score @ Home,58.6,17.6,78.6,18.2,0.07,rain,2019-06-16,61
+2019-02-06 14:00:00,London Olympians,Premiership South,20,36,240,@ Away,L,Score @ Away,42.6,12.1,92.3,8.4,0.25,rain,2019-02-06,56
+2019-05-19 14:00:00,London Olympians,Premiership South,39,13,104,@ Away,W,Score @ Away,54.3,10.1,80.5,12.0,0.0,partly-cloudy-day,2019-05-19,52
+2019-12-05 14:30:00,London Olympians,Premiership South,14,21,0,@ Home,L,Score @ Home,36.6,16.5,90.2,7.8,0.01,rain,2019-12-05,35
+2019-05-05 14:30:00,London Olympians,Premiership South,33,23,0,@ Home,W,Score @ Home,43.6,10.3,61.6,18.7,0.01,rain,2019-05-05,56
+2019-07-28 14:30:00,Rushmoor Knights,Premiership South,0,19,102,@ Away,L,Score @ Away,64.3,13.4,73.0,25.0,0.0,partly-cloudy-day,2019-07-28,19
+2019-07-21 14:00:00,Rushmoor Knights,Premiership South,0,30,154,@ Away,L,Score @ Away,62.7,11.6,77.7,24.7,0.0,partly-cloudy-day,2019-07-21,30
+2019-06-23 14:30:00,Rushmoor Knights,Premiership South,6,68,104,@ Away,L,Score @ Away,64.6,11.4,73.1,14.4,0.0,partly-cloudy-day,2019-06-23,74
+2019-06-16 14:00:00,Rushmoor Knights,Premiership South,28,13,0,@ Home,W,Score @ Home,57.2,20.6,83.3,17.8,0.03,rain,2019-06-16,41
+2019-09-06 14:00:00,Rushmoor Knights,Premiership South,9,26,0,@ Home,L,Score @ Home,54.2,17.2,83.2,18.6,0.08,rain,2019-09-06,35
+2019-02-06 14:00:00,Rushmoor Knights,Premiership South,0,70,0,@ Home,L,Score @ Home,44.5,14.9,92.8,8.8,0.09,rain,2019-02-06,70
+2019-05-26 14:00:00,Rushmoor Knights,Premiership South,0,33,0,@ Home,L,Score @ Home,59.9,15.1,80.1,27.3,0.01,rain,2019-05-26,33
+2019-05-19 14:00:00,Rushmoor Knights,Premiership South,13,39,0,@ Home,L,Score @ Home,54.3,10.1,80.5,12.0,0.0,partly-cloudy-day,2019-05-19,52
+2019-04-28 13:30:00,Rushmoor Knights,Premiership South,0,41,71,@ Away,L,Score @ Away,48.7,14.7,64.3,23.1,0.01,rain,2019-04-28,41
+2019-04-21 14:00:00,Rushmoor Knights,Premiership South,0,85,67,@ Away,L,Score @ Away,59.2,8.3,51.5,12.9,0.0,clear-day,2019-04-21,85
+2019-07-28 14:00:00,Northumberland Vikings,NFC 1 North,16,6,0,@ Home,W,Score @ Home,63.4,11.4,97.2,5.1,0.02,rain,2019-07-28,22
+2019-07-21 15:00:00,Northumberland Vikings,NFC 1 North,5,0,248,@ Away,W,Score @ Away,60.5,16.2,84.8,10.4,0.09,rain,2019-07-21,5
+2019-07-07 16:00:00,Northumberland Vikings,NFC 1 North,22,0,0,@ Home,W,Score @ Home,52.4,11.4,82.0,6.2,0.0,partly-cloudy-day,2019-07-07,22
+2019-06-30 12:00:00,Northumberland Vikings,NFC 1 North,42,0,252,@ Away,W,Score @ Away,59.3,21.3,83.1,7.1,0.1,rain,2019-06-30,42
+2019-09-06 14:00:00,Northumberland Vikings,NFC 1 North,5,8,0,@ Home,L,Score @ Home,56.2,21.2,84.5,8.9,0.11,rain,2019-09-06,13
+2019-05-26 13:45:00,Northumberland Vikings,NFC 1 North,10,6,179,@ Away,W,Score @ Away,64.6,16.7,73.1,26.1,0.0,cloudy,2019-05-26,16
+2019-05-19 14:00:00,Northumberland Vikings,NFC 1 North,63,0,0,@ Home,W,Score @ Home,57.4,10.5,69.3,16.6,0.0,partly-cloudy-day,2019-05-19,63
+2019-05-05 14:00:00,Northumberland Vikings,NFC 1 North,7,3,391,@ Away,W,Score @ Away,40.2,9.6,88.7,6.3,0.0,partly-cloudy-day,2019-05-05,10
+2019-04-21 14:00:00,Northumberland Vikings,NFC 1 North,22,14,0,@ Home,W,Score @ Home,52.7,7.8,85.1,8.2,0.02,rain,2019-04-21,36
+2019-04-14 14:00:00,Northumberland Vikings,NFC 1 North,24,0,19,@ Away,W,Score @ Away,38.6,12.8,68.7,10.8,0.0,partly-cloudy-day,2019-04-14,24
+2019-07-28 13:45:00,Yorkshire Rams,NFC 1 North,15,12,0,@ Home,W,Score @ Home,60.3,11.9,95.7,5.1,0.71,rain,2019-07-28,27
+2019-07-07 16:00:00,Yorkshire Rams,NFC 1 North,0,22,179,@ Away,L,Score @ Away,52.4,11.4,82.0,6.2,0.0,partly-cloudy-day,2019-07-07,22
+2019-06-23 15:30:00,Yorkshire Rams,NFC 1 North,23,34,0,@ Home,L,Score @ Home,57.0,12.8,81.6,9.4,0.0,partly-cloudy-day,2019-06-23,57
+2019-06-16 14:00:00,Yorkshire Rams,NFC 1 North,53,7,163,@ Away,W,Score @ Away,55.5,27.2,82.2,7.5,0.13,rain,2019-06-16,60
+2019-01-06 12:00:00,Yorkshire Rams,NFC 1 North,2,0,580,@ Away,W,Score @ Away,34.7,13.7,71.3,10.0,0.0,partly-cloudy-day,2019-01-06,2
+2019-05-26 13:45:00,Yorkshire Rams,NFC 1 North,6,10,0,@ Home,L,Score @ Home,64.6,16.7,73.1,26.1,0.0,cloudy,2019-05-26,16
+2019-12-05 15:00:00,Yorkshire Rams,NFC 1 North,12,47,363,@ Away,L,Score @ Away,56.4,23.0,78.8,6.1,0.06,rain,2019-12-05,59
+2019-05-05 13:45:00,Yorkshire Rams,NFC 1 North,22,6,0,@ Home,W,Score @ Home,57.4,23.5,83.0,8.3,0.17,rain,2019-05-05,28
+2019-04-28 13:00:00,Yorkshire Rams,NFC 1 North,0,13,368,@ Away,L,Score @ Away,52.3,9.2,84.8,5.5,0.02,rain,2019-04-28,13
+2019-04-20 16:00:00,Yorkshire Rams,NFC 1 North,0,42,0,@ Home,L,Score @ Home,42.6,30.4,90.7,6.1,0.54,rain,2019-04-20,42
+2019-07-21 15:00:00,East Kilbride Pirates,NFC 1 North,0,5,0,@ Home,L,Score @ Home,60.5,16.2,84.8,10.4,0.09,rain,2019-07-21,5
+2019-07-07 12:00:00,East Kilbride Pirates,NFC 1 North,53,14,258,@ Away,W,Score @ Away,52.7,10.5,80.9,9.4,0.0,partly-cloudy-day,2019-07-07,67
+2019-06-30 16:00:00,East Kilbride Pirates,NFC 1 North,52,6,0,@ Home,W,Score @ Home,59.2,21.1,83.2,7.9,0.09,rain,2019-06-30,58
+2019-06-23 15:30:00,East Kilbride Pirates,NFC 1 North,34,23,363,@ Away,W,Score @ Away,57.0,12.8,81.6,9.4,0.0,partly-cloudy-day,2019-06-23,57
+2019-06-16 14:30:00,East Kilbride Pirates,NFC 1 North,39,7,0,@ Home,W,Score @ Home,54.7,15.0,74.5,9.8,0.0,partly-cloudy-day,2019-06-16,46
+2019-09-06 14:00:00,East Kilbride Pirates,NFC 1 North,8,5,248,@ Away,W,Score @ Away,56.2,21.2,84.5,8.9,0.11,rain,2019-09-06,13
+2019-02-06 15:00:00,East Kilbride Pirates,NFC 1 North,49,12,0,@ Home,W,Score @ Home,49.2,10.7,80.4,8.1,0.04,rain,2019-02-06,61
+2019-05-19 12:00:00,East Kilbride Pirates,NFC 1 North,47,14,9,@ Away,W,Score @ Away,53.6,11.6,79.2,9.2,0.02,rain,2019-05-19,61
+2019-12-05 15:00:00,East Kilbride Pirates,NFC 1 North,47,12,0,@ Home,W,Score @ Home,56.4,23.0,78.8,6.1,0.06,rain,2019-12-05,59
+2019-04-14 14:00:00,East Kilbride Pirates,NFC 1 North,23,12,246,@ Away,W,Score @ Away,38.3,21.6,68.0,6.4,0.0,partly-cloudy-day,2019-04-14,35
+2019-07-28 13:45:00,Glasgow Tigers,NFC 1 North,12,15,368,@ Away,L,Score @ Away,60.3,11.9,95.7,5.1,0.71,rain,2019-07-28,27
+2019-07-21 13:00:00,Glasgow Tigers,NFC 1 North,40,0,0,@ Home,W,Score @ Home,60.5,16.2,84.9,8.9,0.08,rain,2019-07-21,40
+2019-07-07 14:00:00,Glasgow Tigers,NFC 1 North,3,28,244,@ Away,L,Score @ Away,50.8,19.0,75.4,6.5,0.04,rain,2019-07-07,31
+2019-06-30 12:00:00,Glasgow Tigers,NFC 1 North,0,42,0,@ Home,L,Score @ Home,59.3,21.3,83.1,7.1,0.1,rain,2019-06-30,42
+2019-06-16 14:30:00,Glasgow Tigers,NFC 1 North,7,39,9,@ Away,L,Score @ Away,54.7,15.0,74.5,9.8,0.0,partly-cloudy-day,2019-06-16,46
+2019-09-06 13:00:00,Glasgow Tigers,NFC 1 North,13,12,0,@ Home,W,Score @ Home,42.5,24.7,83.4,9.4,0.03,rain,2019-09-06,25
+2019-05-19 12:00:00,Glasgow Tigers,NFC 1 North,14,47,0,@ Home,L,Score @ Home,53.6,11.6,79.2,9.2,0.02,rain,2019-05-19,61
+2019-12-05 14:00:00,Glasgow Tigers,NFC 1 North,42,0,261,@ Away,W,Score @ Away,36.4,21.0,87.9,7.4,0.29,rain,2019-12-05,42
+2019-04-28 13:00:00,Glasgow Tigers,NFC 1 North,13,0,0,@ Home,W,Score @ Home,52.3,9.2,84.8,5.5,0.02,rain,2019-04-28,13
+2019-04-21 14:00:00,Glasgow Tigers,NFC 1 North,14,22,252,@ Away,L,Score @ Away,52.7,7.8,85.1,8.2,0.02,rain,2019-04-21,36
+2019-07-28 14:00:00,Aberdeen Roughnecks,NFC 1 North,6,16,391,@ Away,L,Score @ Away,63.4,11.4,97.2,5.1,0.02,rain,2019-07-28,22
+2019-07-07 14:00:00,Aberdeen Roughnecks,NFC 1 North,28,3,0,@ Home,W,Score @ Home,50.8,19.0,75.4,6.5,0.04,rain,2019-07-07,31
+2019-06-30 16:00:00,Aberdeen Roughnecks,NFC 1 North,6,52,246,@ Away,L,Score @ Away,59.2,21.1,83.2,7.9,0.09,rain,2019-06-30,58
+2019-06-23 14:00:00,Aberdeen Roughnecks,NFC 1 North,56,0,0,@ Home,W,Score @ Home,56.5,15.8,78.5,6.3,0.0,clear-day,2019-06-23,56
+2019-09-06 13:00:00,Aberdeen Roughnecks,NFC 1 North,12,13,244,@ Away,L,Score @ Away,42.5,24.7,83.4,9.4,0.03,rain,2019-09-06,25
+2019-01-06 12:00:00,Aberdeen Roughnecks,NFC 1 North,0,2,0,@ Home,L,Score @ Home,34.7,13.7,71.3,10.0,0.0,partly-cloudy-day,2019-01-06,2
+2019-05-26 14:00:00,Aberdeen Roughnecks,NFC 1 North,36,6,406,@ Away,W,Score @ Away,58.8,10.3,94.5,12.3,1.0,rain,2019-05-26,42
+2019-05-05 14:00:00,Aberdeen Roughnecks,NFC 1 North,3,7,0,@ Home,L,Score @ Home,40.2,9.6,88.7,6.3,0.0,partly-cloudy-day,2019-05-05,10
+2019-04-20 16:00:00,Aberdeen Roughnecks,NFC 1 North,42,0,580,@ Away,W,Score @ Away,42.6,30.4,90.7,6.1,0.54,rain,2019-04-20,42
+2019-04-14 14:00:00,Aberdeen Roughnecks,NFC 1 North,12,23,0,@ Home,L,Score @ Home,38.3,21.6,68.0,6.4,0.0,partly-cloudy-day,2019-04-14,35
+2019-07-21 13:00:00,Gateshead Senators,NFC 1 North,0,40,261,@ Away,L,Score @ Away,60.5,16.2,84.9,8.9,0.08,rain,2019-07-21,40
+2019-07-07 12:00:00,Gateshead Senators,NFC 1 North,14,53,0,@ Home,L,Score @ Home,52.7,10.5,80.9,9.4,0.0,partly-cloudy-day,2019-07-07,67
+2019-06-23 14:00:00,Gateshead Senators,NFC 1 North,0,56,406,@ Away,L,Score @ Away,56.5,15.8,78.5,6.3,0.0,clear-day,2019-06-23,56
+2019-06-16 14:00:00,Gateshead Senators,NFC 1 North,7,53,0,@ Home,L,Score @ Home,55.5,27.2,82.2,7.5,0.13,rain,2019-06-16,60
+2019-02-06 15:00:00,Gateshead Senators,NFC 1 North,12,49,258,@ Away,L,Score @ Away,49.2,10.7,80.4,8.1,0.04,rain,2019-02-06,61
+2019-05-26 14:00:00,Gateshead Senators,NFC 1 North,6,36,0,@ Home,L,Score @ Home,58.8,10.3,94.5,12.3,1.0,rain,2019-05-26,42
+2019-05-19 14:00:00,Gateshead Senators,NFC 1 North,0,63,19,@ Away,L,Score @ Away,57.4,10.5,69.3,16.6,0.0,partly-cloudy-day,2019-05-19,63
+2019-12-05 14:00:00,Gateshead Senators,NFC 1 North,0,42,0,@ Home,L,Score @ Home,36.4,21.0,87.9,7.4,0.29,rain,2019-12-05,42
+2019-05-05 13:45:00,Gateshead Senators,NFC 1 North,6,22,163,@ Away,L,Score @ Away,57.4,23.5,83.0,8.3,0.17,rain,2019-05-05,28
+2019-04-14 14:00:00,Gateshead Senators,NFC 1 North,0,24,0,@ Home,L,Score @ Home,38.6,12.8,68.7,10.8,0.0,partly-cloudy-day,2019-04-14,24
+2019-07-28 14:00:00,Nottingham Caesars,NFC 1 South,14,37,0,@ Home,L,Score @ Home,58.9,12.7,61.5,6.1,0.0,clear-day,2019-07-28,51
+2019-07-07 14:00:00,Nottingham Caesars,NFC 1 South,58,0,80,@ Away,W,Score @ Away,58.4,9.6,74.7,18.3,0.0,clear-day,2019-07-07,58
+2019-06-23 14:30:00,Nottingham Caesars,NFC 1 South,0,48,0,@ Home,L,Score @ Home,59.5,12.8,80.5,14.9,0.0,partly-cloudy-day,2019-06-23,48
+2019-09-06 14:30:00,Nottingham Caesars,NFC 1 South,16,36,0,@ Home,L,Score @ Home,55.9,18.3,76.8,13.9,0.04,rain,2019-09-06,52
+2019-02-06 14:00:00,Nottingham Caesars,NFC 1 South,20,6,113,@ Away,W,Score @ Away,38.7,11.6,88.3,12.1,0.08,rain,2019-02-06,26
+2019-05-26 14:30:00,Nottingham Caesars,NFC 1 South,52,0,0,@ Home,W,Score @ Home,59.2,16.2,76.0,18.3,0.15,rain,2019-05-26,52
+2019-05-05 14:00:00,Nottingham Caesars,NFC 1 South,15,31,185,@ Away,L,Score @ Away,43.4,16.5,68.0,21.5,0.0,partly-cloudy-day,2019-05-05,46
+2019-04-28 14:00:00,Nottingham Caesars,NFC 1 South,38,6,0,@ Home,W,Score @ Home,46.5,12.8,76.4,16.7,0.08,rain,2019-04-28,44
+2019-04-21 14:00:00,Nottingham Caesars,NFC 1 South,6,41,98,@ Away,L,Score @ Away,57.4,6.3,60.8,12.5,0.0,clear-day,2019-04-21,47
+2019-04-14 14:00:00,Nottingham Caesars,NFC 1 South,7,6,159,@ Away,W,Score @ Away,35.2,18.9,65.4,19.3,0.0,partly-cloudy-day,2019-04-14,13
+2019-07-28 14:00:00,Sandwell Steelers,NFC 1 South,29,24,0,@ Home,W,Score @ Home,57.5,7.7,53.8,8.0,0.0,clear-day,2019-07-28,53
+2019-07-21 14:00:00,Sandwell Steelers,NFC 1 South,42,0,0,@ Home,W,Score @ Home,58.7,10.5,90.7,11.7,0.59,rain,2019-07-21,42
+2019-06-30 14:00:00,Sandwell Steelers,NFC 1 South,43,0,118,@ Away,W,Score @ Away,63.8,15.1,70.5,19.8,0.0,partly-cloudy-day,2019-06-30,43
+2019-06-23 14:30:00,Sandwell Steelers,NFC 1 South,48,0,98,@ Away,W,Score @ Away,59.5,12.8,80.5,14.9,0.0,partly-cloudy-day,2019-06-23,48
+2019-02-06 14:00:00,Sandwell Steelers,NFC 1 South,59,6,168,@ Away,W,Score @ Away,37.2,14.5,86.9,9.7,0.14,rain,2019-02-06,65
+2019-12-05 14:00:00,Sandwell Steelers,NFC 1 South,66,0,0,@ Home,W,Score @ Home,36.7,18.1,92.9,9.7,0.01,rain,2019-12-05,66
+2019-04-05 17:00:00,Sandwell Steelers,NFC 1 South,57,12,0,@ Home,W,Score @ Home,42.1,18.2,74.3,21.1,0.07,rain,2019-04-05,69
+2019-04-28 14:00:00,Sandwell Steelers,NFC 1 South,37,0,48,@ Away,W,Score @ Away,45.6,17.7,78.4,13.6,0.1,rain,2019-04-28,37
+2019-04-21 14:00:00,Sandwell Steelers,NFC 1 South,41,6,0,@ Home,W,Score @ Home,57.4,6.3,60.8,12.5,0.0,clear-day,2019-04-21,47
+2019-04-14 14:00:00,Sandwell Steelers,NFC 1 South,48,0,163,@ Away,W,Score @ Away,30.9,19.0,71.9,14.2,0.0,partly-cloudy-day,2019-04-14,48
+2019-07-21 14:00:00,Chester Romans,NFC 1 South,60,0,0,@ Home,W,Score @ Home,36.0,17.6,63.3,6.5,0.0,partly-cloudy-day,2019-07-21,60
+2019-07-07 15:00:00,Chester Romans,NFC 1 South,36,41,91,@ Away,L,Score @ Away,63.2,12.5,74.4,24.1,0.0,partly-cloudy-day,2019-07-07,77
+2019-06-30 14:00:00,Chester Romans,NFC 1 South,0,43,0,@ Home,L,Score @ Home,63.8,15.1,70.5,19.8,0.0,partly-cloudy-day,2019-06-30,43
+2019-06-23 14:00:00,Chester Romans,NFC 1 South,6,20,79,@ Away,L,Score @ Away,60.6,13.2,77.2,11.6,0.08,rain,2019-06-23,26
+2019-09-06 14:00:00,Chester Romans,NFC 1 South,42,0,143,@ Away,W,Score @ Away,55.2,18.5,78.7,13.3,0.07,rain,2019-09-06,42
+2019-05-19 14:00:00,Chester Romans,NFC 1 South,16,22,0,@ Home,L,Score @ Home,53.4,12.1,81.7,17.9,0.0,partly-cloudy-day,2019-05-19,38
+2019-12-05 14:00:00,Chester Romans,NFC 1 South,20,14,0,@ Home,W,Score @ Home,44.5,23.9,83.6,20.5,0.0,partly-cloudy-day,2019-12-05,34
+2019-04-05 17:00:00,Chester Romans,NFC 1 South,12,57,118,@ Away,L,Score @ Away,42.1,18.2,74.3,21.1,0.07,rain,2019-04-05,69
+2019-04-28 14:00:00,Chester Romans,NFC 1 South,6,38,159,@ Away,L,Score @ Away,46.5,12.8,76.4,16.7,0.08,rain,2019-04-28,44
+2019-04-14 14:00:00,Chester Romans,NFC 1 South,6,7,0,@ Home,L,Score @ Home,35.2,18.9,65.4,19.3,0.0,partly-cloudy-day,2019-04-14,13
+2019-07-28 14:00:00,Lancashire Wolverines,NFC 1 South,24,29,168,@ Away,L,Score @ Away,57.5,7.7,53.8,8.0,0.0,clear-day,2019-07-28,53
+2019-07-07 15:00:00,Lancashire Wolverines,NFC 1 South,41,36,0,@ Home,W,Score @ Home,63.2,12.5,74.4,24.1,0.0,partly-cloudy-day,2019-07-07,77
+2019-06-23 14:00:00,Lancashire Wolverines,NFC 1 South,50,0,155,@ Away,W,Score @ Away,57.6,13.6,84.6,11.6,0.0,partly-cloudy-day,2019-06-23,50
+2019-06-16 13:00:00,Lancashire Wolverines,NFC 1 South,22,21,0,@ Home,W,Score @ Home,55.7,17.1,78.3,21.2,0.08,rain,2019-06-16,43
+2019-09-06 14:30:00,Lancashire Wolverines,NFC 1 South,36,16,185,@ Away,W,Score @ Away,55.9,18.3,76.8,13.9,0.04,rain,2019-09-06,52
+2019-02-06 14:00:00,Lancashire Wolverines,NFC 1 South,6,59,0,@ Home,L,Score @ Home,37.2,14.5,86.9,9.7,0.14,rain,2019-02-06,65
+2019-05-19 15:00:00,Lancashire Wolverines,NFC 1 South,52,14,0,@ Home,W,Score @ Home,53.5,10.9,82.2,20.2,0.0,partly-cloudy-day,2019-05-19,66
+2019-12-05 14:00:00,Lancashire Wolverines,NFC 1 South,14,20,91,@ Away,L,Score @ Away,44.5,23.9,83.6,20.5,0.0,partly-cloudy-day,2019-12-05,34
+2019-05-05 14:00:00,Lancashire Wolverines,NFC 1 South,31,15,0,@ Home,W,Score @ Home,43.4,16.5,68.0,21.5,0.0,partly-cloudy-day,2019-05-05,46
+2019-04-14 14:00:00,Lancashire Wolverines,NFC 1 South,8,15,154,@ Away,L,Score @ Away,33.9,19.6,67.1,14.4,0.0,partly-cloudy-day,2019-04-14,23
+2019-07-21 14:00:00,Doncaster Mustangs,NFC 1 South,0,60,143,@ Away,L,Score @ Away,36.0,17.6,63.3,6.5,0.0,partly-cloudy-day,2019-07-21,60
+2019-07-07 14:00:00,Doncaster Mustangs,NFC 1 South,0,58,0,@ Home,L,Score @ Home,58.4,9.6,74.7,18.3,0.0,clear-day,2019-07-07,58
+2019-06-30 14:00:00,Doncaster Mustangs,NFC 1 South,0,43,177,@ Away,L,Score @ Away,62.1,19.0,73.2,15.1,0.0,partly-cloudy-day,2019-06-30,43
+2019-06-23 14:00:00,Doncaster Mustangs,NFC 1 South,0,50,0,@ Home,L,Score @ Home,57.6,13.6,84.6,11.6,0.0,partly-cloudy-day,2019-06-23,50
+2019-09-06 14:00:00,Doncaster Mustangs,NFC 1 South,0,42,0,@ Home,L,Score @ Home,55.2,18.5,78.7,13.3,0.07,rain,2019-09-06,42
+2019-05-26 14:30:00,Doncaster Mustangs,NFC 1 South,0,52,80,@ Away,L,Score @ Away,59.2,16.2,76.0,18.3,0.15,rain,2019-05-26,52
+2019-05-19 15:00:00,Doncaster Mustangs,NFC 1 South,14,52,155,@ Away,L,Score @ Away,53.5,10.9,82.2,20.2,0.0,partly-cloudy-day,2019-05-19,66
+2019-12-05 14:00:00,Doncaster Mustangs,NFC 1 South,0,66,163,@ Away,L,Score @ Away,36.7,18.1,92.9,9.7,0.01,rain,2019-12-05,66
+2019-04-21 14:00:00,Doncaster Mustangs,NFC 1 South,6,36,0,@ Home,L,Score @ Home,58.1,10.0,53.2,9.0,0.0,clear-day,2019-04-21,42
+2019-04-14 14:00:00,Doncaster Mustangs,NFC 1 South,0,48,0,@ Home,L,Score @ Home,30.9,19.0,71.9,14.2,0.0,partly-cloudy-day,2019-04-14,48
+2019-07-28 14:00:00,Shropshire Revolution,NFC 1 South,37,14,113,@ Away,W,Score @ Away,58.9,12.7,61.5,6.1,0.0,clear-day,2019-07-28,51
+2019-07-21 14:00:00,Shropshire Revolution,NFC 1 South,0,42,48,@ Away,L,Score @ Away,58.7,10.5,90.7,11.7,0.59,rain,2019-07-21,42
+2019-06-30 14:00:00,Shropshire Revolution,NFC 1 South,43,0,0,@ Home,W,Score @ Home,62.1,19.0,73.2,15.1,0.0,partly-cloudy-day,2019-06-30,43
+2019-06-23 14:00:00,Shropshire Revolution,NFC 1 South,20,6,0,@ Home,W,Score @ Home,60.6,13.2,77.2,11.6,0.08,rain,2019-06-23,26
+2019-06-16 13:00:00,Shropshire Revolution,NFC 1 South,21,22,154,@ Away,L,Score @ Away,55.7,17.1,78.3,21.2,0.08,rain,2019-06-16,43
+2019-02-06 14:00:00,Shropshire Revolution,NFC 1 South,6,20,0,@ Home,L,Score @ Home,38.7,11.6,88.3,12.1,0.08,rain,2019-02-06,26
+2019-05-19 14:00:00,Shropshire Revolution,NFC 1 South,22,16,79,@ Away,W,Score @ Away,53.4,12.1,81.7,17.9,0.0,partly-cloudy-day,2019-05-19,38
+2019-04-28 14:00:00,Shropshire Revolution,NFC 1 South,0,37,0,@ Home,L,Score @ Home,45.6,17.7,78.4,13.6,0.1,rain,2019-04-28,37
+2019-04-21 14:00:00,Shropshire Revolution,NFC 1 South,36,6,177,@ Away,W,Score @ Away,58.1,10.0,53.2,9.0,0.0,clear-day,2019-04-21,42
+2019-04-14 14:00:00,Shropshire Revolution,NFC 1 South,15,8,0,@ Home,W,Score @ Home,33.9,19.6,67.1,14.4,0.0,partly-cloudy-day,2019-04-14,23
+2019-07-28 14:00:00,Portsmouth Dreadnoughts,SFC 1 West,13,22,0,@ Home,L,Score @ Home,64.6,20.0,73.1,23.9,0.0,partly-cloudy-day,2019-07-28,35
+2019-07-07 13:30:00,Portsmouth Dreadnoughts,SFC 1 West,13,28,94,@ Away,L,Score @ Away,61.3,8.0,83.7,15.2,0.08,rain,2019-07-07,41
+2019-06-30 14:00:00,Portsmouth Dreadnoughts,SFC 1 West,9,47,0,@ Home,L,Score @ Home,63.5,17.6,77.6,18.4,0.0,partly-cloudy-day,2019-06-30,56
+2019-06-16 14:30:00,Portsmouth Dreadnoughts,SFC 1 West,36,17,125,@ Away,W,Score @ Away,56.0,18.0,82.0,15.8,0.08,rain,2019-06-16,53
+2019-09-06 14:00:00,Portsmouth Dreadnoughts,SFC 1 West,19,21,0,@ Home,L,Score @ Home,55.5,22.0,82.2,19.2,0.01,rain,2019-09-06,40
+2019-02-06 14:00:00,Portsmouth Dreadnoughts,SFC 1 West,47,0,0,@ Home,W,Score @ Home,43.1,22.2,98.0,4.3,0.16,rain,2019-02-06,47
+2019-05-19 14:30:00,Portsmouth Dreadnoughts,SFC 1 West,7,42,0,@ Home,L,Score @ Home,54.6,8.7,84.2,6.9,0.04,rain,2019-05-19,49
+2019-05-05 15:00:00,Portsmouth Dreadnoughts,SFC 1 West,8,13,149,@ Away,L,Score @ Away,41.9,10.3,65.2,17.9,0.0,partly-cloudy-day,2019-05-05,21
+2019-04-28 14:00:00,Portsmouth Dreadnoughts,SFC 1 West,38,27,105,@ Away,W,Score @ Away,46.9,12.8,67.4,20.7,0.0,partly-cloudy-day,2019-04-28,65
+2019-04-14 13:30:00,Portsmouth Dreadnoughts,SFC 1 West,14,41,36,@ Away,L,Score @ Away,34.8,16.7,67.1,11.9,0.0,partly-cloudy-day,2019-04-14,55
+2019-07-28 13:30:00,Solent Thrashers,SFC 1 West,24,19,0,@ Home,W,Score @ Home,64.0,15.1,69.7,17.4,0.0,partly-cloudy-day,2019-07-28,43
+2019-07-21 15:00:00,Solent Thrashers,SFC 1 West,37,6,76,@ Away,W,Score @ Away,63.0,13.4,74.4,21.7,0.0,partly-cloudy-day,2019-07-21,43
+2019-07-07 15:00:00,Solent Thrashers,SFC 1 West,58,7,0,@ Home,W,Score @ Home,63.1,10.3,78.0,12.3,0.05,rain,2019-07-07,65
+2019-06-30 14:00:00,Solent Thrashers,SFC 1 West,47,9,36,@ Away,W,Score @ Away,63.5,17.6,77.6,18.4,0.0,partly-cloudy-day,2019-06-30,56
+2019-06-23 13:30:00,Solent Thrashers,SFC 1 West,32,13,109,@ Away,W,Score @ Away,64.9,12.7,75.1,13.8,0.0,partly-cloudy-day,2019-06-23,45
+2019-09-06 15:00:00,Solent Thrashers,SFC 1 West,28,0,0,@ Home,W,Score @ Home,55.0,18.0,82.3,16.3,0.01,rain,2019-09-06,28
+2019-02-06 15:00:00,Solent Thrashers,SFC 1 West,10,0,130,@ Away,W,Score @ Away,44.3,11.7,92.1,8.7,0.12,rain,2019-02-06,10
+2019-05-05 15:00:00,Solent Thrashers,SFC 1 West,13,10,0,@ Home,W,Score @ Home,43.6,7.7,64.8,16.7,0.0,partly-cloudy-day,2019-05-05,23
+2019-04-28 14:00:00,Solent Thrashers,SFC 1 West,52,7,96,@ Away,W,Score @ Away,46.9,12.4,68.5,19.3,0.0,partly-cloudy-day,2019-04-28,59
+2019-04-14 13:30:00,Solent Thrashers,SFC 1 West,41,14,0,@ Home,W,Score @ Home,34.8,16.7,67.1,11.9,0.0,partly-cloudy-day,2019-04-14,55
+2019-07-28 13:30:00,Sussex Thunder,SFC 1 West,48,12,0,@ Home,W,Score @ Home,63.9,16.4,77.6,21.8,0.0,partly-cloudy-day,2019-07-28,60
+2019-07-21 14:30:00,Sussex Thunder,SFC 1 West,55,18,176,@ Away,W,Score @ Away,62.6,12.3,75.4,18.6,0.0,partly-cloudy-day,2019-07-21,73
+2019-07-07 13:30:00,Sussex Thunder,SFC 1 West,28,13,0,@ Home,W,Score @ Home,61.3,8.0,83.7,15.2,0.08,rain,2019-07-07,41
+2019-06-30 15:00:00,Sussex Thunder,SFC 1 West,23,6,134,@ Away,W,Score @ Away,66.3,14.5,67.6,19.2,0.0,partly-cloudy-day,2019-06-30,29
+2019-06-23 13:30:00,Sussex Thunder,SFC 1 West,13,32,0,@ Home,L,Score @ Home,64.9,12.7,75.1,13.8,0.0,partly-cloudy-day,2019-06-23,45
+2019-06-16 14:00:00,Sussex Thunder,SFC 1 West,17,6,126,@ Away,W,Score @ Away,56.8,19.1,81.9,17.0,0.04,rain,2019-06-16,23
+2019-05-19 14:30:00,Sussex Thunder,SFC 1 West,42,7,94,@ Away,W,Score @ Away,54.6,8.7,84.2,6.9,0.04,rain,2019-05-19,49
+2019-12-05 13:30:00,Sussex Thunder,SFC 1 West,21,28,0,@ Home,L,Score @ Home,35.9,17.4,93.9,7.0,0.0,partly-cloudy-day,2019-12-05,49
+2019-05-05 15:00:00,Sussex Thunder,SFC 1 West,10,13,109,@ Away,L,Score @ Away,43.6,7.7,64.8,16.7,0.0,partly-cloudy-day,2019-05-05,23
+2019-04-14 13:30:00,Sussex Thunder,SFC 1 West,43,7,0,@ Home,W,Score @ Home,34.4,13.8,72.2,12.9,0.0,clear-day,2019-04-14,50
+2019-07-28 13:30:00,Berkshire Renegades,SFC 1 West,12,48,126,@ Away,L,Score @ Away,63.9,16.4,77.6,21.8,0.0,partly-cloudy-day,2019-07-28,60
+2019-07-21 15:00:00,Berkshire Renegades,SFC 1 West,6,37,0,@ Home,L,Score @ Home,63.0,13.4,74.4,21.7,0.0,partly-cloudy-day,2019-07-21,43
+2019-07-07 15:00:00,Berkshire Renegades,SFC 1 West,25,34,65,@ Away,L,Score @ Away,62.3,9.8,76.0,16.0,0.07,rain,2019-07-07,59
+2019-06-30 14:30:00,Berkshire Renegades,SFC 1 West,26,7,42,@ Away,W,Score @ Away,63.6,14.5,72.7,16.7,0.0,partly-cloudy-day,2019-06-30,33
+2019-06-16 14:00:00,Berkshire Renegades,SFC 1 West,6,17,0,@ Home,L,Score @ Home,56.8,19.1,81.9,17.0,0.04,rain,2019-06-16,23
+2019-09-06 15:00:00,Berkshire Renegades,SFC 1 West,0,28,76,@ Away,L,Score @ Away,55.0,18.0,82.3,16.3,0.01,rain,2019-09-06,28
+2019-02-06 14:00:00,Berkshire Renegades,SFC 1 West,0,47,105,@ Away,L,Score @ Away,43.1,22.2,98.0,4.3,0.16,rain,2019-02-06,47
+2019-12-05 14:00:00,Berkshire Renegades,SFC 1 West,12,24,0,@ Home,L,Score @ Home,35.0,18.3,92.8,8.1,0.01,rain,2019-12-05,36
+2019-04-28 14:00:00,Berkshire Renegades,SFC 1 West,27,38,0,@ Home,L,Score @ Home,46.9,12.8,67.4,20.7,0.0,partly-cloudy-day,2019-04-28,65
+2019-04-14 14:00:00,Berkshire Renegades,SFC 1 West,16,49,0,@ Home,L,Score @ Home,34.3,14.2,68.9,12.1,0.0,partly-cloudy-day,2019-04-14,65
+2019-07-28 14:00:00,Oxford Saints,SFC 1 West,22,13,125,@ Away,W,Score @ Away,64.6,20.0,73.1,23.9,0.0,partly-cloudy-day,2019-07-28,35
+2019-07-21 14:30:00,Oxford Saints,SFC 1 West,18,55,0,@ Home,L,Score @ Home,62.6,12.3,75.4,18.6,0.0,partly-cloudy-day,2019-07-21,73
+2019-07-07 15:00:00,Oxford Saints,SFC 1 West,7,58,96,@ Away,L,Score @ Away,63.1,10.3,78.0,12.3,0.05,rain,2019-07-07,65
+2019-06-30 14:30:00,Oxford Saints,SFC 1 West,7,26,0,@ Home,L,Score @ Home,63.6,14.5,72.7,16.7,0.0,partly-cloudy-day,2019-06-30,33
+2019-06-23 15:00:00,Oxford Saints,SFC 1 West,9,46,87,@ Away,L,Score @ Away,64.3,13.8,72.4,14.3,0.0,partly-cloudy-day,2019-06-23,55
+2019-06-16 14:30:00,Oxford Saints,SFC 1 West,17,36,0,@ Home,L,Score @ Home,56.0,18.0,82.0,15.8,0.08,rain,2019-06-16,53
+2019-05-26 14:00:00,Oxford Saints,SFC 1 West,8,40,0,@ Home,L,Score @ Home,58.9,13.9,82.0,17.1,0.01,rain,2019-05-26,48
+2019-12-05 14:00:00,Oxford Saints,SFC 1 West,24,12,42,@ Away,W,Score @ Away,35.0,18.3,92.8,8.1,0.01,rain,2019-12-05,36
+2019-04-28 14:00:00,Oxford Saints,SFC 1 West,7,52,0,@ Home,L,Score @ Home,46.9,12.4,68.5,19.3,0.0,partly-cloudy-day,2019-04-28,59
+2019-04-14 13:30:00,Oxford Saints,SFC 1 West,7,43,176,@ Away,L,Score @ Away,34.4,13.8,72.2,12.9,0.0,clear-day,2019-04-14,50
+2019-07-28 13:30:00,Hertfordshire Cheetahs,SFC 1 West,19,24,130,@ Away,L,Score @ Away,64.0,15.1,69.7,17.4,0.0,partly-cloudy-day,2019-07-28,43
+2019-07-07 15:00:00,Hertfordshire Cheetahs,SFC 1 West,34,25,0,@ Home,W,Score @ Home,62.3,9.8,76.0,16.0,0.07,rain,2019-07-07,59
+2019-06-30 15:00:00,Hertfordshire Cheetahs,SFC 1 West,6,23,0,@ Home,L,Score @ Home,66.3,14.5,67.6,19.2,0.0,partly-cloudy-day,2019-06-30,29
+2019-06-23 15:00:00,Hertfordshire Cheetahs,SFC 1 West,46,9,0,@ Home,W,Score @ Home,64.3,13.8,72.4,14.3,0.0,partly-cloudy-day,2019-06-23,55
+2019-09-06 14:00:00,Hertfordshire Cheetahs,SFC 1 West,21,19,149,@ Away,W,Score @ Away,55.5,22.0,82.2,19.2,0.01,rain,2019-09-06,40
+2019-02-06 15:00:00,Hertfordshire Cheetahs,SFC 1 West,0,10,0,@ Home,L,Score @ Home,44.3,11.7,92.1,8.7,0.12,rain,2019-02-06,10
+2019-05-26 14:00:00,Hertfordshire Cheetahs,SFC 1 West,40,8,87,@ Away,W,Score @ Away,58.9,13.9,82.0,17.1,0.01,rain,2019-05-26,48
+2019-12-05 13:30:00,Hertfordshire Cheetahs,SFC 1 West,28,21,134,@ Away,W,Score @ Away,35.9,17.4,93.9,7.0,0.0,partly-cloudy-day,2019-12-05,49
+2019-05-05 15:00:00,Hertfordshire Cheetahs,SFC 1 West,13,8,0,@ Home,W,Score @ Home,41.9,10.3,65.2,17.9,0.0,partly-cloudy-day,2019-05-05,21
+2019-04-14 14:00:00,Hertfordshire Cheetahs,SFC 1 West,49,16,65,@ Away,W,Score @ Away,34.3,14.2,68.9,12.1,0.0,partly-cloudy-day,2019-04-14,65
+2019-07-28 14:30:00,Cambridgeshire Cats,SFC 1 East,29,0,0,@ Home,W,Score @ Home,60.2,14.6,96.0,10.8,0.3,rain,2019-07-28,29
+2019-06-30 14:30:00,Cambridgeshire Cats,SFC 1 East,6,9,0,@ Home,L,Score @ Home,66.7,15.3,69.3,18.7,0.0,partly-cloudy-day,2019-06-30,15
+2019-06-23 14:00:00,Cambridgeshire Cats,SFC 1 East,14,9,101,@ Away,W,Score @ Away,65.3,14.7,69.9,14.5,0.0,partly-cloudy-day,2019-06-23,23
+2019-09-06 14:00:00,Cambridgeshire Cats,SFC 1 East,27,26,32,@ Away,W,Score @ Away,55.0,20.8,81.9,6.8,0.03,rain,2019-09-06,53
+2019-02-06 14:00:00,Cambridgeshire Cats,SFC 1 East,20,13,93,@ Away,W,Score @ Away,45.3,11.9,91.4,8.5,0.14,rain,2019-02-06,33
+2019-05-19 14:30:00,Cambridgeshire Cats,SFC 1 East,21,7,0,@ Home,W,Score @ Home,54.0,7.5,87.8,4.8,0.0,partly-cloudy-day,2019-05-19,28
+2019-12-05 14:30:00,Cambridgeshire Cats,SFC 1 East,18,10,0,@ Home,W,Score @ Home,33.7,20.4,93.8,7.9,0.01,rain,2019-12-05,28
+2019-05-05 14:30:00,Cambridgeshire Cats,SFC 1 East,50,0,0,@ Home,W,Score @ Home,41.8,11.8,70.9,12.4,0.01,rain,2019-05-05,50
+2019-04-21 12:00:00,Cambridgeshire Cats,SFC 1 East,48,0,50,@ Away,W,Score @ Away,57.1,12.1,60.8,13.4,0.0,clear-day,2019-04-21,48
+2019-04-14 14:00:00,Cambridgeshire Cats,SFC 1 East,27,0,97,@ Away,W,Score @ Away,33.8,13.2,73.6,12.9,0.01,rain,2019-04-14,27
+2019-07-28 14:00:00,Wembley Stallions,SFC 1 East,16,14,0,@ Home,W,Score @ Home,64.7,15.1,71.1,24.5,0.0,partly-cloudy-day,2019-07-28,30
+2019-07-07 15:00:00,Wembley Stallions,SFC 1 East,14,21,0,@ Home,L,Score @ Home,63.0,10.5,75.8,16.8,0.08,rain,2019-07-07,35
+2019-06-23 14:00:00,Wembley Stallions,SFC 1 East,9,14,0,@ Home,L,Score @ Home,65.3,14.7,69.9,14.5,0.0,partly-cloudy-day,2019-06-23,23
+2019-06-16 15:00:00,Wembley Stallions,SFC 1 East,32,6,0,@ Home,W,Score @ Home,58.6,19.0,78.4,17.7,0.02,rain,2019-06-16,38
+2019-09-06 12:00:00,Wembley Stallions,SFC 1 East,21,12,77,@ Away,W,Score @ Away,55.0,16.8,76.9,20.4,0.01,rain,2019-09-06,33
+2019-05-19 14:30:00,Wembley Stallions,SFC 1 East,7,21,101,@ Away,L,Score @ Away,54.0,7.5,87.8,4.8,0.0,partly-cloudy-day,2019-05-19,28
+2019-12-05 15:00:00,Wembley Stallions,SFC 1 East,44,14,0,@ Home,W,Score @ Home,37.2,17.8,91.0,7.3,0.06,rain,2019-12-05,58
+2019-05-05 14:30:00,Wembley Stallions,SFC 1 East,24,0,112,@ Away,W,Score @ Away,40.6,12.4,71.1,16.6,0.02,rain,2019-05-05,24
+2019-04-28 14:00:00,Wembley Stallions,SFC 1 East,0,7,12,@ Away,L,Score @ Away,48.1,15.1,65.5,21.9,0.01,rain,2019-04-28,7
+2019-04-14 14:00:00,Wembley Stallions,SFC 1 East,9,13,122,@ Away,L,Score @ Away,34.2,14.2,80.8,6.7,0.0,clear-day,2019-04-14,22
+2019-07-28 14:00:00,Bury Saints,SFC 1 East,14,16,122,@ Away,L,Score @ Away,64.7,15.1,71.1,24.5,0.0,partly-cloudy-day,2019-07-28,30
+2019-07-21 14:00:00,Bury Saints,SFC 1 East,30,12,0,@ Home,W,Score @ Home,65.4,13.7,72.0,7.4,0.0,clear-day,2019-07-21,42
+2019-06-30 12:00:00,Bury Saints,SFC 1 East,27,0,80,@ Away,W,Score @ Away,65.4,14.8,69.9,26.0,0.0,partly-cloudy-day,2019-06-30,27
+2019-06-23 14:00:00,Bury Saints,SFC 1 East,58,0,0,@ Home,W,Score @ Home,62.9,12.9,87.2,6.7,0.0,clear-day,2019-06-23,58
+2019-09-06 14:00:00,Bury Saints,SFC 1 East,26,27,0,@ Home,L,Score @ Home,55.0,20.8,81.9,6.8,0.03,rain,2019-09-06,53
+2019-05-26 14:30:00,Bury Saints,SFC 1 East,34,2,97,@ Away,W,Score @ Away,62.1,18.1,77.8,27.7,0.01,rain,2019-05-26,36
+2019-05-19 14:00:00,Bury Saints,SFC 1 East,13,19,114,@ Away,L,Score @ Away,55.8,6.8,77.3,10.2,0.0,partly-cloudy-day,2019-05-19,32
+2019-12-05 14:30:00,Bury Saints,SFC 1 East,10,18,32,@ Away,L,Score @ Away,33.7,20.4,93.8,7.9,0.01,rain,2019-12-05,28
+2019-04-28 14:00:00,Bury Saints,SFC 1 East,32,0,0,@ Home,W,Score @ Home,44.2,24.7,89.2,7.0,0.05,rain,2019-04-28,32
+2019-04-14 14:00:00,Bury Saints,SFC 1 East,13,9,0,@ Home,W,Score @ Home,34.2,14.2,80.8,6.7,0.0,clear-day,2019-04-14,22
+2019-07-21 12:00:00,Ouse Valley Eagles,SFC 1 East,24,14,0,@ Home,W,Score @ Home,62.9,11.0,74.2,28.2,0.0,partly-cloudy-day,2019-07-21,38
+2019-07-07 14:30:00,Ouse Valley Eagles,SFC 1 East,6,13,133,@ Away,L,Score @ Away,58.9,9.9,74.7,23.2,0.05,rain,2019-07-07,19
+2019-06-30 12:00:00,Ouse Valley Eagles,SFC 1 East,0,27,0,@ Home,L,Score @ Home,65.4,14.8,69.9,26.0,0.0,partly-cloudy-day,2019-06-30,27
+2019-06-23 15:00:00,Ouse Valley Eagles,SFC 1 East,0,37,77,@ Away,L,Score @ Away,64.9,13.9,71.6,14.6,0.0,partly-cloudy-day,2019-06-23,37
+2019-09-06 12:00:00,Ouse Valley Eagles,SFC 1 East,12,21,0,@ Home,L,Score @ Home,55.0,16.8,76.9,20.4,0.01,rain,2019-09-06,33
+2019-12-05 15:00:00,Ouse Valley Eagles,SFC 1 East,14,44,77,@ Away,L,Score @ Away,37.2,17.8,91.0,7.3,0.06,rain,2019-12-05,58
+2019-05-05 14:30:00,Ouse Valley Eagles,SFC 1 East,0,50,50,@ Away,L,Score @ Away,41.8,11.8,70.9,12.4,0.01,rain,2019-05-05,50
+2019-04-28 14:00:00,Ouse Valley Eagles,SFC 1 East,0,32,80,@ Away,L,Score @ Away,44.2,24.7,89.2,7.0,0.05,rain,2019-04-28,32
+2019-04-21 12:00:00,Ouse Valley Eagles,SFC 1 East,0,48,0,@ Home,L,Score @ Home,57.1,12.1,60.8,13.4,0.0,clear-day,2019-04-21,48
+2019-04-14 12:00:00,Ouse Valley Eagles,SFC 1 East,0,23,0,@ Home,L,Score @ Home,33.3,14.7,69.2,23.7,0.0,partly-cloudy-day,2019-04-14,23
+2019-07-28 14:30:00,Colchester Gladiators,SFC 1 East,0,29,97,@ Away,L,Score @ Away,60.2,14.6,96.0,10.8,0.3,rain,2019-07-28,29
+2019-07-21 12:00:00,Colchester Gladiators,SFC 1 East,14,24,133,@ Away,L,Score @ Away,62.9,11.0,74.2,28.2,0.0,partly-cloudy-day,2019-07-21,38
+2019-07-07 14:30:00,Colchester Gladiators,SFC 1 East,13,6,0,@ Home,W,Score @ Home,58.9,9.9,74.7,23.2,0.05,rain,2019-07-07,19
+2019-06-23 14:00:00,Colchester Gladiators,SFC 1 East,0,58,97,@ Away,L,Score @ Away,62.9,12.9,87.2,6.7,0.0,clear-day,2019-06-23,58
+2019-06-16 15:00:00,Colchester Gladiators,SFC 1 East,6,32,112,@ Away,L,Score @ Away,58.6,19.0,78.4,17.7,0.02,rain,2019-06-16,38
+2019-09-06 14:30:00,Colchester Gladiators,SFC 1 East,3,32,0,@ Home,L,Score @ Home,53.6,20.1,79.3,19.3,0.03,rain,2019-09-06,35
+2019-05-26 14:30:00,Colchester Gladiators,SFC 1 East,2,34,0,@ Home,L,Score @ Home,62.1,18.1,77.8,27.7,0.01,rain,2019-05-26,36
+2019-12-05 14:00:00,Colchester Gladiators,SFC 1 East,0,50,105,@ Away,L,Score @ Away,37.2,17.1,90.8,7.5,0.03,rain,2019-12-05,50
+2019-05-05 14:30:00,Colchester Gladiators,SFC 1 East,0,24,0,@ Home,L,Score @ Home,40.6,12.4,71.1,16.6,0.02,rain,2019-05-05,24
+2019-04-14 14:00:00,Colchester Gladiators,SFC 1 East,0,27,0,@ Home,L,Score @ Home,33.8,13.2,73.6,12.9,0.01,rain,2019-04-14,27
+2019-07-21 14:00:00,London Hornets,SFC 1 East,12,30,114,@ Away,L,Score @ Away,65.4,13.7,72.0,7.4,0.0,clear-day,2019-07-21,42
+2019-07-07 15:00:00,London Hornets,SFC 1 East,21,14,12,@ Away,W,Score @ Away,63.0,10.5,75.8,16.8,0.08,rain,2019-07-07,35
+2019-06-30 14:30:00,London Hornets,SFC 1 East,9,6,93,@ Away,W,Score @ Away,66.7,15.3,69.3,18.7,0.0,partly-cloudy-day,2019-06-30,15
+2019-06-23 15:00:00,London Hornets,SFC 1 East,37,0,0,@ Home,W,Score @ Home,64.9,13.9,71.6,14.6,0.0,partly-cloudy-day,2019-06-23,37
+2019-09-06 14:30:00,London Hornets,SFC 1 East,32,3,105,@ Away,W,Score @ Away,53.6,20.1,79.3,19.3,0.03,rain,2019-09-06,35
+2019-02-06 14:00:00,London Hornets,SFC 1 East,13,20,0,@ Home,L,Score @ Home,45.3,11.9,91.4,8.5,0.14,rain,2019-02-06,33
+2019-05-19 14:00:00,London Hornets,SFC 1 East,19,13,0,@ Home,W,Score @ Home,55.8,6.8,77.3,10.2,0.0,partly-cloudy-day,2019-05-19,32
+2019-12-05 14:00:00,London Hornets,SFC 1 East,50,0,0,@ Home,W,Score @ Home,37.2,17.1,90.8,7.5,0.03,rain,2019-12-05,50
+2019-04-28 14:00:00,London Hornets,SFC 1 East,7,0,0,@ Home,W,Score @ Home,48.1,15.1,65.5,21.9,0.01,rain,2019-04-28,7
+2019-04-14 12:00:00,London Hornets,SFC 1 East,23,0,77,@ Away,W,Score @ Away,33.3,14.7,69.2,23.7,0.0,partly-cloudy-day,2019-04-14,23
+2019-04-08 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,0,@ Home,L,Score @ Home,41.3,18.4,83.6,7.3,0.01,rain,2019-04-08,50
+2019-07-28 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,128,@ Away,L,Score @ Away,64.2,12.2,91.9,6.0,0.13,rain,2019-07-28,50
+2019-07-21 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,0,@ Home,L,Score @ Home,61.3,15.6,79.1,31.3,0.0,partly-cloudy-day,2019-07-21,50
+2019-06-23 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,198,@ Away,L,Score @ Away,60.0,16.2,71.2,15.1,0.0,partly-cloudy-day,2019-06-23,50
+2019-09-06 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,143,@ Away,L,Score @ Away,53.9,20.5,83.1,18.2,0.07,rain,2019-09-06,50
+2019-02-06 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,0,@ Home,L,Score @ Home,38.6,16.0,84.0,15.6,0.2,rain,2019-02-06,50
+2019-05-19 14:00:00,Carlisle Sentinels,NFC 2 North,0,50,77,@ Away,L,Score @ Away,50.4,9.5,87.3,19.0,0.01,rain,2019-05-19,50
+2019-05-05 14:00:00,Carlisle Sentinels,NFC 2 North,0,42,0,@ Home,L,Score @ Home,42.6,8.4,68.8,32.2,0.0,cloudy,2019-05-05,42
+2019-04-08 14:00:00,Clyde Valley Blackhawks,NFC 2 North,12,14,0,@ Home,L,Score @ Home,36.9,16.4,85.2,7.9,0.0,partly-cloudy-day,2019-04-08,26
+2019-07-28 14:00:00,Clyde Valley Blackhawks,NFC 2 North,6,6,102,@ Away,T,Score @ Away,63.7,10.9,89.0,10.1,0.22,rain,2019-07-28,12
+2019-06-16 14:00:00,Clyde Valley Blackhawks,NFC 2 North,30,0,269,@ Away,W,Score @ Away,54.2,14.9,81.2,18.0,0.05,rain,2019-06-16,30
+2019-09-06 14:00:00,Clyde Valley Blackhawks,NFC 2 North,50,0,0,@ Home,W,Score @ Home,53.9,20.5,83.1,18.2,0.07,rain,2019-09-06,50
+2019-02-06 14:00:00,Clyde Valley Blackhawks,NFC 2 North,50,0,143,@ Away,W,Score @ Away,38.6,16.0,84.0,15.6,0.2,rain,2019-02-06,50
+2019-12-05 14:00:00,Clyde Valley Blackhawks,NFC 2 North,20,8,73,@ Away,W,Score @ Away,42.3,27.7,91.5,7.5,0.63,rain,2019-12-05,28
+2019-04-21 14:00:00,Clyde Valley Blackhawks,NFC 2 North,20,6,0,@ Home,W,Score @ Home,57.4,18.4,60.0,9.6,0.0,clear-day,2019-04-21,26
+2019-04-14 14:00:00,Clyde Valley Blackhawks,NFC 2 North,21,12,0,@ Home,W,Score @ Home,33.5,15.6,65.3,25.4,0.0,partly-cloudy-day,2019-04-14,33
+2019-04-08 14:00:00,Darlington Steam,NFC 2 North,50,0,128,@ Away,W,Score @ Away,41.3,18.4,83.6,7.3,0.01,rain,2019-04-08,50
+2019-07-28 14:00:00,Darlington Steam,NFC 2 North,50,0,0,@ Home,W,Score @ Home,64.2,12.2,91.9,6.0,0.13,rain,2019-07-28,50
+2019-06-23 14:00:00,Darlington Steam,NFC 2 North,14,60,203,@ Away,L,Score @ Away,59.5,15.5,68.3,26.1,0.0,partly-cloudy-day,2019-06-23,74
+2019-06-16 14:00:00,Darlington Steam,NFC 2 North,0,30,0,@ Home,L,Score @ Home,54.2,14.9,81.2,18.0,0.05,rain,2019-06-16,30
+2019-02-06 14:00:00,Darlington Steam,NFC 2 North,8,16,0,@ Home,L,Score @ Home,36.2,13.7,89.1,11.4,0.07,rain,2019-02-06,24
+2019-05-19 16:00:00,Darlington Steam,NFC 2 North,13,34,324,@ Away,L,Score @ Away,52.2,8.7,86.2,13.8,0.01,rain,2019-05-19,47
+2019-05-05 14:00:00,Darlington Steam,NFC 2 North,0,26,0,@ Home,L,Score @ Home,40.0,8.0,69.7,17.4,0.01,rain,2019-05-05,26
+2019-04-21 14:00:00,Darlington Steam,NFC 2 North,6,20,269,@ Away,L,Score @ Away,57.4,18.4,60.0,9.6,0.0,clear-day,2019-04-21,26
+2019-07-28 14:00:00,Dumfries Hunters,NFC 2 North,6,6,0,@ Home,T,Score @ Home,63.7,10.9,89.0,10.1,0.22,rain,2019-07-28,12
+2019-07-21 14:00:00,Dumfries Hunters,NFC 2 North,50,0,77,@ Away,W,Score @ Away,61.3,15.6,79.1,31.3,0.0,partly-cloudy-day,2019-07-21,50
+2019-06-23 14:00:00,Dumfries Hunters,NFC 2 North,60,14,0,@ Home,W,Score @ Home,59.5,15.5,68.3,26.1,0.0,partly-cloudy-day,2019-06-23,74
+2019-09-06 16:00:00,Dumfries Hunters,NFC 2 North,15,24,157,@ Away,L,Score @ Away,55.1,21.8,83.1,12.2,0.14,rain,2019-09-06,39
+2019-05-19 14:00:00,Dumfries Hunters,NFC 2 North,50,0,0,@ Home,W,Score @ Home,50.4,9.5,87.3,19.0,0.01,rain,2019-05-19,50
+2019-05-05 14:00:00,Dumfries Hunters,NFC 2 North,26,0,203,@ Away,W,Score @ Away,40.0,8.0,69.7,17.4,0.01,rain,2019-05-05,26
+2019-04-21 14:00:00,Dumfries Hunters,NFC 2 North,28,6,0,@ Home,W,Score @ Home,54.7,15.8,65.7,7.9,0.0,partly-cloudy-day,2019-04-21,34
+2019-04-14 14:00:00,Dumfries Hunters,NFC 2 North,12,21,102,@ Away,L,Score @ Away,33.5,15.6,65.3,25.4,0.0,partly-cloudy-day,2019-04-14,33
+2019-04-08 14:00:00,Inverclyde Goliaths,NFC 2 North,14,12,73,@ Away,W,Score @ Away,36.9,16.4,85.2,7.9,0.0,partly-cloudy-day,2019-04-08,26
+2019-06-23 14:00:00,Inverclyde Goliaths,NFC 2 North,50,0,0,@ Home,W,Score @ Home,60.0,16.2,71.2,15.1,0.0,partly-cloudy-day,2019-06-23,50
+2019-09-06 16:00:00,Inverclyde Goliaths,NFC 2 North,24,15,0,@ Home,W,Score @ Home,55.1,21.8,83.1,12.2,0.14,rain,2019-09-06,39
+2019-02-06 14:00:00,Inverclyde Goliaths,NFC 2 North,16,8,324,@ Away,W,Score @ Away,36.2,13.7,89.1,11.4,0.07,rain,2019-02-06,24
+2019-05-19 16:00:00,Inverclyde Goliaths,NFC 2 North,34,13,0,@ Home,W,Score @ Home,52.2,8.7,86.2,13.8,0.01,rain,2019-05-19,47
+2019-12-05 14:00:00,Inverclyde Goliaths,NFC 2 North,8,20,0,@ Home,L,Score @ Home,42.3,27.7,91.5,7.5,0.63,rain,2019-12-05,28
+2019-05-05 14:00:00,Inverclyde Goliaths,NFC 2 North,42,0,198,@ Away,W,Score @ Away,42.6,8.4,68.8,32.2,0.0,cloudy,2019-05-05,42
+2019-04-21 14:00:00,Inverclyde Goliaths,NFC 2 North,6,28,157,@ Away,L,Score @ Away,54.7,15.8,65.7,7.9,0.0,partly-cloudy-day,2019-04-21,34
+2019-04-08 14:00:00,Birmingham Bulls,NFC 2 South,21,0,0,@ Home,W,Score @ Home,47.0,7.7,89.8,2.1,0.04,rain,2019-04-08,21
+2019-07-07 14:00:00,Birmingham Bulls,NFC 2 South,59,0,107,@ Away,W,Score @ Away,57.8,7.6,72.7,17.5,0.0,partly-cloudy-day,2019-07-07,59
+2019-06-30 14:00:00,Birmingham Bulls,NFC 2 South,21,7,213,@ Away,W,Score @ Away,65.7,20.8,66.6,10.8,0.0,partly-cloudy-day,2019-06-30,28
+2019-09-06 14:00:00,Birmingham Bulls,NFC 2 South,74,0,0,@ Home,W,Score @ Home,56.9,13.0,74.4,19.2,0.01,rain,2019-09-06,74
+2019-02-06 14:30:00,Birmingham Bulls,NFC 2 South,34,6,84,@ Away,W,Score @ Away,36.9,13.9,92.0,8.3,0.1,rain,2019-02-06,40
+2019-05-19 14:00:00,Birmingham Bulls,NFC 2 South,32,0,237,@ Away,W,Score @ Away,53.6,7.9,89.0,3.5,0.0,partly-cloudy-day,2019-05-19,32
+2019-12-05 14:30:00,Birmingham Bulls,NFC 2 South,42,0,0,@ Home,W,Score @ Home,36.1,17.4,94.0,9.0,0.01,rain,2019-12-05,42
+2019-04-14 14:00:00,Birmingham Bulls,NFC 2 South,12,0,0,@ Home,W,Score @ Home,35.2,13.3,68.4,16.3,0.0,partly-cloudy-day,2019-04-14,12
+2019-04-08 14:00:00,Lincolnshire Bombers,NFC 2 South,54,14,0,@ Home,W,Score @ Home,44.5,18.1,89.0,3.2,0.0,partly-cloudy-day,2019-04-08,68
+2019-07-28 14:00:00,Lincolnshire Bombers,NFC 2 South,26,0,204,@ Away,W,Score @ Away,57.8,11.7,95.4,7.3,1.03,rain,2019-07-28,26
+2019-07-07 14:00:00,Lincolnshire Bombers,NFC 2 South,20,6,0,@ Home,W,Score @ Home,58.7,13.6,69.3,10.6,0.0,partly-cloudy-day,2019-07-07,26
+2019-06-30 14:00:00,Lincolnshire Bombers,NFC 2 South,7,21,0,@ Home,L,Score @ Home,65.7,20.8,66.6,10.8,0.0,partly-cloudy-day,2019-06-30,28
+2019-09-06 14:30:00,Lincolnshire Bombers,NFC 2 South,17,15,193,@ Away,W,Score @ Away,54.5,15.1,83.5,17.2,0.08,rain,2019-09-06,32
+2019-05-05 14:00:00,Lincolnshire Bombers,NFC 2 South,11,8,0,@ Home,W,Score @ Home,40.8,10.4,68.3,11.3,0.0,partly-cloudy-day,2019-05-05,19
+2019-04-21 14:00:00,Lincolnshire Bombers,NFC 2 South,42,0,90,@ Away,W,Score @ Away,51.5,12.4,67.1,5.7,0.0,clear-day,2019-04-21,42
+2019-04-14 14:00:00,Lincolnshire Bombers,NFC 2 South,0,12,213,@ Away,L,Score @ Away,35.2,13.3,68.4,16.3,0.0,partly-cloudy-day,2019-04-14,12
+2019-04-08 14:00:00,Crewe Railroaders,NFC 2 South,14,54,204,@ Away,L,Score @ Away,44.5,18.1,89.0,3.2,0.0,partly-cloudy-day,2019-04-08,68
+2019-07-28 14:00:00,Crewe Railroaders,NFC 2 South,0,26,0,@ Home,L,Score @ Home,57.8,11.7,95.4,7.3,1.03,rain,2019-07-28,26
+2019-07-21 14:00:00,Crewe Railroaders,NFC 2 South,20,42,224,@ Away,L,Score @ Away,63.7,15.0,72.6,11.8,0.0,partly-cloudy-day,2019-07-21,62
+2019-07-07 14:00:00,Crewe Railroaders,NFC 2 South,0,59,0,@ Home,L,Score @ Home,57.8,7.6,72.7,17.5,0.0,partly-cloudy-day,2019-07-07,59
+2019-09-06 14:00:00,Crewe Railroaders,NFC 2 South,0,74,107,@ Away,L,Score @ Away,56.9,13.0,74.4,19.2,0.01,rain,2019-09-06,74
+2019-05-26 14:00:00,Crewe Railroaders,NFC 2 South,13,20,0,@ Home,L,Score @ Home,58.6,18.5,78.3,17.3,0.08,rain,2019-05-26,33
+2019-05-19 14:00:00,Crewe Railroaders,NFC 2 South,12,32,0,@ Home,L,Score @ Home,53.0,9.7,82.7,15.7,0.0,partly-cloudy-day,2019-05-19,44
+2019-04-14 14:30:00,Crewe Railroaders,NFC 2 South,13,20,28,@ Away,L,Score @ Away,31.3,18.4,70.0,18.7,0.0,partly-cloudy-day,2019-04-14,33
+2019-07-21 14:00:00,Humber Warhawks,NFC 2 South,42,20,0,@ Home,W,Score @ Home,63.7,15.0,72.6,11.8,0.0,partly-cloudy-day,2019-07-21,62
+2019-07-07 14:00:00,Humber Warhawks,NFC 2 South,6,20,90,@ Away,L,Score @ Away,58.7,13.6,69.3,10.6,0.0,partly-cloudy-day,2019-07-07,26
+2019-06-30 14:00:00,Humber Warhawks,NFC 2 South,14,8,0,@ Home,W,Score @ Home,65.9,17.3,69.7,10.8,0.0,partly-cloudy-day,2019-06-30,22
+2019-05-26 14:00:00,Humber Warhawks,NFC 2 South,20,13,224,@ Away,W,Score @ Away,58.6,18.5,78.3,17.3,0.08,rain,2019-05-26,33
+2019-05-19 14:00:00,Humber Warhawks,NFC 2 South,0,32,0,@ Home,L,Score @ Home,53.6,7.9,89.0,3.5,0.0,partly-cloudy-day,2019-05-19,32
+2019-12-05 14:30:00,Humber Warhawks,NFC 2 South,0,42,237,@ Away,L,Score @ Away,36.1,17.4,94.0,9.0,0.01,rain,2019-12-05,42
+2019-04-28 14:30:00,Humber Warhawks,NFC 2 South,16,31,206,@ Away,L,Score @ Away,44.6,17.4,83.8,11.4,0.61,rain,2019-04-28,47
+2019-04-21 14:00:00,Humber Warhawks,NFC 2 South,0,42,0,@ Home,L,Score @ Home,51.5,12.4,67.1,5.7,0.0,clear-day,2019-04-21,42
+2019-04-08 14:00:00,Staffordshire Surge,NFC 2 South,0,21,84,@ Away,L,Score @ Away,47.0,7.7,89.8,2.1,0.04,rain,2019-04-08,21
+2019-06-30 14:00:00,Staffordshire Surge,NFC 2 South,8,14,206,@ Away,L,Score @ Away,65.9,17.3,69.7,10.8,0.0,partly-cloudy-day,2019-06-30,22
+2019-09-06 14:30:00,Staffordshire Surge,NFC 2 South,15,17,0,@ Home,L,Score @ Home,54.5,15.1,83.5,17.2,0.08,rain,2019-09-06,32
+2019-02-06 14:30:00,Staffordshire Surge,NFC 2 South,6,34,0,@ Home,L,Score @ Home,36.9,13.9,92.0,8.3,0.1,rain,2019-02-06,40
+2019-05-19 14:00:00,Staffordshire Surge,NFC 2 South,32,12,28,@ Away,W,Score @ Away,53.0,9.7,82.7,15.7,0.0,partly-cloudy-day,2019-05-19,44
+2019-05-05 14:00:00,Staffordshire Surge,NFC 2 South,8,11,193,@ Away,L,Score @ Away,40.8,10.4,68.3,11.3,0.0,partly-cloudy-day,2019-05-05,19
+2019-04-28 14:30:00,Staffordshire Surge,NFC 2 South,31,16,0,@ Home,W,Score @ Home,44.6,17.4,83.8,11.4,0.61,rain,2019-04-28,47
+2019-04-14 14:30:00,Staffordshire Surge,NFC 2 South,20,13,0,@ Home,W,Score @ Home,31.3,18.4,70.0,18.7,0.0,partly-cloudy-day,2019-04-14,33
+2019-04-08 14:00:00,Furness Phantoms,NFC 2 West,19,8,0,@ Home,W,Score @ Home,48.1,19.7,75.3,9.4,0.0,clear-day,2019-04-08,27
+2019-07-07 14:00:00,Furness Phantoms,NFC 2 West,0,50,0,@ Home,L,Score @ Home,58.5,12.3,76.9,23.9,0.0,partly-cloudy-day,2019-07-07,50
+2019-06-30 15:00:00,Furness Phantoms,NFC 2 West,16,43,74,@ Away,L,Score @ Away,61.2,20.2,81.6,17.8,0.01,rain,2019-06-30,59
+2019-09-06 14:00:00,Furness Phantoms,NFC 2 West,0,66,145,@ Away,L,Score @ Away,54.7,21.6,80.3,8.5,0.14,rain,2019-09-06,66
+2019-02-06 14:00:00,Furness Phantoms,NFC 2 West,6,41,0,@ Home,L,Score @ Home,37.5,15.2,88.6,10.1,0.14,rain,2019-02-06,47
+2019-05-19 14:00:00,Furness Phantoms,NFC 2 West,14,20,183,@ Away,L,Score @ Away,52.0,7.8,82.6,13.3,0.0,partly-cloudy-day,2019-05-19,34
+2019-05-05 14:00:00,Furness Phantoms,NFC 2 West,0,47,154,@ Away,L,Score @ Away,42.7,14.5,70.5,21.4,0.0,partly-cloudy-day,2019-05-05,47
+2019-04-14 14:00:00,Furness Phantoms,NFC 2 West,14,6,0,@ Home,W,Score @ Home,33.6,19.1,64.9,26.5,0.0,partly-cloudy-day,2019-04-14,20
+2019-04-08 14:00:00,Halton Spartans,NFC 2 West,41,13,0,@ Home,W,Score @ Home,48.7,14.2,78.9,4.8,0.0,partly-cloudy-day,2019-04-08,54
+2019-07-21 14:00:00,Halton Spartans,NFC 2 West,36,6,99,@ Away,W,Score @ Away,61.7,13.7,74.8,10.8,0.0,partly-cloudy-day,2019-07-21,42
+2019-06-30 14:00:00,Halton Spartans,NFC 2 West,47,0,125,@ Away,W,Score @ Away,62.1,17.4,74.2,18.8,0.0,partly-cloudy-day,2019-06-30,47
+2019-09-06 15:00:00,Halton Spartans,NFC 2 West,47,6,98,@ Away,W,Score @ Away,57.7,25.9,77.7,13.8,0.04,rain,2019-09-06,53
+2019-02-06 14:00:00,Halton Spartans,NFC 2 West,41,6,154,@ Away,W,Score @ Away,37.5,15.2,88.6,10.1,0.14,rain,2019-02-06,47
+2019-05-19 14:00:00,Halton Spartans,NFC 2 West,35,14,0,@ Home,W,Score @ Home,53.5,10.7,82.3,18.6,0.01,rain,2019-05-19,49
+2019-12-05 14:00:00,Halton Spartans,NFC 2 West,74,3,0,@ Home,W,Score @ Home,42.7,22.2,85.9,16.9,0.0,partly-cloudy-day,2019-12-05,77
+2019-05-05 14:00:00,Halton Spartans,NFC 2 West,47,0,0,@ Home,W,Score @ Home,42.7,14.5,70.5,21.4,0.0,partly-cloudy-day,2019-05-05,47
+2019-04-08 14:00:00,Knottingley Raiders,NFC 2 West,8,19,183,@ Away,L,Score @ Away,48.1,19.7,75.3,9.4,0.0,clear-day,2019-04-08,27
+2019-07-28 14:00:00,Knottingley Raiders,NFC 2 West,20,40,0,@ Home,L,Score @ Home,60.6,10.9,96.9,5.6,0.52,rain,2019-07-28,60
+2019-07-21 15:00:00,Knottingley Raiders,NFC 2 West,28,12,178,@ Away,W,Score @ Away,62.3,18.0,80.3,24.9,0.0,partly-cloudy-day,2019-07-21,40
+2019-06-30 14:00:00,Knottingley Raiders,NFC 2 West,0,47,0,@ Home,L,Score @ Home,62.1,17.4,74.2,18.8,0.0,partly-cloudy-day,2019-06-30,47
+2019-06-16 14:00:00,Knottingley Raiders,NFC 2 West,0,44,40,@ Away,L,Score @ Away,53.5,15.6,81.6,9.1,0.11,rain,2019-06-16,44
+2019-05-19 14:00:00,Knottingley Raiders,NFC 2 West,20,14,0,@ Home,W,Score @ Home,52.0,7.8,82.6,13.3,0.0,partly-cloudy-day,2019-05-19,34
+2019-12-05 14:00:00,Knottingley Raiders,NFC 2 West,3,74,125,@ Away,L,Score @ Away,42.7,22.2,85.9,16.9,0.0,partly-cloudy-day,2019-12-05,77
+2019-05-05 14:00:00,Knottingley Raiders,NFC 2 West,39,0,0,@ Home,W,Score @ Home,39.2,11.0,70.3,16.2,0.01,rain,2019-05-05,39
+2019-04-08 14:00:00,Morecambe Bay Storm,NFC 2 West,13,41,98,@ Away,L,Score @ Away,48.7,14.2,78.9,4.8,0.0,partly-cloudy-day,2019-04-08,54
+2019-07-21 15:00:00,Morecambe Bay Storm,NFC 2 West,12,28,0,@ Home,L,Score @ Home,62.3,18.0,80.3,24.9,0.0,partly-cloudy-day,2019-07-21,40
+2019-06-30 15:00:00,Morecambe Bay Storm,NFC 2 West,43,16,0,@ Home,W,Score @ Home,61.2,20.2,81.6,17.8,0.01,rain,2019-06-30,59
+2019-09-06 15:00:00,Morecambe Bay Storm,NFC 2 West,6,47,0,@ Home,L,Score @ Home,57.7,25.9,77.7,13.8,0.04,rain,2019-09-06,53
+2019-02-06 14:00:00,Morecambe Bay Storm,NFC 2 West,12,44,108,@ Away,L,Score @ Away,36.5,12.8,89.8,6.4,0.1,rain,2019-02-06,56
+2019-05-05 14:00:00,Morecambe Bay Storm,NFC 2 West,0,39,178,@ Away,L,Score @ Away,39.2,11.0,70.3,16.2,0.01,rain,2019-05-05,39
+2019-04-28 15:00:00,Morecambe Bay Storm,NFC 2 West,12,42,0,@ Home,L,Score @ Home,45.4,21.5,85.4,15.7,0.2,rain,2019-04-28,54
+2019-04-14 14:00:00,Morecambe Bay Storm,NFC 2 West,6,14,74,@ Away,L,Score @ Away,33.6,19.1,64.9,26.5,0.0,partly-cloudy-day,2019-04-14,20
+2019-07-28 14:00:00,Leeds Bobcats,NFC 2 West,40,20,40,@ Away,W,Score @ Away,60.6,10.9,96.9,5.6,0.52,rain,2019-07-28,60
+2019-07-21 14:00:00,Leeds Bobcats,NFC 2 West,6,36,0,@ Home,L,Score @ Home,61.7,13.7,74.8,10.8,0.0,partly-cloudy-day,2019-07-21,42
+2019-07-07 14:00:00,Leeds Bobcats,NFC 2 West,50,0,145,@ Away,W,Score @ Away,58.5,12.3,76.9,23.9,0.0,partly-cloudy-day,2019-07-07,50
+2019-06-16 14:00:00,Leeds Bobcats,NFC 2 West,44,0,0,@ Home,W,Score @ Home,53.5,15.6,81.6,9.1,0.11,rain,2019-06-16,44
+2019-09-06 14:00:00,Leeds Bobcats,NFC 2 West,66,0,0,@ Home,W,Score @ Home,54.7,21.6,80.3,8.5,0.14,rain,2019-09-06,66
+2019-02-06 14:00:00,Leeds Bobcats,NFC 2 West,44,12,0,@ Home,W,Score @ Home,36.5,12.8,89.8,6.4,0.1,rain,2019-02-06,56
+2019-05-19 14:00:00,Leeds Bobcats,NFC 2 West,14,35,99,@ Away,L,Score @ Away,53.5,10.7,82.3,18.6,0.01,rain,2019-05-19,49
+2019-04-28 15:00:00,Leeds Bobcats,NFC 2 West,42,12,108,@ Away,W,Score @ Away,45.4,21.5,85.4,15.7,0.2,rain,2019-04-28,54
+2019-04-08 14:00:00,Hastings Conquerors,SFC 2 North,0,60,0,@ Home,L,Score @ Home,51.3,5.6,87.7,2.5,0.0,partly-cloudy-day,2019-04-08,60
+2019-07-28 14:00:00,Hastings Conquerors,SFC 2 North,6,54,0,@ Home,L,Score @ Home,63.5,11.6,80.6,17.8,0.0,partly-cloudy-day,2019-07-28,60
+2019-07-21 14:00:00,Hastings Conquerors,SFC 2 North,0,52,215,@ Away,L,Score @ Away,62.6,14.9,78.3,30.6,0.0,partly-cloudy-day,2019-07-21,52
+2019-06-30 14:00:00,Hastings Conquerors,SFC 2 North,0,69,0,@ Home,L,Score @ Home,64.7,12.5,77.7,14.4,0.0,partly-cloudy-day,2019-06-30,69
+2019-06-16 14:00:00,Hastings Conquerors,SFC 2 North,0,39,0,@ Home,L,Score @ Home,57.9,14.2,86.3,14.4,0.09,rain,2019-06-16,39
+2019-08-06 19:00:00,Hastings Conquerors,SFC 2 North,0,9,252,@ Away,L,Score @ Away,63.9,20.2,83.7,11.9,0.03,rain,2019-08-06,9
+2019-05-19 14:00:00,Hastings Conquerors,SFC 2 North,0,64,234,@ Away,L,Score @ Away,54.4,8.3,80.6,11.4,0.03,rain,2019-05-19,64
+2019-12-05 14:00:00,Hastings Conquerors,SFC 2 North,0,82,114,@ Away,L,Score @ Away,38.5,16.6,89.3,7.6,0.01,rain,2019-12-05,82
+2019-04-08 14:00:00,Jurassic Coast Raptors,SFC 2 North,14,36,0,@ Home,L,Score @ Home,47.2,8.7,89.6,5.7,0.0,partly-cloudy-day,2019-04-08,50
+2019-07-28 14:00:00,Jurassic Coast Raptors,SFC 2 North,54,6,252,@ Away,W,Score @ Away,63.5,11.6,80.6,17.8,0.0,partly-cloudy-day,2019-07-28,60
+2019-07-21 14:00:00,Jurassic Coast Raptors,SFC 2 North,16,68,0,@ Home,L,Score @ Home,62.7,14.4,83.3,19.1,0.0,partly-cloudy-day,2019-07-21,84
+2019-06-30 12:00:00,Jurassic Coast Raptors,SFC 2 North,0,68,218,@ Away,L,Score @ Away,68.1,14.3,63.8,18.9,0.0,clear-day,2019-06-30,68
+2019-06-15 19:00:00,Jurassic Coast Raptors,SFC 2 North,6,44,0,@ Home,L,Score @ Home,55.9,17.7,85.2,14.3,0.03,rain,2019-06-15,50
+2019-08-06 19:00:00,Jurassic Coast Raptors,SFC 2 North,9,0,0,@ Home,W,Score @ Home,63.9,20.2,83.7,11.9,0.03,rain,2019-08-06,9
+2019-02-06 15:00:00,Jurassic Coast Raptors,SFC 2 North,3,28,138,@ Away,L,Score @ Away,42.2,12.5,93.6,9.6,0.14,rain,2019-02-06,31
+2019-04-14 14:00:00,Jurassic Coast Raptors,SFC 2 North,2,19,45,@ Away,L,Score @ Away,35.7,16.3,64.6,12.4,0.0,partly-cloudy-day,2019-04-14,21
+2019-04-08 14:00:00,Swindon Storm,SFC 2 North,36,14,138,@ Away,W,Score @ Away,47.2,8.7,89.6,5.7,0.0,partly-cloudy-day,2019-04-08,50
+2019-07-28 14:00:00,Swindon Storm,SFC 2 North,0,47,0,@ Home,L,Score @ Home,63.2,14.4,70.0,23.2,0.0,partly-cloudy-day,2019-07-28,47
+2019-06-30 14:00:00,Swindon Storm,SFC 2 North,69,0,234,@ Away,W,Score @ Away,64.7,12.5,77.7,14.4,0.0,partly-cloudy-day,2019-06-30,69
+2019-06-23 12:00:00,Swindon Storm,SFC 2 North,0,32,147,@ Away,L,Score @ Away,65.2,13.1,71.6,14.6,0.0,clear-day,2019-06-23,32
+2019-09-06 14:00:00,Swindon Storm,SFC 2 North,7,17,0,@ Home,L,Score @ Home,55.0,16.4,80.5,10.5,0.02,rain,2019-09-06,24
+2019-02-06 15:00:00,Swindon Storm,SFC 2 North,28,3,0,@ Home,W,Score @ Home,42.2,12.5,93.6,9.6,0.14,rain,2019-02-06,31
+2019-05-26 14:00:00,Swindon Storm,SFC 2 North,0,51,152,@ Away,L,Score @ Away,57.5,17.0,87.4,16.2,0.0,partly-cloudy-day,2019-05-26,51
+2019-05-19 14:00:00,Swindon Storm,SFC 2 North,64,0,0,@ Home,W,Score @ Home,54.4,8.3,80.6,11.4,0.03,rain,2019-05-19,64
+2019-04-08 14:00:00,Bournemouth Bobcats,SFC 2 North,60,0,215,@ Away,W,Score @ Away,51.3,5.6,87.7,2.5,0.0,partly-cloudy-day,2019-04-08,60
+2019-07-21 14:00:00,Bournemouth Bobcats,SFC 2 North,52,0,0,@ Home,W,Score @ Home,62.6,14.9,78.3,30.6,0.0,partly-cloudy-day,2019-07-21,52
+2019-06-15 19:00:00,Bournemouth Bobcats,SFC 2 North,44,6,45,@ Away,W,Score @ Away,55.9,17.7,85.2,14.3,0.03,rain,2019-06-15,50
+2019-09-06 14:00:00,Bournemouth Bobcats,SFC 2 North,17,7,152,@ Away,W,Score @ Away,55.0,16.4,80.5,10.5,0.02,rain,2019-09-06,24
+2019-05-26 14:00:00,Bournemouth Bobcats,SFC 2 North,51,0,0,@ Home,W,Score @ Home,57.5,17.0,87.4,16.2,0.0,partly-cloudy-day,2019-05-26,51
+2019-05-19 15:30:00,Bournemouth Bobcats,SFC 2 North,10,17,180,@ Away,L,Score @ Away,56.7,6.3,76.3,9.2,0.01,rain,2019-05-19,27
+2019-04-28 14:00:00,Bournemouth Bobcats,SFC 2 North,33,39,0,@ Home,L,Score @ Home,47.4,16.9,71.5,14.8,0.0,partly-cloudy-day,2019-04-28,72
+2019-04-14 14:00:00,Bournemouth Bobcats,SFC 2 North,19,2,0,@ Home,W,Score @ Home,35.7,16.3,64.6,12.4,0.0,partly-cloudy-day,2019-04-14,21
+2019-07-28 14:00:00,London Blitz B,SFC 2 North,47,0,147,@ Away,W,Score @ Away,63.2,14.4,70.0,23.2,0.0,partly-cloudy-day,2019-07-28,47
+2019-07-21 14:00:00,London Blitz B,SFC 2 North,68,16,218,@ Away,W,Score @ Away,62.7,14.4,83.3,19.1,0.0,partly-cloudy-day,2019-07-21,84
+2019-06-30 12:00:00,London Blitz B,SFC 2 North,68,0,0,@ Home,W,Score @ Home,68.1,14.3,63.8,18.9,0.0,clear-day,2019-06-30,68
+2019-06-23 12:00:00,London Blitz B,SFC 2 North,32,0,0,@ Home,W,Score @ Home,65.2,13.1,71.6,14.6,0.0,clear-day,2019-06-23,32
+2019-06-16 14:00:00,London Blitz B,SFC 2 North,39,0,114,@ Away,W,Score @ Away,57.9,14.2,86.3,14.4,0.09,rain,2019-06-16,39
+2019-05-19 15:30:00,London Blitz B,SFC 2 North,17,10,0,@ Home,W,Score @ Home,56.7,6.3,76.3,9.2,0.01,rain,2019-05-19,27
+2019-12-05 14:00:00,London Blitz B,SFC 2 North,82,0,0,@ Home,W,Score @ Home,38.5,16.6,89.3,7.6,0.01,rain,2019-12-05,82
+2019-04-28 14:00:00,London Blitz B,SFC 2 North,39,33,180,@ Away,W,Score @ Away,47.4,16.9,71.5,14.8,0.0,partly-cloudy-day,2019-04-28,72
+2019-04-08 14:00:00,South Wales Warriors,SFC 2 West,51,0,0,@ Home,W,Score @ Home,48.1,13.3,87.6,3.1,0.0,partly-cloudy-day,2019-04-08,51
+2019-07-07 14:00:00,South Wales Warriors,SFC 2 West,10,6,0,@ Home,W,Score @ Home,62.0,11.7,72.7,16.3,0.0,partly-cloudy-day,2019-07-07,16
+2019-06-23 14:00:00,South Wales Warriors,SFC 2 West,48,14,227,@ Away,W,Score @ Away,58.2,14.8,82.4,10.4,0.05,rain,2019-06-23,62
+2019-09-06 14:30:00,South Wales Warriors,SFC 2 West,26,7,140,@ Away,W,Score @ Away,54.9,15.4,86.3,13.2,0.04,rain,2019-09-06,33
+2019-02-06 14:00:00,South Wales Warriors,SFC 2 West,29,6,0,@ Home,W,Score @ Home,41.7,12.7,91.6,6.1,0.39,rain,2019-02-06,35
+2019-05-19 14:00:00,South Wales Warriors,SFC 2 West,46,21,78,@ Away,W,Score @ Away,54.1,8.2,80.7,16.6,0.02,rain,2019-05-19,67
+2019-12-05 14:00:00,South Wales Warriors,SFC 2 West,55,0,0,@ Home,W,Score @ Home,41.6,19.0,93.3,8.3,0.01,rain,2019-12-05,55
+2019-04-28 14:00:00,South Wales Warriors,SFC 2 West,33,0,326,@ Away,W,Score @ Away,46.7,17.1,91.6,6.0,0.11,rain,2019-04-28,33
+2019-07-21 14:00:00,Torbay Trojans,SFC 2 West,52,20,0,@ Home,W,Score @ Home,61.1,22.3,86.2,11.9,0.0,partly-cloudy-day,2019-07-21,72
+2019-07-07 14:00:00,Torbay Trojans,SFC 2 West,6,10,227,@ Away,L,Score @ Away,62.0,11.7,72.7,16.3,0.0,partly-cloudy-day,2019-07-07,16
+2019-06-23 14:00:00,Torbay Trojans,SFC 2 West,14,48,0,@ Home,L,Score @ Home,58.2,14.8,82.4,10.4,0.05,rain,2019-06-23,62
+2019-09-06 14:00:00,Torbay Trojans,SFC 2 West,49,0,0,@ Home,W,Score @ Home,53.5,27.2,93.4,10.6,0.06,rain,2019-09-06,49
+2019-05-26 14:30:00,Torbay Trojans,SFC 2 West,12,0,94,@ Away,W,Score @ Away,55.7,12.9,89.7,12.9,0.02,rain,2019-05-26,12
+2019-05-05 14:00:00,Torbay Trojans,SFC 2 West,20,18,119,@ Away,W,Score @ Away,43.1,11.3,67.0,11.2,0.0,clear-day,2019-05-05,38
+2019-04-28 14:00:00,Torbay Trojans,SFC 2 West,46,0,257,@ Away,W,Score @ Away,47.8,12.2,73.0,15.7,0.0,partly-cloudy-day,2019-04-28,46
+2019-04-14 14:00:00,Torbay Trojans,SFC 2 West,20,12,0,@ Home,W,Score @ Home,48.5,24.3,72.6,12.2,0.0,partly-cloudy-day,2019-04-14,32
+2019-07-21 14:00:00,Worcestershire Black Knights,SFC 2 West,0,47,0,@ Home,L,Score @ Home,63.6,12.2,75.9,22.9,0.0,partly-cloudy-day,2019-07-21,47
+2019-06-30 14:00:00,Worcestershire Black Knights,SFC 2 West,6,44,0,@ Home,L,Score @ Home,63.4,13.0,71.9,18.1,0.0,partly-cloudy-day,2019-06-30,50
+2019-06-23 14:00:00,Worcestershire Black Knights,SFC 2 West,2,45,98,@ Away,L,Score @ Away,62.1,11.9,74.8,17.1,0.03,rain,2019-06-23,47
+2019-09-06 14:00:00,Worcestershire Black Knights,SFC 2 West,0,49,257,@ Away,L,Score @ Away,53.5,27.2,93.4,10.6,0.06,rain,2019-09-06,49
+2019-02-06 14:00:00,Worcestershire Black Knights,SFC 2 West,6,20,0,@ Home,L,Score @ Home,40.9,9.9,91.5,8.5,0.07,rain,2019-02-06,26
+2019-12-05 14:00:00,Worcestershire Black Knights,SFC 2 West,0,55,155,@ Away,L,Score @ Away,41.6,19.0,93.3,8.3,0.01,rain,2019-12-05,55
+2019-04-28 14:00:00,Worcestershire Black Knights,SFC 2 West,0,46,0,@ Home,L,Score @ Home,47.8,12.2,73.0,15.7,0.0,partly-cloudy-day,2019-04-28,46
+2019-04-21 14:30:00,Worcestershire Black Knights,SFC 2 West,6,42,170,@ Away,L,Score @ Away,59.0,7.5,53.2,11.5,0.0,clear-day,2019-04-21,48
+2019-07-21 14:00:00,Bristol Apache,SFC 2 West,47,0,98,@ Away,W,Score @ Away,63.6,12.2,75.9,22.9,0.0,partly-cloudy-day,2019-07-21,47
+2019-07-07 14:00:00,Bristol Apache,SFC 2 West,10,19,0,@ Home,L,Score @ Home,62.6,7.3,70.9,22.4,0.03,rain,2019-07-07,29
+2019-06-23 14:00:00,Bristol Apache,SFC 2 West,45,2,0,@ Home,W,Score @ Home,62.1,11.9,74.8,17.1,0.03,rain,2019-06-23,47
+2019-06-16 14:00:00,Bristol Apache,SFC 2 West,28,0,0,@ Home,W,Score @ Home,56.4,15.1,83.3,17.4,0.06,rain,2019-06-16,28
+2019-05-26 14:00:00,Bristol Apache,SFC 2 West,23,7,265,@ Away,W,Score @ Away,54.7,16.0,96.6,4.1,0.02,rain,2019-05-26,30
+2019-05-19 14:00:00,Bristol Apache,SFC 2 West,21,46,0,@ Home,L,Score @ Home,54.1,8.2,80.7,16.6,0.02,rain,2019-05-19,67
+2019-05-05 14:30:00,Bristol Apache,SFC 2 West,44,14,79,@ Away,W,Score @ Away,42.2,8.5,65.7,20.8,0.0,partly-cloudy-day,2019-05-05,58
+2019-04-14 14:00:00,Bristol Apache,SFC 2 West,12,20,166,@ Away,L,Score @ Away,48.5,24.3,72.6,12.2,0.0,partly-cloudy-day,2019-04-14,32
+2019-07-07 14:00:00,Somerset Wyverns,SFC 2 West,19,10,79,@ Away,W,Score @ Away,62.6,7.3,70.9,22.4,0.03,rain,2019-07-07,29
+2019-06-30 14:00:00,Somerset Wyverns,SFC 2 West,44,6,170,@ Away,W,Score @ Away,63.4,13.0,71.9,18.1,0.0,partly-cloudy-day,2019-06-30,50
+2019-09-06 14:30:00,Somerset Wyverns,SFC 2 West,7,26,0,@ Home,L,Score @ Home,54.9,15.4,86.3,13.2,0.04,rain,2019-09-06,33
+2019-02-06 14:00:00,Somerset Wyverns,SFC 2 West,6,29,140,@ Away,L,Score @ Away,41.7,12.7,91.6,6.1,0.39,rain,2019-02-06,35
+2019-05-26 14:30:00,Somerset Wyverns,SFC 2 West,0,12,0,@ Home,L,Score @ Home,55.7,12.9,89.7,12.9,0.02,rain,2019-05-26,12
+2019-05-05 14:30:00,Somerset Wyverns,SFC 2 West,14,44,0,@ Home,L,Score @ Home,42.2,8.5,65.7,20.8,0.0,partly-cloudy-day,2019-05-05,58
+2019-04-21 14:30:00,Somerset Wyverns,SFC 2 West,42,6,0,@ Home,W,Score @ Home,59.0,7.5,53.2,11.5,0.0,clear-day,2019-04-21,48
+2019-04-14 14:00:00,Somerset Wyverns,SFC 2 West,12,8,193,@ Away,W,Score @ Away,33.9,35.2,71.7,6.7,0.51,rain,2019-04-14,20
+2019-04-08 14:00:00,Cornish Sharks,SFC 2 West,0,51,326,@ Away,L,Score @ Away,48.1,13.3,87.6,3.1,0.0,partly-cloudy-day,2019-04-08,51
+2019-07-21 14:00:00,Cornish Sharks,SFC 2 West,20,52,119,@ Away,L,Score @ Away,61.1,22.3,86.2,11.9,0.0,partly-cloudy-day,2019-07-21,72
+2019-06-16 14:00:00,Cornish Sharks,SFC 2 West,0,28,265,@ Away,L,Score @ Away,56.4,15.1,83.3,17.4,0.06,rain,2019-06-16,28
+2019-02-06 14:00:00,Cornish Sharks,SFC 2 West,20,6,356,@ Away,W,Score @ Away,40.9,9.9,91.5,8.5,0.07,rain,2019-02-06,26
+2019-05-26 14:00:00,Cornish Sharks,SFC 2 West,7,23,0,@ Home,L,Score @ Home,54.7,16.0,96.6,4.1,0.02,rain,2019-05-26,30
+2019-05-05 14:00:00,Cornish Sharks,SFC 2 West,18,20,0,@ Home,L,Score @ Home,43.1,11.3,67.0,11.2,0.0,clear-day,2019-05-05,38
+2019-04-28 14:00:00,Cornish Sharks,SFC 2 West,0,33,0,@ Home,L,Score @ Home,46.7,17.1,91.6,6.0,0.11,rain,2019-04-28,33
+2019-04-14 14:00:00,Cornish Sharks,SFC 2 West,8,12,0,@ Home,L,Score @ Home,33.9,35.2,71.7,6.7,0.51,rain,2019-04-14,20
+2019-04-08 14:00:00,East Essex Sabres,SFC 2 South,7,31,0,@ Home,L,Score @ Home,46.7,9.8,88.6,1.9,0.03,rain,2019-04-08,38
+2019-06-30 14:30:00,East Essex Sabres,SFC 2 South,7,21,94,@ Away,L,Score @ Away,66.5,16.5,68.1,14.3,0.0,partly-cloudy-day,2019-06-30,28
+2019-06-16 14:00:00,East Essex Sabres,SFC 2 South,0,3,157,@ Away,L,Score @ Away,59.5,17.2,79.2,6.3,0.04,rain,2019-06-16,3
+2019-05-26 14:00:00,East Essex Sabres,SFC 2 South,6,12,0,@ Home,L,Score @ Home,64.0,19.6,67.6,10.8,0.0,partly-cloudy-day,2019-05-26,18
+2019-12-05 14:00:00,East Essex Sabres,SFC 2 South,0,21,0,@ Home,L,Score @ Home,34.5,22.0,93.8,5.9,0.01,rain,2019-12-05,21
+2019-05-05 14:00:00,East Essex Sabres,SFC 2 South,20,7,67,@ Away,W,Score @ Away,42.2,11.2,67.7,15.4,0.01,rain,2019-05-05,27
+2019-04-21 14:00:00,East Essex Sabres,SFC 2 South,14,14,0,@ Home,T,Score @ Home,52.0,10.0,67.2,5.9,0.0,clear-day,2019-04-21,28
+2019-04-14 14:00:00,East Essex Sabres,SFC 2 South,0,12,26,@ Away,L,Score @ Away,35.8,13.2,67.5,14.7,0.0,partly-cloudy-day,2019-04-14,12
+2019-04-08 14:00:00,Essex Spartans,SFC 2 South,27,14,0,@ Home,W,Score @ Home,48.0,6.3,88.9,2.0,0.02,rain,2019-04-08,41
+2019-07-21 14:00:00,Essex Spartans,SFC 2 South,23,14,83,@ Away,W,Score @ Away,63.8,12.2,74.8,22.7,0.0,partly-cloudy-day,2019-07-21,37
+2019-06-30 14:00:00,Essex Spartans,SFC 2 South,8,6,192,@ Away,W,Score @ Away,68.0,16.1,67.9,6.9,0.0,clear-day,2019-06-30,14
+2019-06-23 14:00:00,Essex Spartans,SFC 2 South,27,8,0,@ Home,W,Score @ Home,63.8,12.6,75.9,12.8,0.0,partly-cloudy-day,2019-06-23,35
+2019-05-26 14:00:00,Essex Spartans,SFC 2 South,33,6,45,@ Away,W,Score @ Away,61.3,13.6,77.5,20.1,0.0,partly-cloudy-day,2019-05-26,39
+2019-12-05 14:00:00,Essex Spartans,SFC 2 South,21,0,26,@ Away,W,Score @ Away,34.5,22.0,93.8,5.9,0.01,rain,2019-12-05,21
+2019-04-28 14:00:00,Essex Spartans,SFC 2 South,40,0,0,@ Home,W,Score @ Home,46.9,15.0,68.3,24.6,0.01,rain,2019-04-28,40
+2019-04-14 14:00:00,Essex Spartans,SFC 2 South,12,0,0,@ Home,W,Score @ Home,35.8,13.2,67.5,14.7,0.0,partly-cloudy-day,2019-04-14,12
+2019-04-08 14:00:00,Norwich Devils,SFC 2 South,53,19,0,@ Home,W,Score @ Home,48.3,11.4,87.6,2.7,0.0,clear-day,2019-04-08,72
+2019-07-07 14:00:00,Norwich Devils,SFC 2 South,27,21,0,@ Home,W,Score @ Home,58.5,11.3,69.1,6.3,0.0,partly-cloudy-day,2019-07-07,48
+2019-06-30 14:00:00,Norwich Devils,SFC 2 South,6,8,0,@ Home,L,Score @ Home,68.0,16.1,67.9,6.9,0.0,clear-day,2019-06-30,14
+2019-06-16 14:00:00,Norwich Devils,SFC 2 South,3,0,0,@ Home,W,Score @ Home,59.5,17.2,79.2,6.3,0.04,rain,2019-06-16,3
+2019-02-06 14:30:00,Norwich Devils,SFC 2 South,31,31,78,@ Away,T,Score @ Away,42.1,12.9,94.9,5.5,0.14,rain,2019-02-06,62
+2019-05-26 14:00:00,Norwich Devils,SFC 2 South,12,6,157,@ Away,W,Score @ Away,64.0,19.6,67.6,10.8,0.0,partly-cloudy-day,2019-05-26,18
+2019-05-05 14:00:00,Norwich Devils,SFC 2 South,18,11,268,@ Away,W,Score @ Away,40.5,15.3,74.5,12.3,0.01,rain,2019-05-05,29
+2019-04-14 14:00:00,Norwich Devils,SFC 2 South,32,0,230,@ Away,W,Score @ Away,35.7,12.8,70.0,13.5,0.0,partly-cloudy-day,2019-04-14,32
+2019-04-08 14:00:00,Ipswich Cardinals,SFC 2 South,14,27,115,@ Away,L,Score @ Away,48.0,6.3,88.9,2.0,0.02,rain,2019-04-08,41
+2019-07-28 14:30:00,Ipswich Cardinals,SFC 2 South,40,35,0,@ Home,W,Score @ Home,60.0,17.5,94.0,10.9,0.57,rain,2019-07-28,75
+2019-07-07 14:00:00,Ipswich Cardinals,SFC 2 South,21,27,78,@ Away,L,Score @ Away,58.5,11.3,69.1,6.3,0.0,partly-cloudy-day,2019-07-07,48
+2019-06-30 14:30:00,Ipswich Cardinals,SFC 2 South,21,7,0,@ Home,W,Score @ Home,66.5,16.5,68.1,14.3,0.0,partly-cloudy-day,2019-06-30,28
+2019-06-23 14:30:00,Ipswich Cardinals,SFC 2 South,29,0,0,@ Home,W,Score @ Home,62.1,13.4,82.4,8.3,0.0,partly-cloudy-day,2019-06-23,29
+2019-02-06 14:30:00,Ipswich Cardinals,SFC 2 South,31,31,0,@ Home,T,Score @ Home,42.1,12.9,94.9,5.5,0.14,rain,2019-02-06,62
+2019-04-28 14:00:00,Ipswich Cardinals,SFC 2 South,16,6,192,@ Away,W,Score @ Away,44.4,15.1,79.4,14.4,0.04,rain,2019-04-28,22
+2019-04-21 14:00:00,Ipswich Cardinals,SFC 2 South,14,14,94,@ Away,T,Score @ Away,52.0,10.0,67.2,5.9,0.0,clear-day,2019-04-21,28
+2019-04-08 14:00:00,East Kent Mavericks,SFC 2 South,31,7,105,@ Away,W,Score @ Away,46.7,9.8,88.6,1.9,0.03,rain,2019-04-08,38
+2019-07-28 14:30:00,East Kent Mavericks,SFC 2 South,35,40,192,@ Away,L,Score @ Away,60.0,17.5,94.0,10.9,0.57,rain,2019-07-28,75
+2019-07-21 14:00:00,East Kent Mavericks,SFC 2 South,14,23,0,@ Home,L,Score @ Home,63.8,12.2,74.8,22.7,0.0,partly-cloudy-day,2019-07-21,37
+2019-06-23 14:00:00,East Kent Mavericks,SFC 2 South,8,27,83,@ Away,L,Score @ Away,63.8,12.6,75.9,12.8,0.0,partly-cloudy-day,2019-06-23,35
+2019-06-16 14:00:00,East Kent Mavericks,SFC 2 South,30,19,0,@ Home,W,Score @ Home,59.4,19.3,81.6,19.7,0.01,rain,2019-06-16,49
+2019-05-19 14:00:00,East Kent Mavericks,SFC 2 South,25,0,43,@ Away,W,Score @ Away,54.6,6.5,82.3,5.1,0.0,partly-cloudy-day,2019-05-19,25
+2019-05-05 14:00:00,East Kent Mavericks,SFC 2 South,11,18,0,@ Home,L,Score @ Home,40.5,15.3,74.5,12.3,0.01,rain,2019-05-05,29
+2019-04-28 14:00:00,East Kent Mavericks,SFC 2 South,6,16,0,@ Home,L,Score @ Home,44.4,15.1,79.4,14.4,0.04,rain,2019-04-28,22
+2019-04-08 14:00:00,Maidstone Pumas,SFC 2 South,19,53,230,@ Away,L,Score @ Away,48.3,11.4,87.6,2.7,0.0,clear-day,2019-04-08,72
+2019-06-23 14:30:00,Maidstone Pumas,SFC 2 South,0,29,154,@ Away,L,Score @ Away,62.1,13.4,82.4,8.3,0.0,partly-cloudy-day,2019-06-23,29
+2019-06-16 14:00:00,Maidstone Pumas,SFC 2 South,19,30,43,@ Away,L,Score @ Away,59.4,19.3,81.6,19.7,0.01,rain,2019-06-16,49
+2019-05-26 14:00:00,Maidstone Pumas,SFC 2 South,6,33,0,@ Home,L,Score @ Home,61.3,13.6,77.5,20.1,0.0,partly-cloudy-day,2019-05-26,39
+2019-05-19 14:00:00,Maidstone Pumas,SFC 2 South,0,25,0,@ Home,L,Score @ Home,54.6,6.5,82.3,5.1,0.0,partly-cloudy-day,2019-05-19,25
+2019-05-05 14:00:00,Maidstone Pumas,SFC 2 South,7,20,0,@ Home,L,Score @ Home,42.2,11.2,67.7,15.4,0.01,rain,2019-05-05,27
+2019-04-28 14:00:00,Maidstone Pumas,SFC 2 South,0,40,45,@ Away,L,Score @ Away,46.9,15.0,68.3,24.6,0.01,rain,2019-04-28,40
+2019-04-14 14:00:00,Maidstone Pumas,SFC 2 South,0,32,0,@ Home,L,Score @ Home,35.7,12.8,70.0,13.5,0.0,partly-cloudy-day,2019-04-14,32
