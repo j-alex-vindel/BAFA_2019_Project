@@ -221,8 +221,10 @@ with F_Division:
 
 with F_Team:
     
-
     st.subheader('Findings by Team')
+    st.markdown(f'###### Current Division: {options1}')
+    st.write('** Change Division in Division Tab')
+    
     option_team = st.selectbox('Choose a team for season details',tuple(team_s))
 
   
