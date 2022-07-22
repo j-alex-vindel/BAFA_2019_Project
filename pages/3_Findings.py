@@ -220,9 +220,8 @@ with F_Division:
             st.pyplot(figcountcast)
 
 with F_Team:
-    
-
     st.subheader('Findings by Team')
+    st.write('Change Division in Division Tab')
     option_team = st.selectbox('Choose a team for season details',tuple(team_s))
 
   
