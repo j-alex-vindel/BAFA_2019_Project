@@ -31,52 +31,85 @@ newmaster = pd.read_csv('pages/Data/BAFA_By_team_2019.csv',index_col=False)
 
 F_General, F_Division,F_Team,F_Game = st.tabs(['General Findings','Division','Team','Game'])
 
-
-
 with F_General:
-    
-    col_a, col_b = st.columns([2,2])
-    with col_a:
-        st.subheader('- Score')
-        fig0 = plt.figure()
-        sns.boxplot(x="Score", y="Division",
-                data=newmaster)
-        st.pyplot(fig0)
-    with col_b:
-        st.subheader('- Score and Team_Status')
-        fig_score = plt.figure()
-        
-        sns.stripplot(x="Score", y="Division", hue='Team_Status', 
+
+    with st.expander('About Scoring'):
+
+        col_a, col_b = st.columns([2,2])
+        with col_a:
+            st.subheader('- Score')
+            fig0 = plt.figure()
+            sns.boxplot(x="Score", y="Division",
+                    data=newmaster)
+            st.pyplot(fig0)
+        with col_b:
+            st.subheader('Score Distribution')
+            grid_count = sns.displot(newmaster, x="Score", hue="Team_Status")
+            st.pyplot(grid_count.figure)
+            
+
+        col_count, col_empty  = st.columns([4,.5])
+        with col_count:
+            st.subheader('- Score and Team_Status')
+            grid_score = sns.catplot(x="Score", y="Division", hue='Team_Status',col='Game_Status',
             data=newmaster)
-        st.pyplot(fig_score)
+            st.pyplot(grid_score)
+        with col_empty:
+            st.empty()
 
-    col_c, col_d = st.columns([2,2])
-    with col_c:
-        st.subheader('- Travel km')
+    with st.expander('About Distance Traveled'):
+        col_c, col_d_e = st.columns([2,2])
+        with col_c:
+            st.subheader('- Travel km')
 
-        fig_distance = plt.figure()
-        sns.boxplot(x='Travel_km',y='Division',data=newmaster)
-        st.pyplot(fig_distance)
-    with col_d:
-        st.subheader(' - Temperature (F)')
-        fig_temp = plt.figure()
-        sns.boxplot(x='Temp',y='Division',data=newmaster)
-        st.pyplot(fig_temp)
+            fig_distance = plt.figure()
+            sns.boxplot(x='Travel_km',y='Division',data=newmaster)
+            st.pyplot(fig_distance)
+        with col_d_e:
+            st.empty()
 
-    col_e, col_f = st.columns([2,2])
-    with col_e:
-        st.subheader('- Cast')
-        figcountscore = plt.figure()
-        sns.countplot(x="Division", hue="Cast",data=newmaster)
-        plt.xticks(rotation=90)
+    with st.expander('About Weather'):
+    
+        col_d, col_d1 =st.columns([2,2])
+        with col_d:
+            st.subheader(' - Temperature (F)')
+            fig_temp = plt.figure()
+            sns.boxplot(x='Temp',y='Division',data=newmaster)
+            st.pyplot(fig_temp)
 
-        st.pyplot(figcountscore)
+        with col_d1:
+            st.subheader(' - Humidity (%)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Humidity',y='Division',data=newmaster)
+            st.pyplot(fig_hum)
+        
+        
+        col_wind, col_visib = st.columns([2,2])
+        with col_wind:
+            st.subheader(' - Windspeed (m/h)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Windspeed',y='Division',data=newmaster)
+            st.pyplot(fig_hum)
+        with col_visib:
+            st.subheader(' - Visibility (miles)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Visibility',y='Division',data=newmaster)
+            st.pyplot(fig_hum)
+        
+        col_e, col_f = st.columns([2,2])
+        with col_e:
+            st.subheader('- Cast')
+            figcountscore = plt.figure()
+            sns.countplot(x="Division", hue="Cast",data=newmaster)
+            plt.xticks(rotation=90)
 
-    with col_f:
-        st.subheader('- # of Games and Cast')
-        figcountcast = plt.figure()
-        sns.countplot(x='Cast',data=newmaster)
-        st.pyplot(figcountcast)
+            st.pyplot(figcountscore)
+
+        with col_f:
+            st.subheader('- # of Games and Cast')
+            figcountcast = plt.figure()
+            sns.countplot(x='Cast',data=newmaster)
+            st.pyplot(figcountcast)
 
 
 with F_Division:
@@ -94,56 +127,99 @@ with F_Division:
     topie, barchar = da_thing(team_s,by_division)
     
 
+    with st.expander('Scores'):
+        cola, colb,  = st.columns([2,2])
+        with cola:
+            width = 0.5       # the width of the bars: can also be len(x) sequence
 
-    cola, colb,  = st.columns([2,2])
-    with cola:
-        width = 0.5       # the width of the bars: can also be len(x) sequence
+            fig, ax = plt.subplots()
 
-        fig, ax = plt.subplots()
+            ax.barh(team_s, barchar['Score_home'],width, label='Score @ Home',color='navy')
+            ax.barh(team_s, barchar['Score_away'], width, left=barchar['Score_home'],
+                label='Score @ Away')
 
-        ax.barh(team_s, barchar['Score_home'],width, label='Score @ Home',color='navy')
-        ax.barh(team_s, barchar['Score_away'], width, left=barchar['Score_home'],
-            label='Score @ Away')
+            ax.set_ylabel('Team')
+            ax.set_title('Scores in Favor by Team')
+            ax.legend()
+            st.pyplot(fig)
+        with colb:
+            width = 0.5       # the width of the bars: can also be len(x) sequence
 
-        ax.set_ylabel('Team')
-        ax.set_title('Scores in Favor by Team')
-        ax.legend()
-        st.pyplot(fig)
-    with colb:
-        width = 0.5       # the width of the bars: can also be len(x) sequence
+            fig1, ax1 = plt.subplots()
 
-        fig1, ax1 = plt.subplots()
+            ax1.barh(team_s, barchar['Recieved_home'],width, label='Received @ Home',color='navy')
+            ax1.barh(team_s, barchar['Recieved_away'], width, left=barchar['Recieved_home'],
+                label='Received @ Away')
 
-        ax1.barh(team_s, barchar['Recieved_home'],width, label='Received @ Home',color='navy')
-        ax1.barh(team_s, barchar['Recieved_away'], width, left=barchar['Recieved_home'],
-            label='Received @ Away')
+            ax1.set_ylabel('Team')
+            ax1.set_title('Scores Against by Team')
+            ax1.legend()
+            st.pyplot(fig1)
 
-        ax1.set_ylabel('Team')
-        ax1.set_title('Scores Against by Team')
-        ax1.legend()
-        st.pyplot(fig1)
-
-    colc,cold = st.columns([2,2])
-    with colc:
-        fig_score_team = plt.figure()
-        sns.boxplot(x="Score", y="Team",
-            data=newmaster[newmaster.Division == options1])
-        st.pyplot(fig_score_team)
-    with cold:
-        fig_score2_team = plt.figure()
+        colc,cold = st.columns([2,2])
+        with colc:
+            fig_score_team = plt.figure()
+            sns.boxplot(x="Score", y="Team",
+                data=newmaster[newmaster.Division == options1])
+            st.pyplot(fig_score_team)
+        with cold:
+            st.subheader('Score Distribution')
+            grid_dist = sns.displot(newmaster[newmaster.Division == options1], x="Score", hue="Team_Status")
+            st.pyplot(grid_dist.figure)
         
-        sns.stripplot(x="Score", y="Team", hue='Team_Status', 
+        col_spar, col_spar_empty = st.columns([4,1])
+        with col_spar:
+            st.subheader('Score by Team and Status')
+            grid_spar = sns.catplot(x="Score", y="Team", hue='Team_Status',col='Game_Status',
             data=newmaster[newmaster.Division == options1])
-        st.pyplot(fig_score2_team)
-
+            st.pyplot(grid_spar)
+        with col_spar_empty:
+            st.empty()
     
+    with st.expander('Weather'):
 
+        col_w1, col_w2 = st.columns([2,2])
+        with col_w1:
+            st.subheader(' - Temperature (F)')
+            fig_temp = plt.figure()
+            sns.boxplot(x='Temp',y='Team',data=newmaster[newmaster.Division == options1])
+            st.pyplot(fig_temp)
 
+        with col_w2:
+            st.subheader(' - Humidity (%)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Humidity',y='Team',data=newmaster[newmaster.Division == options1])
+            st.pyplot(fig_hum)
+        
+        
+        col_w3, col_w4 = st.columns([2,2])
+        with col_w3:
+            st.subheader(' - Windspeed (m/h)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Windspeed',y='Team',data=newmaster[newmaster.Division == options1])
+            st.pyplot(fig_hum)
+        with col_w4:
+            st.subheader(' - Visibility (miles)')
+            fig_hum = plt.figure()
+            sns.boxplot(x='Visibility',y='Team',data=newmaster[newmaster.Division == options1])
+            st.pyplot(fig_hum)
+        
+        col_w5, col_w6 = st.columns([2,2])
+        with col_w5:
+            st.subheader('- Cast')
+            figcountscore = plt.figure()
+            sns.countplot(x="Team", hue="Cast",data=newmaster[newmaster.Division == options1])
+            plt.xticks(rotation=90)
 
+            st.pyplot(figcountscore)
 
+        with col_w6:
+            st.subheader('- # of Games and Cast')
+            figcountcast = plt.figure()
+            sns.countplot(x='Cast',data=newmaster[newmaster.Division == options1])
+            st.pyplot(figcountcast)
 
 with F_Team:
-    
     
 
     st.subheader('Findings by Team')
