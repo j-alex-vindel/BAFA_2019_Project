@@ -289,6 +289,3 @@ with F_Team:
         st.pyplot(fig7)
 
 
-
-with F_Game:
-    st.subheader('Information About Games')
