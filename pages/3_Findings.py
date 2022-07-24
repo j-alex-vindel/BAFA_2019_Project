@@ -34,7 +34,7 @@ F_General, F_Division,F_Team = st.tabs(['General Findings','Division','Team'])
 with F_General:
 
     with st.expander('About Scoring'):
-        if st.checkbox('Show Grap(h)s'):
+        if st.checkbox('Show Grap(h)s',key='Score'):
             col_a, col_b = st.columns([2,2])
             with col_a:
                 st.subheader('- Score')
@@ -58,7 +58,7 @@ with F_General:
                 st.empty()
 
     with st.expander('About Distance Traveled'):
-        if st.checkbox('Show Graph(s'):
+        if st.checkbox('Show Graph(s)',key='Travel'):
             col_c, col_d_e = st.columns([2,2])
             with col_c:
                 st.subheader('- Travel km')
@@ -70,7 +70,7 @@ with F_General:
                 st.empty()
 
     with st.expander('About Weather'):
-        if st.checkbox('Show Graph(s)'):
+        if st.checkbox('Show Graph(s)',key='Weather'):
     
             col_d, col_d1 =st.columns([2,2])
             with col_d:
@@ -130,7 +130,7 @@ with F_Division:
     
 
     with st.expander('Scores'):
-        if st.checkbox('Show Graph(s)'):
+        if st.checkbox('Show Graph(s)',key='Scores_division'):
             cola, colb,  = st.columns([2,2])
             with cola:
                 width = 0.5       # the width of the bars: can also be len(x) sequence
@@ -180,7 +180,7 @@ with F_Division:
                 st.empty()
     
     with st.expander('Weather'):
-        if st.checkbox('Show Graph(s)'):
+        if st.checkbox('Show Graph(s)',key='Weather_division'):
             col_w1, col_w2 = st.columns([2,2])
             with col_w1:
                 st.subheader(' - Temperature (F)')
@@ -235,7 +235,7 @@ with F_Team:
     scores_season_team = newmaster[['Date_day','Team','Division','Score','Opponent','Game_Status','Team_Status','Score_Type']][newmaster.Team == option_team].sort_values(by='Date_day')
     st.table(scores_season_team)
 
-    if st.checkbox('Show Graph(s)'):
+    if st.checkbox('Show Graph(s)',key='team'):
         cole , colf,colg = st.columns([2,3,3])
         with cole:
             st.markdown('######   Scores Ratio')
