@@ -193,7 +193,7 @@ with query_result:
 
                     st.pyplot(figcount)
             except ValueError:
-                st.write('Query retrived no information')
+                st.write('No Graphs to show -> empty query')
 
 
 
