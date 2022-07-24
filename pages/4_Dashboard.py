@@ -2,6 +2,8 @@ from datetime import date, datetime
 import streamlit as st
 import pandas as pd
 import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 @st.cache
 def query_builder(Div,HS,AS,GR,dataf,decisions): 
@@ -88,8 +90,9 @@ newmaster = pd.read_csv('pages/Data/BAFA_By_team_2019.csv',index_col=False)
 season_df['Date'] = season_df['Game_Date']+" "+season_df['Game_Time']
 season_df['Date'] = pd.to_datetime(season_df['Date'],infer_datetime_format=True)
 season_df['Game_day'] = season_df['Date'].dt.date
+season_df['Match'] = season_df['Home_Team']+' - '+season_df['Away_Team']
 
-master = season_df[['Date','Game_day','Home_Team','Away_Team','Home_Score','Away_Score','Division','Game_Result','Total_Score','Temp_home','Cast_home']]
+master = season_df[['Date','Game_day','Home_Team','Away_Team','Home_Score','Away_Score','Division','Game_Result','Total_Score','Temp_home','Cast_home','Match']]
 divisions = tuple(pd.unique(master['Division']).tolist())
 game_results = tuple(pd.unique(master['Game_Result']).tolist())
 
@@ -148,7 +151,7 @@ with st.expander('See Instructions'):
         - T  -> refers to tied games 
 
         Final note:
-        
+
         All queries are based on an 'and' operator
 
     """)
@@ -159,9 +162,44 @@ with query_result:
         st.write(text)
         graphs, raw = st.tabs(['Graphs','Query Result'])
         with graphs:
-            st.empty()
+            try:
+                colcast, colscore = st.columns([2,2])
+                with colcast:
+                    figcountcast = plt.figure()
+                    sns.countplot(x="Division", hue="Cast_home",data=query_df)
+                    plt.xticks(rotation=90)
+
+                    st.pyplot(figcountcast)
+                with colscore:
+                    grid_score = sns.catplot(x="Match", y="Home_Score",kind='bar', hue='Division',
+                        data=query_df)
+                    plt.xticks(rotation=89)
+                    st.pyplot(grid_score)
+                
+                coltotscores, colsomething = st.columns([2,2])
+                with coltotscores:
+                    f, ax = plt.subplots(figsize=(6, 8))
+                    sns.barplot(x='Total_Score',y='Match',data=query_df,label='Total Score',color='b')
+                    sns.set_color_codes('muted')
+                    sns.barplot(x='Home_Score',y='Match',data=query_df,label='Home Score',color='r')
+                    ax.legend(ncol=2, loc="lower right", frameon=True)
+                    sns.despine(left=True, bottom=True)
+                    st.pyplot(f)
+                
+                with colsomething:
+                    figcount = plt.figure()
+                    sns.countplot(x="Division", hue="Game_Result",data=query_df)
+                    plt.xticks(rotation=90)
+
+                    st.pyplot(figcount)
+            except ValueError:
+                st.write('Query retrived no information')
+
+
+
+
         with raw:
-            st.table(query_df)
+            st.table(query_df[['Home_Team','Away_Team','Home_Score','Away_Score','Division','Game_Result']])
 
     
 
