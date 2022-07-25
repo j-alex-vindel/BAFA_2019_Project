@@ -34,11 +34,7 @@ F_General, F_Division,F_Team = st.tabs(['General Findings','Division','Team'])
 with F_General:
 
     with st.expander('About Scoring'):
-<<<<<<< HEAD
-        if st.checkbox('Show Grap(h)s',key='Score'):
-=======
         if st.checkbox('Show Graph(s)',key='Score'):
->>>>>>> 57afdc17ae80ff36360e14864cbef848563b88f6
             col_a, col_b = st.columns([2,2])
             with col_a:
                 st.subheader('- Score')
