@@ -54,6 +54,5 @@ with colb:
 
        
 st.write('---')
-st.text(' ')
-st.write('---')
+
 

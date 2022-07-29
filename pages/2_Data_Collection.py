@@ -47,7 +47,7 @@ with ab_data:
 
 with questions:
     st.write('---')
-    st.write(' ')
+    st.write(' The crawlers and web scrapers used to collect the data can be looked [here](https://github.com/j-alex-vindel/DATA_BAFA) ')
     st.write('---')
     st.subheader('Questions')
     st.markdown('###### The idea is to be able to answer some questions such as:')
