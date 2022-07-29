@@ -17,6 +17,7 @@ st.markdown(
     """
     ### The pages within this App tell the story about how I used some libraries in Python :snake: to aquire data, analyze it and implement a model on it.  
     **👈 Select a Page for you to explore!
+    * If seeing from a portable device, on the left top corner one can tap to display a bar menu with the different options.
     ### Sections to explore in this App  
     - About BAFA :football: This page has some information about the British American Football Association (BAFA)
     - Data Collection and Questions :computer: Here one can find a brief explanation on how the data was collected and integrated 
