@@ -34,6 +34,12 @@ F_General, F_Division,F_Team = st.tabs(['General Findings','Division','Team'])
 with F_General:
 
     with st.expander('About Scoring'):
+        st.markdown('''### Some interesting findings related to scores are:
+        - The max scoring values come from the Premiership South and the SFC 2 North divisions.
+    - The avg. score in each division is around the 20 points.
+    - Teams which scored more than 40 points won their matches.
+    - The highest lossing score comes from the SFC 2 South at nearly 40 points while being a visiting team. 
+    - And The SFC 2 North has the highest loosing score while at home''')
         if st.checkbox('Show Graph(s)',key='Score'):
             col_a, col_b = st.columns([2,2])
             with col_a:
@@ -58,6 +64,12 @@ with F_General:
                 st.empty()
 
     with st.expander('About Distance Traveled'):
+        st.markdown(''' ##### The total traveled distance is the compilation of the km a team had to cover for a game for each division.
+        - The division with teams that had to cover the longest distance is the NFC 1 North.
+     - Followed by the Premiership North.
+     - This is understandable as both divisions have teams playing in parts of Scotland.
+        - Refer to the map in the Introduction to check the team spread.
+        ''')
         if st.checkbox('Show Graph(s)',key='Travel'):
             col_c, col_d_e = st.columns([2,2])
             with col_c:
@@ -70,6 +82,13 @@ with F_General:
                 st.empty()
 
     with st.expander('About Weather'):
+        st.markdown('''### Some interesting findings related to the weatjer conditions:
+        - Most division share a similar Temperature avg. not over 60 degrees (F). The exception being the Premiership South whose avg. is close to 60 degrees. We could say that temperature wise they all play under the same conditions.
+    - In terms of windspeed that coudl affect the pasing game. Most division play under a similar factor. However there are some outliers, in this case games where the windspeed could've been a factor on the passing yards.
+    - The SF2 West reported the highes windspeed at over 35 miles/hour
+    - It comes to no surprise that just a handful of games were played under a reportedly clear day. And the majority of games was played iether under a rainy or partly coludy day.
+        ''')
+
         if st.checkbox('Show Graph(s)',key='Weather'):
     
             col_d, col_d1 =st.columns([2,2])
@@ -93,10 +112,7 @@ with F_General:
                 sns.boxplot(x='Windspeed',y='Division',data=newmaster)
                 st.pyplot(fig_hum)
             with col_visib:
-                st.subheader(' - Visibility (miles)')
-                fig_hum = plt.figure()
-                sns.boxplot(x='Visibility',y='Division',data=newmaster)
-                st.pyplot(fig_hum)
+                st.empty()
             
             col_e, col_f = st.columns([2,2])
             with col_e:
