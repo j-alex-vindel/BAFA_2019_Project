@@ -5,14 +5,15 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-@st.cache
+
+@st.cache_data
 def query_builder(Div,HS,AS,GR,dataf,decisions): 
     
     hs_min, hs_max = HS
     as_min, as_max = AS
     if decisions == [False,False,False,False]: #[Divcheck,HS_check,AW_check,GR_check] 1
         message = f"##### No parameters selected / Choose parameter(s)"
-        
+        returned_df = None
         
     # Division combinations
     elif decisions == [True,True,True,False]: #Done 2
@@ -157,50 +158,57 @@ with st.expander('See Instructions'):
     """)
 
 with query_result:
+    if not query:
+        st.write(f'''### Select Parameter(s) and Press "Query"''')
+        st.write(f'''### See instructions in the box below ''')
+        
+
     if query:
         query_df, text = query_builder(choose_division,choose_homescore,choose_awayscore,choose_game_result,master,check_options)
-        st.write(text)
         graphs, raw = st.tabs(['Graphs','Query Result'])
-        with graphs:
-            try:
-                colcast, colscore = st.columns([2,2])
-                with colcast:
-                    figcountcast = plt.figure()
-                    sns.countplot(x="Division", hue="Cast_home",data=query_df)
-                    plt.xticks(rotation=90)
+        
+        if query_result != None:
+            st.write(text)
+            
+            with graphs:
+                try:
+                    colcast, colscore = st.columns([2,2])
+                    with colcast:
+                        figcountcast = plt.figure()
+                        sns.countplot(x="Division", hue="Cast_home",data=query_df)
+                        plt.xticks(rotation=90)
 
-                    st.pyplot(figcountcast)
-                with colscore:
-                    grid_score = sns.catplot(x="Match", y="Home_Score",kind='bar', hue='Division',
-                        data=query_df)
-                    plt.xticks(rotation=89)
-                    st.pyplot(grid_score)
-                
-                coltotscores, colsomething = st.columns([2,2])
-                with coltotscores:
-                    f, ax = plt.subplots(figsize=(6, 8))
-                    sns.barplot(x='Total_Score',y='Match',data=query_df,label='Total Score',color='b')
-                    sns.set_color_codes('muted')
-                    sns.barplot(x='Home_Score',y='Match',data=query_df,label='Home Score',color='r')
-                    ax.legend(ncol=2, loc="lower right", frameon=True)
-                    sns.despine(left=True, bottom=True)
-                    st.pyplot(f)
-                
-                with colsomething:
-                    figcount = plt.figure()
-                    sns.countplot(x="Division", hue="Game_Result",data=query_df)
-                    plt.xticks(rotation=90)
+                        st.pyplot(figcountcast)
+                    with colscore:
+                        grid_score = sns.catplot(x="Match", y="Home_Score",kind='bar', hue='Division',
+                            data=query_df)
+                        plt.xticks(rotation=89)
+                        st.pyplot(grid_score)
+                    
+                    coltotscores, colsomething = st.columns([2,2])
+                    with coltotscores:
+                        f, ax = plt.subplots(figsize=(6, 8))
+                        sns.barplot(x='Total_Score',y='Match',data=query_df,label='Total Score',color='b')
+                        sns.set_color_codes('muted')
+                        sns.barplot(x='Home_Score',y='Match',data=query_df,label='Home Score',color='r')
+                        ax.legend(ncol=2, loc="lower right", frameon=True)
+                        sns.despine(left=True, bottom=True)
+                        st.pyplot(f)
+                    
+                    with colsomething:
+                        figcount = plt.figure()
+                        sns.countplot(x="Division", hue="Game_Result",data=query_df)
+                        plt.xticks(rotation=90)
 
-                    st.pyplot(figcount)
-            except ValueError:
-                st.write('No Graphs to show -> empty query')
+                        st.pyplot(figcount)
+                except ValueError:
+                    st.write('### No Graphs to show -> empty query')
 
-
-
-
-        with raw:
-            st.table(query_df[['Home_Team','Away_Team','Home_Score','Away_Score','Division','Game_Result']])
-
+                with raw:
+                   if query_df != None:
+                        st.table(query_df)
+                   else:
+                        st.write(f"### No Data to Show")
     
 
    
