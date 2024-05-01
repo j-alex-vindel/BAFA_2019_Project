@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Ideas to Expand",
-    page_icon=":chart_with_upwards_trend:"
+    page_icon=":bulb:"
 )
 
 st.markdown('## Some ideas!')
