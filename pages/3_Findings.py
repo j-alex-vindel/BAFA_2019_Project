@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
 
-@st.cache
+@st.cache_data
 def da_thing(teams:list,dataframe):
     topie = {}
     tobarchart = {'Score_home':[],'Score_away':[],'Recieved_home':[],'Recieved_away':[]}
