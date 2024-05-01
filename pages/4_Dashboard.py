@@ -166,6 +166,7 @@ with query_result:
     if query:
         query_df, text = query_builder(choose_division,choose_homescore,choose_awayscore,choose_game_result,master,check_options)
         graphs, raw = st.tabs(['Graphs','Query Result'])
+        flag = True
         
         if query_result != None:
             st.write(text)
@@ -205,7 +206,7 @@ with query_result:
                     st.write('### No Graphs to show -> empty query')
 
                 with raw:
-                   if query_df != None:
+                   if flag:
                         st.table(query_df)
                    else:
                         st.write(f"### No Data to Show")
